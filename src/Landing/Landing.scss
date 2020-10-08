@@ -1,0 +1,8 @@
+main {
+  display: flex;
+  flex: 1; // Expand to fill the rest of the screen.
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  max-height: 920px;
+}

@@ -1,0 +1,80 @@
+
+
+
+.header-text {
+  font-family: 'Merriweather', serif;
+  text-align: left;
+  font-weight: bold;
+  font-size: 44px;
+  margin-top: 7px;
+  color: #434343;
+}
+
+.main-font-smaller{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-size: 20px;
+  margin-top: 7px;
+  color: #434343;
+}
+
+.plan-buttonstyle {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  outline-style: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: blue;
+  right: 5%;
+  
+  
+}
+@media screen and (max-width: 768px) {
+  .plan-buttonstyle {
+  position: fixed;
+  bottom: 10vw;
+  }
+}
+
+.myplan-buttonstyle {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  text-align: left;
+  font-size: 25px;
+  font-weight: bold;
+  outline-style: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #87c003;
+  border-radius: 15px;
+}
+
+.modal-buttonstyle {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  text-align: left;
+  font-size: 25px;
+  font-weight: bold;
+  outline-style: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #87c003;
+  border-radius: 15px;
+
+}
+
+.modal-header {
+  border-bottom: 0 none;
+}
+.modal-footer {
+  border-top: 0 none;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.box {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
