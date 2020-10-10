@@ -24,7 +24,6 @@ const getClientEnvironment = require('./env');
 const ModuleNotFoundPlugin = require('react-dev-utils/ModuleNotFoundPlugin');
 const ForkTsCheckerWebpackPlugin = require('react-dev-utils/ForkTsCheckerWebpackPlugin');
 const typescriptFormatter = require('react-dev-utils/typescriptFormatter');
-
 const postcssNormalize = require('postcss-normalize');
 
 const appPackageJson = require(paths.appPackageJson);
@@ -292,6 +291,7 @@ module.exports = function(webpackEnv) {
         // Support React Native Web
         // https://www.smashingmagazine.com/2016/08/a-glimpse-into-the-future-with-react-native-for-web/
         'react-native': 'react-native-web',
+        'shared': path.resolve(paths.appSrc, 'shared'),
         // Allows for better profiling with ReactDevTools
         ...(isEnvProductionProfile && {
           'react-dom$': 'react-dom/profiling',
@@ -371,6 +371,22 @@ module.exports = function(webpackEnv) {
                 ),
                 
                 plugins: [
+                  ["babel-plugin-react-css-modules",
+                    {
+                      // has to match scss localidentname
+                      generateScopedName: '[local]-[hash:base64:6]',
+                      attributeNames: { activeStyleName: "active" }, 
+                      autoResolveMultipleImports: true, // import more than one scss
+                      filetypes: {
+                        ".scss": {
+                          syntax: 'postcss-scss'
+                        },
+                        ".sass": {
+                          "syntax": "postcss-sass"
+                        },
+                      }
+                    }
+                  ],
                   [
                     require.resolve('babel-plugin-named-asset-import'),
                     {
@@ -448,7 +464,7 @@ module.exports = function(webpackEnv) {
                 sourceMap: isEnvProduction && shouldUseSourceMap,
                 modules: {
                   // getLocalIdent: getCSSModuleLocalIdent,
-                  localIdentName: '[local]-[hash:base64:5]',
+                  localIdentName: '[local]-[hash:base64:6]',
                 },
               }),
             },
@@ -480,7 +496,8 @@ module.exports = function(webpackEnv) {
                   importLoaders: 3,
                   sourceMap: isEnvProduction && shouldUseSourceMap,
                   modules: {
-                    getLocalIdent: getCSSModuleLocalIdent,
+                    // getLocalIdent: getCSSModuleLocalIdent,
+                    localIdentName: '[local]-[hash:base64:6]',
                   },
                 },
                 'sass-loader'

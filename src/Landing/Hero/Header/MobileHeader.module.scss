@@ -1,0 +1,26 @@
+@import '~shared/styles/main';
+
+.wrapperMobile {
+  @include media-min-width(lg) {
+    display: none;
+  }
+}
+
+.mobileButtonContainer {
+  display: flex;
+  align-items: center;
+}
+
+.mobileAppButton {
+  margin-right: 16px;
+}
+
+.menuIcon {
+  cursor: pointer;
+  line-height: 0;
+  color: var(--white);
+}
+
+:global(.colorSchemeWhite) .menuIcon {
+  color: var(--white);
+}

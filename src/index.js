@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.scss';
-
+import './global.scss';
 import AppMount from './AppMount';
 
 ReactDOM.render(

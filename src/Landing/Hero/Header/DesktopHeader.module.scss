@@ -1,0 +1,26 @@
+@import '~shared/styles/main';
+
+.wrapperDesktop {
+  display: none;
+
+  @include media-min-width(lg) {
+    display:flex;
+  }
+}
+
+.links {
+  flex: 1 1 auto;
+  text-align: center;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 600;
+}
+
+.link {
+  margin: 10px;
+  padding: 10px;
+}
+
+:global(.colorSchemeWhite) .link {
+  color: var(--white);
+}

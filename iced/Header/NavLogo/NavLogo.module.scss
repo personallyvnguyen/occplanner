@@ -10,16 +10,16 @@
   @include media-breakpoint-up(md) {
     font-size: 3.25rem;
   }
+}
 
-  .leftLogo {
-    color: #ff9900;
-  }
+.leftLogo {
+  color: #ff9900;
+}
 
-  .rightLogo {
-    color: #0000ff;
-  }
+.rightLogo {
+  color: #0000ff;
+}
 
-  a:hover {
-    text-decoration: none;
-  }
+.link {
+  text-decoration: none;
 }

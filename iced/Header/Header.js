@@ -1,15 +1,13 @@
 import React from 'react';
-import './Header.scss'
+import './Header.module.scss'
 
 import DesktopNavbar from './DesktopNavbar/DesktopNavbar';
 import NavLogo from './NavLogo/NavLogo';
-import TogglerIcon from './TogglerIcon/TogglerIcon';
 
 const Header = () => (
-  <header>
-    <nav>
+  <header styleName="header">
+    <nav styleName="nav">
       <NavLogo />
-      <TogglerIcon />
       <DesktopNavbar />
     </nav>
   </header>

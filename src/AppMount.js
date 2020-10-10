@@ -4,16 +4,15 @@ import {
   Route,
   Switch,
 } from 'react-router-dom';
-
 import Landing from './Landing/Landing';
 
 const AppMount = () => (
   <Router>
-    <Switch>
-      <Route path="/">
-        <Landing />
-      </Route>
-    </Switch>
+    <div style={{height: '100%'}}>
+      <Switch>
+        <Route path="/" component={Landing} />
+      </Switch>
+    </div>
   </Router>
 );
 
