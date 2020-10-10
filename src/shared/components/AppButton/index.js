@@ -2,9 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './styles.module.scss';
 
-const AppButton = () => (
+const AppButton = ({className}) => (
   <div styleName="appButton">
-    <Link className="button buttonWhite buttonSmall" to="/">Open Discord</Link>
+    <Link className={`button buttonWhite buttonSmall ${className}`} to="/">Open Discord</Link>
   </div>
 );
 

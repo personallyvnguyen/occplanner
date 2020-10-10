@@ -1,5 +1,5 @@
 import React from 'react';
-import './MobileHeader.module.scss';
+import styles from './MobileHeader.module.scss';
 import AppButton from 'shared/components/AppButton';
 import Logo from 'shared/components/Logo';
 
@@ -8,7 +8,7 @@ const MobileHeader = () => (
     <nav className="nav">
       <Logo />
       <div styleName="mobileButtonContainer">
-        <AppButton styleName="mobileAppButton" />
+        <AppButton className={styles.mobileAppButton} />
         <MenuIcon />
       </div>
     </nav>
