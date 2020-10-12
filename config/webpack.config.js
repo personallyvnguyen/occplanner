@@ -368,25 +368,8 @@ module.exports = function(webpackEnv) {
               options: {
                 customize: require.resolve(
                   'babel-preset-react-app/webpack-overrides'
-                ),
-                
+                ),          
                 plugins: [
-                  ["babel-plugin-react-css-modules",
-                    {
-                      // has to match scss localidentname
-                      generateScopedName: '[local]-[hash:base64:6]',
-                      attributeNames: { activeStyleName: "active" }, 
-                      autoResolveMultipleImports: true, // import more than one scss
-                      filetypes: {
-                        ".scss": {
-                          syntax: 'postcss-scss'
-                        },
-                        ".sass": {
-                          "syntax": "postcss-sass"
-                        },
-                      }
-                    }
-                  ],
                   [
                     require.resolve('babel-plugin-named-asset-import'),
                     {

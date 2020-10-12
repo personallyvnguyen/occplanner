@@ -1,0 +1,48 @@
+.header {
+  height: 24px;
+  margin-bottom: 40px;
+}
+
+.backButton {
+  display: flex;
+  align-items: center;
+  color: var(--not-quite-black);
+  cursor: pointer;
+  margin: -8px;
+  padding: 8px;
+}
+
+.backIcon {
+  transform: rotate(90deg);
+}
+
+.backText {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.sectionName {
+  color: var(--black);
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: 500;
+}
+
+.list {
+  margin-top: 8px;
+}
+
+.articleLink {
+  display: block;
+  padding: 8px 16px;
+  margin-right: -16px;
+  color: #4f5660;
+}
+
+.groupSpacer {
+  height: 1px;
+  width: 100%;
+  background: #ebedef;
+  margin-top: 16px;
+  margin-bottom: 24px;
+}

@@ -1,0 +1,24 @@
+.link {
+  margin: 10px;
+  padding: 10px;
+}
+
+.logo {
+  flex: 0 0 auto;
+}
+
+.menuIcon {
+  cursor: pointer;
+  line-height: 0;
+  color: var(--white);
+}
+
+.colorSchemeWhite {
+  .link, .logo, .menuIcon {
+    color: var(--white);
+  }
+}
+
+.button {
+  white-space: nowrap;
+}
