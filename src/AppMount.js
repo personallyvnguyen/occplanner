@@ -1,19 +1,18 @@
-import React from 'react';
-import {
-  BrowserRouter as Router,
-  Route,
-  Switch,
-} from 'react-router-dom';
-import Landing from './pages/Landing/Landing';
+import React, {useEffect} from 'react';
+import {BrowserRouter, Switch} from 'react-router-dom';
+import Routes from './config/Routes';
+import useHydrateApp from './utils/useHydrateApp';
 
-const AppMount = () => (
-  <Router>
-    <div style={{height: '100%'}}>
-      <Switch>
-        <Route path="/" component={Landing} />
-      </Switch>
-    </div>
-  </Router>
-);
-
-export default AppMount;
+export default function AppMount() {
+  const hydrateApp = useHydrateApp();
+  useEffect(() => hydrateApp());
+  return (
+    <BrowserRouter>
+      <div style={{height:'100%'}}>
+        <Switch>
+          <Routes />
+        </Switch>
+      </div>
+    </BrowserRouter>
+  );
+};

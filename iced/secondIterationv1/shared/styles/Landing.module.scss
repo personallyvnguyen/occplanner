@@ -1,0 +1,57 @@
+@import '~shared/styles/main';
+
+// Header
+.headerButtons {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+// HeroContent
+.heroContent {
+  margin-bottom: 0;
+}
+.heroContainer {
+  margin: 4rem auto;
+  @include media-min-width(lg) {
+    max-width: 824px;
+  }
+}
+.leadContainer {
+  @include media-min-width(lg) {
+    max-width: 628px;
+  }
+}
+.ctaContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.twoButtons {
+  margin-right: 24px;
+}
+
+// Content
+.contentContainer {
+  margin-top: 5rem;
+}
+.featuretteDivider {
+  margin: 5rem 0;
+}
+.featuretteHeading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+  @media (min-width: 40em) {
+    font-size: 50px;
+  }
+  @media (min-width: 62em) {
+    margin-top: 7rem;
+  }
+}
+
+// Footer
+.footer {
+  margin-bottom: 5rem;
+}

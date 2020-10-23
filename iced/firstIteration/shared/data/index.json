@@ -1,0 +1,7765 @@
+{
+  "Accounting": {
+    "A101 - Financial Accounting": {
+      "Johnson, Douglas": [
+        "40002",
+        "41516"
+      ],
+      "Morgan, Arabian": [
+        "40004",
+        "41743"
+      ],
+      "Neil, Jeanne": [
+        "40001"
+      ],
+      "Ely, Cynthia Jean": [
+        "40574"
+      ],
+      "Mitchell, Peter": [
+        "40003"
+      ]
+    },
+    "A102 - Managerial Accounting": {
+      "Johnson, Douglas": [
+        "41744",
+        "42455"
+      ],
+      "Neil, Jeanne": [
+        "40006",
+        "40008"
+      ],
+      "Morgan, Arabian": [
+        "40010"
+      ],
+      "Ely, Cynthia Jean": [
+        "40507"
+      ]
+    },
+    "A110 - Excel for Accounting & Finance": {
+      "Moore, Adam": [
+        "40999"
+      ]
+    },
+    "A112 - Acct with QuickBooks": {
+      "Moore, Adam": [
+        "46107"
+      ]
+    },
+    "A116 - Business Taxation": {
+      "Ringbauer, Miklos": [
+        "41612"
+      ]
+    },
+    "A213 - Intermediate Accounting 2": {
+      "Mitchell, Peter": [
+        "41057"
+      ]
+    },
+    "A218 - Auditing": {
+      "Neil, Jeanne": [
+        "41293"
+      ]
+    }
+  },
+  "Airline Travel Careers": {
+    "A117 - Aviation Management": {
+      "N/A": [
+        "41945"
+      ]
+    },
+    "A139 - Flight Attendant Qualification": {
+      "N/A": [
+        "42129"
+      ]
+    }
+  },
+  "Allied Health": {
+    "A001N - Personal Care Aide I": {
+      "N/A": [
+        "41994"
+      ]
+    },
+    "A002N - Personal Care Aide II": {
+      "Loveland-Grace, Tierney": [
+        "41995"
+      ]
+    },
+    "A010 - Health Occupations": {
+      "Plum, Caryn": [
+        "40055"
+      ]
+    },
+    "A111 - Medical Terminology": {
+      "Cottrell, Lynne": [
+        "41344",
+        "45782"
+      ]
+    },
+    "A112 - Intro to Autism/ABA": {
+      "N/A": [
+        "42078"
+      ]
+    },
+    "A120 - Human Diseases": {
+      "Riggio, Alison": [
+        "41345"
+      ]
+    },
+    "A130 - Applied Pharmacology": {
+      "Cottrell, Lynne": [
+        "41346"
+      ]
+    }
+  },
+  "Anthropology": {
+    "A100 - Cultural Anthropology": {
+      "N/A": [
+        "40176",
+        "40596",
+        "41370",
+        "41586"
+      ],
+      "Green, Ulrike": [
+        "40063",
+        "40064",
+        "40396"
+      ],
+      "Montagne, Meredith": [
+        "40326"
+      ],
+      "Plascencia, Moises": [
+        "40212"
+      ],
+      "Salsitz, Maureen": [
+        "40072"
+      ]
+    },
+    "A100H - Cultural Anthro Honors": {
+      "Green, Ulrike": [
+        "40586"
+      ]
+    },
+    "A102 - Native American": {
+      "Salsitz, Maureen": [
+        "41044"
+      ]
+    },
+    "A185 - Physical Anthropology": {
+      "N/A": [
+        "41156"
+      ],
+      "Wong, Billy": [
+        "40087"
+      ],
+      "Montagne, Meredith": [
+        "40092",
+        "40471",
+        "40569",
+        "41388"
+      ]
+    },
+    "A185L - Physical Anthropology Lab": {
+      "Wong, Billy": [
+        "40099"
+      ],
+      "Montagne, Meredith": [
+        "40240",
+        "40298"
+      ],
+      "N/A": [
+        "40069"
+      ]
+    },
+    "A190 - Intro to Linguistic Anth": {
+      "Davidson, Matthew": [
+        "40273",
+        "40299"
+      ]
+    },
+    "A280 - Introduction to Archaeology": {
+      "Green, Ulrike": [
+        "40056"
+      ]
+    }
+  },
+  "Architecture": {
+    "A004N - Intro FrameCAD Steel Framng NC": {
+      "Kings, Rose Anne": [
+        "42500"
+      ]
+    },
+    "A021N - FrameCAD Studio 1 NC": {
+      "Figueroa, Luzanna": [
+        "42501"
+      ]
+    },
+    "A022N - FrameCAD Studio 2 NC": {
+      "Figueroa, Luzanna": [
+        "42503"
+      ]
+    },
+    "A101 - Intro Environ Sustainability": {
+      "Kings, Rose Anne": [
+        "42589"
+      ]
+    },
+    "A102 - Intro to Environmental Studies": {
+      "Kings, Rose Anne": [
+        "42499"
+      ]
+    },
+    "A104 - Intro FrameCAD Steel Framing": {
+      "Kings, Rose Anne": [
+        "42318"
+      ]
+    },
+    "A105 - Drawing/Design Visualization 1": {
+      "Garcia, Steven": [
+        "41654"
+      ],
+      "Kemmerer, Marcus": [
+        "40308"
+      ],
+      "N/A": [
+        "40556"
+      ],
+      "Obnial, Christine": [
+        "40861"
+      ]
+    },
+    "A107 - Tiny House Design": {
+      "N/A": [
+        "42319"
+      ]
+    },
+    "A110H - Intro to Architecture Honors": {
+      "Kings, Rose Anne": [
+        "42061"
+      ]
+    },
+    "A115 - Architectural Design/Theory 1": {
+      "Kaeni, Atieh": [
+        "40026"
+      ],
+      "N/A": [
+        "40073"
+      ]
+    },
+    "A121 - FrameCAD Studio 1": {
+      "Figueroa, Luzanna": [
+        "42320"
+      ]
+    },
+    "A122 - FrameCAD Studio 2": {
+      "Figueroa, Luzanna": [
+        "42321"
+      ]
+    },
+    "A150 - CAD 2-D for Architecture": {
+      "Silva, Carlos": [
+        "46022"
+      ]
+    },
+    "A155 - BIM 1 for Architecture": {
+      "Kushin, Miles": [
+        "41564"
+      ],
+      "Nanavati, Paras": [
+        "41520"
+      ]
+    },
+    "A156 - BIM 2 for Architecture": {
+      "Spencer, James": [
+        "41005"
+      ]
+    },
+    "A157 - BIM Multidisciplinary": {
+      "Nanavati, Paras": [
+        "42141"
+      ]
+    },
+    "A160 - 3-D Modeling:SketchUp 1": {
+      "Sarafian, Joseph": [
+        "41124"
+      ]
+    },
+    "A162 - 3-D Modeling: Rhino 1": {
+      "Fuchs Jr, Steven": [
+        "40805"
+      ]
+    },
+    "A163 - 3-D Modeling:Rhino 2": {
+      "Fuchs Jr, Steven": [
+        "41655"
+      ]
+    },
+    "A170 - Intro to Design Fabrication": {
+      "Fuchs Jr, Steven": [
+        "41965"
+      ]
+    },
+    "A180 - Architecturl Constructn Docs": {
+      "Sarafian, Joseph": [
+        "40592"
+      ]
+    },
+    "A205 - Arch Dwg/Desgn Visual 2": {
+      "Obnial, Christine": [
+        "41864"
+      ]
+    },
+    "A215 - Architectural Design/Theory 2": {
+      "Sarafian, Joseph": [
+        "40051"
+      ]
+    },
+    "A220 - Bldg Materials/Systems": {
+      "Sarafian, Joseph": [
+        "40108"
+      ]
+    },
+    "A230H - Arch Design/Theory 3 Honors": {
+      "Abernathy, Dean": [
+        "41138"
+      ]
+    },
+    "A296 - History of Architecture 2": {
+      "Abernathy, Dean": [
+        "40076"
+      ]
+    },
+    "A296H - Hist of Architecture 2 Honors": {
+      "Abernathy, Dean": [
+        "40967"
+      ]
+    }
+  },
+  "Art": {
+    "A100 - Western Art Prehistory-Gothic": {
+      "Plunkett, Angela": [
+        "41444"
+      ],
+      "Gomez Adams, Nancy": [
+        "41445"
+      ]
+    },
+    "A101 - Western Art Ren-Modern": {
+      "Murashige, Stanley": [
+        "40829"
+      ]
+    },
+    "A101H - Western Art Ren-Modern Honors": {
+      "Plunkett, Angela": [
+        "40850"
+      ]
+    },
+    "A102 - Survey Modern/Contemporary Art": {
+      "Doyle, Dana": [
+        "40079"
+      ]
+    },
+    "A103 - Survey of Asian Art": {
+      "Doyle, Dana": [
+        "42296"
+      ]
+    },
+    "A110 - Color & Design: 2-D": {
+      "Sheehan, Katherine": [
+        "41446"
+      ],
+      "Whitridge, Roger": [
+        "40049"
+      ],
+      "Sabine-Wolf, Kerri": [
+        "40503"
+      ],
+      "Shoro, Natasha": [
+        "40030"
+      ],
+      "Scianni, Kevin": [
+        "40081"
+      ],
+      "Erbstoesser, Rebecca": [
+        "42297"
+      ]
+    },
+    "A111 - Color & Design: 3-D": {
+      "Gillette, Laurie": [
+        "41674"
+      ],
+      "Thomas, Noah": [
+        "40084"
+      ],
+      "Means, Leland": [
+        "40082"
+      ]
+    },
+    "A116 - Furniture Making/Design": {
+      "Peters, Timothy": [
+        "40537"
+      ]
+    },
+    "A118 - Visual Communication 1": {
+      "Kerins, John": [
+        "45993"
+      ]
+    },
+    "A120 - Beginning Drawing": {
+      "Noot, Dakota": [
+        "42479"
+      ],
+      "Sheehan, Katherine": [
+        "40089",
+        "42480"
+      ],
+      "Whitridge, Roger": [
+        "45994"
+      ],
+      "Galindo, James": [
+        "45995"
+      ],
+      "Rokni, Sara": [
+        "40090"
+      ],
+      "Aispuro, Eduardo": [
+        "40365"
+      ],
+      "Cotman, Cheryl": [
+        "40222"
+      ],
+      "Means, Leland": [
+        "41447"
+      ],
+      "Smith, Timothy": [
+        "41870"
+      ]
+    },
+    "A121 - Life Drawing 1": {
+      "Topping, Holly": [
+        "40469",
+        "40525"
+      ]
+    },
+    "A122 - Human Anat for Artists": {
+      "Toyooka Smith, Yuki": [
+        "45996"
+      ]
+    },
+    "A124 - Advanced Drawing": {
+      "Garrison, Kimberly": [
+        "40932"
+      ]
+    },
+    "A125 - Perspective Drawing": {
+      "Paxton, Leland": [
+        "42618"
+      ]
+    },
+    "A130 - Painting 1": {
+      "Whitridge, Roger": [
+        "40096"
+      ],
+      "Topping, Holly": [
+        "40224"
+      ]
+    },
+    "A131 - Painting 2": {
+      "Whitridge, Roger": [
+        "40093"
+      ],
+      "Topping, Holly": [
+        "40225"
+      ]
+    },
+    "A132 - Painting 3": {
+      "Whitridge, Roger": [
+        "41668"
+      ],
+      "Topping, Holly": [
+        "41669"
+      ]
+    },
+    "A135 - Digital Painting": {
+      "Kerins, John": [
+        "42185"
+      ]
+    },
+    "A141 - Sculpture 1": {
+      "Means, Leland": [
+        "40100"
+      ]
+    },
+    "A142 - Life Sculpture 1": {
+      "O&#39;Barr, Marianne": [
+        "42298"
+      ]
+    },
+    "A143 - Story Illustration Tech": {
+      "Kerins, John": [
+        "40737"
+      ]
+    },
+    "A144 - Illustration 2 - Sequential": {
+      "Kerins, John": [
+        "41339"
+      ]
+    },
+    "A147 - Jewelry 1": {
+      "Radosevich, John": [
+        "41641"
+      ]
+    },
+    "A148 - World History of Ceramics": {
+      "Myers, Kevin": [
+        "41448"
+      ]
+    },
+    "A150 - Ceramics 1": {
+      "Myers, Kevin": [
+        "40103",
+        "40104",
+        "41449"
+      ],
+      "Jernigan, Samuel": [
+        "41642"
+      ]
+    },
+    "A151 - Ceramics 2": {
+      "Myers, Kevin": [
+        "40105"
+      ]
+    },
+    "A152 - Intermediate Ceramic Design": {
+      "Myers, Kevin": [
+        "41539"
+      ]
+    },
+    "A153 - Ceramics and Its Narrative": {
+      "Myers, Kevin": [
+        "41540"
+      ]
+    },
+    "A175 - Screen Process Printing 1": {
+      "Brown, Robert": [
+        "40803"
+      ]
+    },
+    "A176 - Screen Process Printng II": {
+      "Brown, Robert": [
+        "41643"
+      ]
+    },
+    "A180 - Professional Studies": {
+      "Garrison, Kimberly": [
+        "41352"
+      ]
+    },
+    "A220 - Figure Composition": {
+      "Topping, Holly": [
+        "45997"
+      ]
+    },
+    "A247 - Jewelry 2": {
+      "Radosevich, John": [
+        "41645"
+      ]
+    },
+    "A255 - Entertainment Art Project": {
+      "Kerins, John": [
+        "42299"
+      ]
+    },
+    "A269 - Cartooning 1": {
+      "Williams, Patrick": [
+        "40540"
+      ]
+    },
+    "A270 - Cartooning 2": {
+      "Williams, Patrick": [
+        "40541"
+      ]
+    }
+  },
+  "Astronomy": {
+    "A100 - Introduction to Astronomy": {
+      "N/A": [
+        "45967"
+      ],
+      "Fang, Jerome": [
+        "41873",
+        "45977"
+      ],
+      "Asbell, Jessica": [
+        "40115",
+        "41968"
+      ]
+    },
+    "A100H - Introduction Astronomy Honors": {
+      "Asbell, Jessica": [
+        "41800"
+      ]
+    },
+    "A100L - Introduction to Astronomy Lab": {
+      "Fang, Jerome": [
+        "41852",
+        "45978"
+      ],
+      "Timmons, Nicholas": [
+        "40117"
+      ],
+      "Lee, Kaoru": [
+        "41865",
+        "41922",
+        "41969"
+      ],
+      "Asbell, Jessica": [
+        "41973",
+        "42007"
+      ]
+    },
+    "A100M - Intro Astronomy Lab Honors": {
+      "Asbell, Jessica": [
+        "42592"
+      ]
+    },
+    "A102 - Stellar Astronomy": {
+      "Asbell, Jessica": [
+        "45969"
+      ]
+    }
+  },
+  "Aviation Maintenance Tech": {
+    "A160 - Airframe & Pwrplnt Elec FAA": {
+      "N/A": [
+        "46025"
+      ],
+      "Franz, Ronald": [
+        "40121"
+      ]
+    },
+    "A160L - Arfrm & Prplnt Elec Lab FAA": {
+      "Franz, Ronald": [
+        "46023"
+      ],
+      "Kimball, Donald": [
+        "46024"
+      ]
+    },
+    "A161 - Arfrm Sheet Mtl/Cmposte FAA": {
+      "Carter, John": [
+        "40122"
+      ]
+    },
+    "A162 - Airframe Asmbly/Rig/ECS FAA": {
+      "Carter, John": [
+        "40124"
+      ]
+    },
+    "A162L - Arfm Asmbly/Rig/Ecs Lab FAA": {
+      "Carter, John": [
+        "46026"
+      ],
+      "N/A": [
+        "46027"
+      ]
+    },
+    "A172 - Pwrplnt Prplr/Lube Sys FAA": {
+      "Carter, John": [
+        "40125"
+      ]
+    },
+    "A172L - Prpnt Prplr/Lub Sys Lab FAA": {
+      "N/A": [
+        "46028"
+      ],
+      "Carter, John": [
+        "46029"
+      ]
+    },
+    "A173 - Pwrplnt Gas Turbine Eng FAA": {
+      "Franz, Ronald": [
+        "40126"
+      ]
+    },
+    "A173L - Prpnt Gas Trbin Eng Lab FAA": {
+      "Lee, Robert": [
+        "46030"
+      ],
+      "Franz, Ronald": [
+        "46031"
+      ]
+    },
+    "A181 - Arfrm Comm/Nvgation Sys FAA": {
+      "N/A": [
+        "40466"
+      ]
+    },
+    "A181L - Arfm Comm/Nvgtn Sys Lab FAA": {
+      "N/A": [
+        "46033"
+      ]
+    },
+    "A184 - Avionics Install/Trblshtg": {
+      "N/A": [
+        "42255"
+      ]
+    }
+  },
+  "Aviation Pilot Training": {
+    "A120 - Private Pilot Flight Lab": {
+      "Harriman, Stanley": [
+        "41542"
+      ]
+    },
+    "A121 - Instrument Pilot Flight Lab": {
+      "Harriman, Stanley": [
+        "41543"
+      ]
+    },
+    "A122 - Commercial Pilot Flight Lab": {
+      "Harriman, Stanley": [
+        "41368"
+      ]
+    },
+    "A123 - Privat Pilot Advanc Flight Lab": {
+      "Harriman, Stanley": [
+        "41544"
+      ]
+    },
+    "A124 - Adv Commercl Pilot Flight Lab": {
+      "Harriman, Stanley": [
+        "41545"
+      ]
+    },
+    "A127 - Adv Instrmnt Pilot Flight  Lab": {
+      "Harriman, Stanley": [
+        "42506"
+      ]
+    },
+    "A128 - Flight Instructor Flight Lab": {
+      "Harriman, Stanley": [
+        "42144"
+      ]
+    },
+    "A129 - Adv Flght Instructor Flght Lab": {
+      "Harriman, Stanley": [
+        "42145"
+      ]
+    },
+    "A130 - Private Pilot Grnd Sch": {
+      "Harriman, Stanley": [
+        "40040",
+        "41150"
+      ]
+    },
+    "A131 - Intro to Unmanned Aircraft Sys": {
+      "N/A": [
+        "42146"
+      ]
+    },
+    "A132 - Aviation Navigation": {
+      "Harriman, Stanley": [
+        "40968"
+      ]
+    },
+    "A133 - Aviation-Meteorology": {
+      "Mann, Michael": [
+        "40807",
+        "42507"
+      ]
+    },
+    "A134 - Av Instrument Grnd Schl": {
+      "Arcemont, Jay": [
+        "41558"
+      ]
+    },
+    "A138 - Aerodynamics": {
+      "Mann, Michael": [
+        "40808"
+      ]
+    },
+    "A139 - Commercl Pilot Grnd Sch": {
+      "Harriman, Stanley": [
+        "40727"
+      ]
+    },
+    "A140 - Flt Instructor Grnd Sch": {
+      "Arcemont, Jay": [
+        "41758"
+      ]
+    },
+    "A141 - Instrument Flight Simulatr Lab": {
+      "Harriman, Stanley": [
+        "41759"
+      ]
+    },
+    "A144 - Aviation Flight Coordinator": {
+      "Arcemont, Jay": [
+        "42158"
+      ]
+    },
+    "A145 - Airline Transport Pilot Ground": {
+      "Skytte, Chris": [
+        "42508"
+      ]
+    },
+    "A151 - Unmanned Aircraft Systems Lab": {
+      "Jones, Joel": [
+        "42159"
+      ]
+    },
+    "A180 - Basic Air Transportatn": {
+      "Skytte, Chris": [
+        "40969"
+      ]
+    }
+  },
+  "Biology": {
+    "A020 - Connections in Cell & Mol Biol": {
+      "Sogo, Lisa": [
+        "42226",
+        "42240"
+      ]
+    },
+    "A100 - Principles of Biology": {
+      "Lew, Chih": [
+        "40209",
+        "41451"
+      ],
+      "Goerrissen, Jan": [
+        "40217",
+        "40220"
+      ],
+      "N/A": [
+        "40128"
+      ]
+    },
+    "A100L - Principles of Biology Lab": {
+      "N/A": [
+        "41452",
+        "42034",
+        "42035"
+      ],
+      "Lee, Chrissie": [
+        "40270"
+      ],
+      "Goerrissen, Jan": [
+        "40131",
+        "40413"
+      ],
+      "Moniz, Pamela": [
+        "41719"
+      ],
+      "Lew, Chih": [
+        "40086",
+        "40095"
+      ],
+      "Faulkner, Jill": [
+        "40295"
+      ],
+      "Michelotti, Ronald": [
+        "40129",
+        "40342"
+      ],
+      "Knauer, Mary": [
+        "40265"
+      ]
+    },
+    "A125 - Human Biology": {
+      "Sogo, Lisa": [
+        "40043"
+      ]
+    },
+    "A180 - Intro to Bio for Majors 1": {
+      "Bialecki, Michael": [
+        "45938"
+      ],
+      "Sogo, Lisa": [
+        "41720"
+      ]
+    },
+    "A180L - Intro to Bio for Majors 1 Lab": {
+      "Bialecki, Michael": [
+        "45939",
+        "45942",
+        "45943"
+      ],
+      "N/A": [
+        "45940",
+        "45944"
+      ],
+      "Sogo, Lisa": [
+        "45941"
+      ],
+      "Knauer, Mary": [
+        "45945"
+      ]
+    },
+    "A182 - Zoology": {
+      "Elliott, Kelli": [
+        "40312"
+      ]
+    },
+    "A182L - Zoology Lab": {
+      "Elliott, Kelli": [
+        "40341"
+      ]
+    },
+    "A183 - Botany": {
+      "Allen, Robert": [
+        "40137"
+      ]
+    },
+    "A183L - Botany Lab": {
+      "Allen, Robert": [
+        "40135"
+      ]
+    },
+    "A185 - Intro to Bio for Majors 2": {
+      "Lew, Chih": [
+        "41567"
+      ],
+      "Perkins, Marc": [
+        "41629"
+      ]
+    },
+    "A185L - Intro to Bio for Majors 2 Lab": {
+      "Rodela, Meghan": [
+        "40262"
+      ],
+      "Moniz, Pamela": [
+        "40431"
+      ],
+      "Perkins, Marc": [
+        "40435"
+      ],
+      "Whitlow, Lane": [
+        "41630"
+      ]
+    },
+    "A210 - General Microbiology": {
+      "Boyer, Derek": [
+        "40059"
+      ],
+      "Wells, Julie": [
+        "41721"
+      ]
+    },
+    "A210L - General Microbiology Lab": {
+      "Wells, Julie": [
+        "40062",
+        "40436",
+        "40543"
+      ],
+      "Boyer, Derek": [
+        "40292",
+        "40578"
+      ]
+    },
+    "A220 - Human Anatomy": {
+      "Parsell, Jill": [
+        "41722"
+      ],
+      "N/A": [
+        "41631"
+      ]
+    },
+    "A220L - Human Anatomy Lab": {
+      "Faulkner, Jill": [
+        "40042"
+      ],
+      "Haeri, Shadi": [
+        "40848",
+        "41158"
+      ],
+      "Parsell, Jill": [
+        "40882",
+        "41808"
+      ],
+      "Madsen, Brenda": [
+        "41453"
+      ],
+      "Blystone, Allissa": [
+        "41807"
+      ],
+      "N/A": [
+        "42047"
+      ]
+    },
+    "A221 - Anatomy-Physiology": {
+      "Baker, Cherryl": [
+        "40139"
+      ],
+      "Madsen, Brenda": [
+        "40618"
+      ]
+    },
+    "A221L - Anatomy-Physiology Lab": {
+      "Beichner, Brian": [
+        "40068",
+        "42108"
+      ],
+      "Nowroozi, Nakisa": [
+        "40140"
+      ],
+      "Baker, Cherryl": [
+        "40141",
+        "40143",
+        "40214",
+        "40508"
+      ],
+      "Ahad, Sally": [
+        "40142",
+        "40213"
+      ]
+    },
+    "A225 - Human Physiology": {
+      "Blystone, Allissa": [
+        "40144"
+      ]
+    },
+    "A225L - Human Physiology Lab": {
+      "Chang, Steven": [
+        "40145",
+        "40146"
+      ]
+    },
+    "A280 - Evolutionary Ecology": {
+      "Elliott, Kelli": [
+        "41723"
+      ]
+    },
+    "A280L - Evolutionary Ecology Lab": {
+      "Elliott, Kelli": [
+        "40583"
+      ]
+    },
+    "A281 - Biochemistry": {
+      "Bialecki, Michael": [
+        "40456"
+      ]
+    },
+    "A282 - Molecular Biology": {
+      "Bialecki, Michael": [
+        "40511"
+      ]
+    },
+    "A283 - Genetics": {
+      "Lee, Chrissie": [
+        "40437"
+      ]
+    }
+  },
+  "Business": {
+    "A100 - Intro to Business": {
+      "Grooms, Mark": [
+        "40048",
+        "40152",
+        "41294",
+        "41387"
+      ],
+      "Gordon, Lee": [
+        "41295"
+      ],
+      "Beau, Leslie": [
+        "40575",
+        "40598"
+      ],
+      "Klammer, Karen": [
+        "40576"
+      ]
+    },
+    "A100H - Intro Business Honors": {
+      "Gordon, Lee": [
+        "40102"
+      ]
+    },
+    "A101 - Social Media for Business": {
+      "Scane, Danielle": [
+        "42027",
+        "42123",
+        "46008"
+      ]
+    },
+    "A110 - Business Law": {
+      "Judd, Frederick": [
+        "40097",
+        "41912",
+        "42457"
+      ],
+      "Hickman, Gary": [
+        "40154",
+        "41810"
+      ],
+      "Hostetler, Sheila": [
+        "40155",
+        "40156"
+      ]
+    },
+    "A110H - Business Law Honors": {
+      "Judd, Frederick": [
+        "42202"
+      ]
+    },
+    "A118 - International Business": {
+      "Gordon, Lee": [
+        "46019"
+      ]
+    },
+    "A118H - International Business Honors": {
+      "Gordon, Lee": [
+        "46020"
+      ]
+    },
+    "A120 - Personl Financl Success": {
+      "Plisco, David": [
+        "40158"
+      ]
+    },
+    "A134 - Excel 1": {
+      "Strobel, Jacqueline": [
+        "41134"
+      ],
+      "Watson, Maryann": [
+        "41614"
+      ]
+    },
+    "A138 - Business English": {
+      "Clark, Gregory": [
+        "40162"
+      ]
+    },
+    "A139 - Business Communication": {
+      "Clark, Gregory": [
+        "40160",
+        "41747"
+      ],
+      "Scane, Danielle": [
+        "40554",
+        "41296"
+      ]
+    },
+    "A185 - Public Relations": {
+      "Gbye, Diogba": [
+        "46132"
+      ],
+      "Peters, Jennifer": [
+        "46133"
+      ]
+    },
+    "A200 - Business Finance": {
+      "Judd, Frederick": [
+        "46009"
+      ]
+    },
+    "A210 - Securities Investment": {
+      "Plisco, David": [
+        "40164"
+      ]
+    },
+    "A234 - Excel 2": {
+      "Watson, Maryann": [
+        "41615"
+      ]
+    },
+    "A239 - Professionl Communicatn": {
+      "Krallman, Keith": [
+        "40015"
+      ]
+    },
+    "A240 - Entrepreneurship": {
+      "Scane, Danielle": [
+        "40311"
+      ],
+      "Grooms, Mark": [
+        "40448"
+      ]
+    }
+  },
+  "Cardiovascular Technology": {
+    "A130 - Intro Invasive Cardiolo": {
+      "Lee, Robin": [
+        "42172"
+      ]
+    },
+    "A170 - ECG Clinical Experience": {
+      "Norfolk, Kristy": [
+        "42020"
+      ]
+    },
+    "A190 - Intro to Sonography/Imaging": {
+      "Norfolk, Kristy": [
+        "41783"
+      ]
+    },
+    "A250 - Adv Echocadiography": {
+      "Norfolk, Kristy": [
+        "40166"
+      ]
+    },
+    "A255 - Adv Echocardiography Lb": {
+      "Lee, Robin": [
+        "40167"
+      ],
+      "Tran, Liem": [
+        "40168"
+      ]
+    },
+    "A255 - Adv Echocardiography Lab": {
+      "Norfolk, Kristy": [
+        "42177"
+      ]
+    },
+    "A260 - Cerebro/Periphrl Ultrasound": {
+      "Tran, Liem": [
+        "40169"
+      ],
+      "Norfolk, Kristy": [
+        "42184"
+      ]
+    },
+    "A265 - Echo Clinical Lab 2": {
+      "Norfolk, Kristy": [
+        "40170"
+      ]
+    }
+  },
+  "Chemistry": {
+    "A010N - Chem Skills for Intro Chem NC": {
+      "Hellman, Amy": [
+        "42410",
+        "42411",
+        "42412",
+        "42413",
+        "42414"
+      ]
+    },
+    "A030N - Chem Skills for Gen Chem NC": {
+      "Vieau, Arlene": [
+        "42415",
+        "42416",
+        "42417",
+        "42418",
+        "42423",
+        "42425",
+        "42427"
+      ],
+      "Frechen, Richard": [
+        "42419",
+        "42420",
+        "42421",
+        "42422"
+      ],
+      "Razavi, Behnaz": [
+        "42424",
+        "42426",
+        "42428"
+      ]
+    },
+    "A100 - Principles of Chemistry": {
+      "Ross, James": [
+        "41427"
+      ]
+    },
+    "A110 - Introduction to Chemistry": {
+      "Hellman, Amy": [
+        "41568"
+      ]
+    },
+    "A110L - Introduction to Chemistry Lab": {
+      "Hellman, Amy": [
+        "40256",
+        "40417"
+      ],
+      "Sharma, Upasna": [
+        "41584",
+        "41752",
+        "41753"
+      ]
+    },
+    "A130 - Preparation for Gen Chemistry": {
+      "Razavi, Behnaz": [
+        "41569"
+      ],
+      "Vieau, Arlene": [
+        "41570",
+        "41571"
+      ],
+      "Frechen, Richard": [
+        "41688"
+      ]
+    },
+    "A130L - Preparation for Gen Chem Lab": {
+      "Vieau, Arlene": [
+        "45832"
+      ],
+      "N/A": [
+        "41229",
+        "41689"
+      ],
+      "Tu, Kim": [
+        "40120",
+        "40879",
+        "41230",
+        "41690"
+      ],
+      "Frechen, Richard": [
+        "40172",
+        "40218"
+      ],
+      "Geragotelis, Andrew": [
+        "40175",
+        "40589"
+      ],
+      "Jansen, Erin": [
+        "40173",
+        "40174"
+      ],
+      "Razavi, Behnaz": [
+        "40439"
+      ]
+    },
+    "A180 - General Chemistry A": {
+      "McIntire, Theresa": [
+        "41572"
+      ],
+      "Laux, John": [
+        "41573"
+      ],
+      "Appel, Matthew": [
+        "41574"
+      ]
+    },
+    "A180L - General Chemistry A Lab": {
+      "Appel, Matthew": [
+        "40732",
+        "41428"
+      ],
+      "Anand, Preetha": [
+        "40181",
+        "41754"
+      ],
+      "Piotrowski, Cody": [
+        "40180",
+        "41755"
+      ],
+      "Laux, John": [
+        "40182",
+        "40397",
+        "40633"
+      ],
+      "McIntire, Theresa": [
+        "40034"
+      ]
+    },
+    "A185 - General Chemistry B": {
+      "Maughan, Helen": [
+        "41575"
+      ],
+      "Gonzales, Shirley": [
+        "41576"
+      ]
+    },
+    "A185L - General Chemistry B Lab": {
+      "Gonzales, Shirley": [
+        "40085",
+        "40185",
+        "40186"
+      ],
+      "Frechen, Richard": [
+        "40184"
+      ],
+      "Maughan, Helen": [
+        "40544",
+        "41577"
+      ]
+    },
+    "A220 - Organic Chemistry A": {
+      "Congleton, John": [
+        "40599"
+      ]
+    },
+    "A220L - Organic Chemistry A Lab": {
+      "Congleton, John": [
+        "41049",
+        "41050",
+        "41051"
+      ]
+    },
+    "A225 - Organic Chemistry B": {
+      "Mucciaro, Thomas": [
+        "40187"
+      ],
+      "Wang, Yilin": [
+        "42083"
+      ]
+    },
+    "A225L - Organic Chemistry B Lab": {
+      "Wang, Yilin": [
+        "41052",
+        "41054"
+      ],
+      "Mucciaro, Thomas": [
+        "41053",
+        "41834"
+      ]
+    }
+  },
+  "Chinese": {
+    "A180 - Elementary Chinese 1": {
+      "Lin, Chimin": [
+        "42474"
+      ],
+      "Satow, Jingfang": [
+        "41845"
+      ]
+    },
+    "A185 - Elementary Chinese 2": {
+      "Lin, Chimin": [
+        "41846"
+      ]
+    }
+  },
+  "Communication Studies": {
+    "A100 - Interpersonal Communication": {
+      "Connor, Sean": [
+        "40905",
+        "40908",
+        "41235",
+        "42596"
+      ],
+      "Pipion, Christiaan": [
+        "40909",
+        "46118"
+      ],
+      "Coco, Felicia": [
+        "46119",
+        "46120",
+        "46122",
+        "46123",
+        "46124",
+        "46125"
+      ],
+      "La Mer, Emma": [
+        "40922",
+        "46121"
+      ],
+      "Bowers, Samuel": [
+        "40901"
+      ],
+      "Nia, Halleh": [
+        "40904",
+        "41353"
+      ],
+      "Johnson, Jarvis": [
+        "40912",
+        "40918"
+      ],
+      "Fullman, Aaron": [
+        "40902",
+        "40906",
+        "40920"
+      ],
+      "Peters, Jennifer": [
+        "40910"
+      ],
+      "Gomez, Jaime": [
+        "40911",
+        "41474"
+      ],
+      "Bell III, John": [
+        "40915"
+      ],
+      "N/A": [
+        "40919"
+      ],
+      "Breit, Craig": [
+        "40903",
+        "40916"
+      ],
+      "Schneiderman, Julia": [
+        "40907",
+        "40914"
+      ],
+      "Ith, Phatana": [
+        "40913",
+        "40917"
+      ],
+      "Davari, Shauhin": [
+        "40924",
+        "41475"
+      ],
+      "Mang, Dorri": [
+        "40921"
+      ],
+      "Dinger, Michelle": [
+        "40923"
+      ],
+      "Ivey, Marilyn": [
+        "40925",
+        "41476"
+      ]
+    },
+    "A109 - Social Media Strategies": {
+      "Peters, Jennifer": [
+        "42520"
+      ]
+    },
+    "A110 - Public Speaking": {
+      "Polk, Sherana": [
+        "40933"
+      ],
+      "Anderson, Courtney": [
+        "40934",
+        "40939",
+        "40951",
+        "40952"
+      ],
+      "De Surra, Christopher": [
+        "40936",
+        "40938",
+        "40940",
+        "40943",
+        "40947",
+        "40948"
+      ],
+      "Bowers, Samuel": [
+        "40937",
+        "40956"
+      ],
+      "Haghighat, Hannah": [
+        "40941",
+        "40950"
+      ],
+      "Connor, Sean": [
+        "40942",
+        "40949"
+      ],
+      "N/A": [
+        "40944",
+        "40955",
+        "41238"
+      ],
+      "Van Winkle, Dana": [
+        "40935"
+      ],
+      "Breit, Craig": [
+        "41236"
+      ],
+      "Pipion, Christiaan": [
+        "40957"
+      ]
+    },
+    "A120 - Readers Theatre Oral Interp": {
+      "Davari, Shauhin": [
+        "41012"
+      ]
+    },
+    "A150 - Forensics Workshop": {
+      "Davari, Shauhin": [
+        "40958",
+        "40959",
+        "40960",
+        "40961"
+      ]
+    },
+    "A155 - Intercultural Communication": {
+      "Haghighat, Hannah": [
+        "46126"
+      ],
+      "Anderson, Courtney": [
+        "46127"
+      ],
+      "Bell III, John": [
+        "40928",
+        "42334"
+      ],
+      "La Mer, Emma": [
+        "41240",
+        "41749",
+        "42471"
+      ],
+      "Ith, Phatana": [
+        "41479"
+      ]
+    },
+    "A165 - Men Women & Communication": {
+      "Ream, Amanda": [
+        "40929",
+        "40930",
+        "41241"
+      ]
+    },
+    "A170 - Nonverbal Communication": {
+      "Anderson, Courtney": [
+        "40931",
+        "41699"
+      ]
+    },
+    "A180 - Intro to Mass Communications": {
+      "Mang, Dorri": [
+        "46128"
+      ],
+      "Lohman, Benjamin": [
+        "40926",
+        "40927",
+        "46129",
+        "46130",
+        "46131"
+      ]
+    },
+    "A185 - Public Relations": {
+      "Peters, Jennifer": [
+        "42521"
+      ],
+      "Gbye, Diogba": [
+        "41482"
+      ]
+    },
+    "A220 - Essentials of Argumentation": {
+      "Polk, Sherana": [
+        "40962",
+        "40963",
+        "40965"
+      ],
+      "Davari, Shauhin": [
+        "40964"
+      ],
+      "Van Winkle, Dana": [
+        "41480",
+        "41541"
+      ],
+      "Connor, Sean": [
+        "41750"
+      ]
+    },
+    "A240 - Media Literacy": {
+      "Lohman, Benjamin": [
+        "41481",
+        "41751"
+      ]
+    }
+  },
+  "Computer & High Technology": {
+    "A002N - Comp Basics - Nav the Internet": {
+      "Quinonez, Rena": [
+        "46034"
+      ]
+    }
+  },
+  "Computer Information Systems": {
+    "A090 - Beg Comptr Kyboarding 1": {
+      "Radford, Shirley": [
+        "41136"
+      ]
+    },
+    "A092 - Beg Computer Keyboarding 2": {
+      "Radford, Shirley": [
+        "41137"
+      ]
+    },
+    "A100 - Intro Computer Applications": {
+      "Watson, Maryann": [
+        "40052",
+        "40206",
+        "40207"
+      ]
+    },
+    "A110 - PC A+ Certificate Prep": {
+      "Baker, Jared": [
+        "40662"
+      ]
+    },
+    "A111 - Intro Computer Info Sys": {
+      "Clough, Brian": [
+        "40696",
+        "40697"
+      ],
+      "Strobel, Jacqueline": [
+        "40698"
+      ],
+      "Barvarz, Parnian": [
+        "40701",
+        "40702",
+        "42028",
+        "42197"
+      ],
+      "Watson, Maryann": [
+        "40699",
+        "40700"
+      ]
+    },
+    "A123 - Web Page Design 1": {
+      "Barvarz, Parnian": [
+        "40386"
+      ]
+    },
+    "A129 - Web Page Design 2": {
+      "Barvarz, Parnian": [
+        "40815"
+      ]
+    },
+    "A134 - Excel 1": {
+      "Watson, Maryann": [
+        "41616"
+      ],
+      "Strobel, Jacqueline": [
+        "40664"
+      ]
+    },
+    "A137 - Microsoft Outlook": {
+      "Strobel, Jacqueline": [
+        "41933"
+      ]
+    },
+    "A149 - Office Procedures": {
+      "Strobel, Jacqueline": [
+        "41934"
+      ]
+    },
+    "A171 - Introduction to Javascript": {
+      "Do, Loc": [
+        "40661"
+      ]
+    },
+    "A191 - Network Technologies": {
+      "Nerad, Patrick": [
+        "41000"
+      ]
+    },
+    "A223 - JavaScript 2": {
+      "Do, Loc": [
+        "41748"
+      ]
+    },
+    "A234 - Excel 2": {
+      "Watson, Maryann": [
+        "41617"
+      ]
+    }
+  },
+  "Computer Science": {
+    "A131 - Python Programming 1": {
+      "Tsaasan, Anita": [
+        "41981"
+      ]
+    },
+    "A140 - C#.NET Programming": {
+      "Ghadami, Sara": [
+        "46010"
+      ]
+    },
+    "A150 - C++ Programming 1": {
+      "Cole, Douglas": [
+        "42602"
+      ],
+      "Gilbert, Stephen": [
+        "40734",
+        "41297"
+      ],
+      "Jang, Justin": [
+        "41553",
+        "41708"
+      ]
+    },
+    "A170 - Java Programming 1": {
+      "Jang, Justin": [
+        "40200",
+        "40750"
+      ],
+      "Aydin, Hatice": [
+        "41058",
+        "41673",
+        "41793",
+        "41924"
+      ],
+      "N/A": [
+        "42102"
+      ],
+      "Giordano, Dave": [
+        "41618"
+      ],
+      "Alani, Mayada": [
+        "42206",
+        "42207"
+      ]
+    },
+    "A200 - Data Structures": {
+      "Ernsberger, Gabriela": [
+        "40317",
+        "42101"
+      ]
+    },
+    "A216 - Computer Architecture": {
+      "Cole, Douglas": [
+        "41809",
+        "42209"
+      ]
+    },
+    "A220 - Software Engineering": {
+      "Ghadami, Sara": [
+        "40151"
+      ]
+    },
+    "A231 - Python Programming II": {
+      "Tsaasan, Anita": [
+        "42100"
+      ]
+    },
+    "A250 - C++ Programming 2": {
+      "Rodgers, Kathryn": [
+        "42494"
+      ],
+      "Ernsberger, Gabriela": [
+        "40816",
+        "41298"
+      ],
+      "Cole, Douglas": [
+        "41926"
+      ]
+    },
+    "A257 - Boolean Algebra and Logic": {
+      "Rodgers, Kathryn": [
+        "41393"
+      ]
+    },
+    "A262 - Discrete Structures": {
+      "Rodgers, Kathryn": [
+        "41392"
+      ]
+    },
+    "A263 - Probability & Stats for CS": {
+      "Rodgers, Kathryn": [
+        "46136"
+      ]
+    },
+    "A272 - Java Programming 2": {
+      "Giordano, Dave": [
+        "46011"
+      ]
+    }
+  },
+  "Construction Technology": {
+    "A100 - Principles of Construction": {
+      "Ortiz, Oscar": [
+        "41982"
+      ]
+    },
+    "A114 - Cabinet Making": {
+      "Peters, Timothy": [
+        "40150"
+      ]
+    },
+    "A116 - Furniture Making/Design": {
+      "Peters, Timothy": [
+        "40201"
+      ]
+    },
+    "A155 - Intro to Home Automation": {
+      "Lee, Stephen": [
+        "41004"
+      ]
+    },
+    "A165 - Constr Safety-CAL/OSHA": {
+      "Kelly, James": [
+        "40239"
+      ]
+    },
+    "A185 - Building Construction 2": {
+      "Pena, Maximino": [
+        "46035"
+      ]
+    },
+    "A190 - Blueprnt Readng & Draft": {
+      "Ortiz, Oscar": [
+        "40332"
+      ],
+      "Pena, Maximino": [
+        "40594"
+      ]
+    },
+    "A210 - Concrete Construction": {
+      "Ortiz, Oscar": [
+        "40219"
+      ]
+    },
+    "A220 - Construction Estimating": {
+      "Macarewich, Matthew": [
+        "40236"
+      ]
+    },
+    "A230 - Construction Inspection": {
+      "Bogle, Dennis": [
+        "40410"
+      ]
+    },
+    "A240 - Specialty Trades": {
+      "Ortiz, Oscar": [
+        "42510"
+      ]
+    },
+    "A241 - Finish Carpentry": {
+      "Pena, Maximino": [
+        "42257"
+      ]
+    },
+    "A250 - Const Supv & Proj Mgmt": {
+      "Macarewich, Matthew": [
+        "41554"
+      ]
+    },
+    "A252 - Bus Law For Contractors": {
+      "Macarewich, Matthew": [
+        "46036"
+      ]
+    },
+    "A266 - Plumbing 2": {
+      "Shields, Brian": [
+        "40221"
+      ]
+    },
+    "A270 - Contrator&#39;s License Law": {
+      "N/A": [
+        "40333"
+      ]
+    },
+    "A275 - Residential Elec Wiring": {
+      "Pugliese, William": [
+        "41760"
+      ]
+    }
+  },
+  "Consumer Studies": {
+    "A001N - Intro to Customer Service": {
+      "Sabori, Sibley": [
+        "42570"
+      ]
+    },
+    "A002N - Customer Serv & Retail Emply": {
+      "Sabori, Sibley": [
+        "42571"
+      ]
+    },
+    "A180 - Life Management": {
+      "Sabori, Sibley": [
+        "42554"
+      ]
+    }
+  },
+  "Counseling": {
+    "A100 - Introduction to College": {
+      "N/A": [
+        "41125",
+        "41521"
+      ]
+    },
+    "A101 - New Horizons:Adults Retrng Clg": {
+      "N/A": [
+        "40733"
+      ]
+    },
+    "A104 - Career/Life Planng:Holistic": {
+      "N/A": [
+        "41022",
+        "41023",
+        "41816",
+        "41868",
+        "42477"
+      ]
+    },
+    "A105 - Strategies for College Success": {
+      "N/A": [
+        "40890",
+        "40891",
+        "40892",
+        "41341",
+        "41704",
+        "41804",
+        "41818",
+        "42216"
+      ]
+    },
+    "A107 - Chicana/o Latina/o Exp Hgr Ed": {
+      "N/A": [
+        "41730"
+      ]
+    },
+    "A107H - Chican@ Latin@ ExpHgrEd Honors": {
+      "N/A": [
+        "41943"
+      ]
+    },
+    "A109 - Devlop/Undrstnd Hapines": {
+      "N/A": [
+        "40328"
+      ]
+    },
+    "A110 - Applied Stress Management": {
+      "N/A": [
+        "40800"
+      ]
+    },
+    "A120 - Career Decisn Making/Accleratd": {
+      "N/A": [
+        "40197",
+        "41622",
+        "41805"
+      ]
+    },
+    "A135 - Effective Parenting": {
+      "N/A": [
+        "41623"
+      ]
+    },
+    "A170 - College Major Search": {
+      "N/A": [
+        "41624"
+      ]
+    },
+    "A199 - Topics in Counseling:PUENTE": {
+      "N/A": [
+        "41944"
+      ]
+    },
+    "A205 - Transfer Success Seminar": {
+      "N/A": [
+        "42217"
+      ]
+    }
+  },
+  "Culinary Arts": {
+    "A100 - Intro Hospitality Industry": {
+      "Cohen, Stephen": [
+        "40226",
+        "42200"
+      ]
+    },
+    "A120 - Culinary Principles 1": {
+      "Barber, William": [
+        "45815"
+      ]
+    },
+    "A120L - Culinary Principles 1 Lab": {
+      "Thompson, April": [
+        "45816"
+      ],
+      "Alvarado, Annette": [
+        "40060"
+      ],
+      "Barber, William": [
+        "40227"
+      ],
+      "Flecky, Allison": [
+        "40228"
+      ]
+    },
+    "A122 - Culinary Principles 2": {
+      "Barber, William": [
+        "40230"
+      ]
+    },
+    "A122L - Culinary Principles 2 Lab": {
+      "Barber, William": [
+        "40041"
+      ],
+      "Dunner, Davina": [
+        "40570"
+      ]
+    },
+    "A124 - Principles of Baking 1": {
+      "Simpson, Melissa": [
+        "40231"
+      ]
+    },
+    "A124L - Principles of Baking 1 Lab": {
+      "Mendoza, Elizabeth": [
+        "45817"
+      ],
+      "Simpson, Melissa": [
+        "40216"
+      ],
+      "Russ, Katherine": [
+        "40232"
+      ],
+      "Rodriguez, Reina": [
+        "40321"
+      ]
+    },
+    "A126 - Principles of Baking 2": {
+      "Simpson, Melissa": [
+        "41734"
+      ]
+    },
+    "A126L - Principles of Baking 2 Lab": {
+      "N/A": [
+        "40205"
+      ],
+      "Ju, Margarida": [
+        "40390"
+      ]
+    },
+    "A131 - Principles of Artisan Bread": {
+      "Simpson, Melissa": [
+        "41735",
+        "42201"
+      ]
+    },
+    "A149 - Pantry": {
+      "Dunner, Davina": [
+        "40234"
+      ]
+    },
+    "A149L - Pantry Lab": {
+      "Thompson, April": [
+        "45818"
+      ],
+      "Terusa, Vincent": [
+        "40233"
+      ],
+      "Dunner, Davina": [
+        "40735",
+        "41274"
+      ]
+    },
+    "A210 - Dir Practice Culinary Arts 1": {
+      "Barber, William": [
+        "41275"
+      ]
+    },
+    "A215 - Dir Practice Culinary Arts 2": {
+      "Dunner, Davina": [
+        "41423"
+      ]
+    },
+    "A236 - Direc Prac Bakng/Pastry 1": {
+      "Simpson, Melissa": [
+        "41736"
+      ]
+    },
+    "A237 - Dir Practic Baking/Pastry 2": {
+      "Simpson, Melissa": [
+        "41422"
+      ]
+    },
+    "A255 - Garde Manger 2": {
+      "Dunner, Davina": [
+        "40235"
+      ]
+    },
+    "A255L - Garde Manger 2 Lab": {
+      "Dunner, Davina": [
+        "46095",
+        "46096"
+      ]
+    },
+    "A265 - Ala Minute Cont Cooking": {
+      "Barber, William": [
+        "40252"
+      ],
+      "Flecky, Allison": [
+        "41684"
+      ]
+    },
+    "A270 - Ice Carving": {
+      "Selzer, Thomas": [
+        "41737"
+      ]
+    }
+  },
+  "Dance": {
+    "A101 - Modern Dance 1": {
+      "Fritzler, Amythyst": [
+        "40731"
+      ]
+    },
+    "A102 - Modern Dance 2": {
+      "Fritzler, Amythyst": [
+        "40801"
+      ],
+      "Berman, Rachel": [
+        "41336"
+      ]
+    },
+    "A106 - Strength & Stretch": {
+      "Fritzler, Amythyst": [
+        "41769"
+      ]
+    },
+    "A108 - Pilates Mat Work": {
+      "Fritzler, Amythyst": [
+        "40898",
+        "41661"
+      ]
+    },
+    "A110 - Ballet 1": {
+      "Costas, Jose": [
+        "40401"
+      ]
+    },
+    "A111 - Ballet 2": {
+      "Costas, Jose": [
+        "41335"
+      ]
+    },
+    "A115 - Yoga for Dancers": {
+      "Berman, Rachel": [
+        "46000"
+      ],
+      "Menaker, Shana": [
+        "41855"
+      ]
+    },
+    "A116 - Latin Dance Styles I": {
+      "Costas, Jose": [
+        "40858"
+      ]
+    },
+    "A120 - Jazz Dance 1": {
+      "Costas, Jose": [
+        "40849"
+      ]
+    },
+    "A121 - Jazz Dance 2": {
+      "Costas, Jose": [
+        "41337"
+      ]
+    },
+    "A125 - Tap 1": {
+      "Katz, Samantha": [
+        "42150"
+      ]
+    },
+    "A126 - Tap 2": {
+      "Katz, Samantha": [
+        "42561"
+      ]
+    },
+    "A130 - Mid-Eastern Dance 1": {
+      "Nemeth, Angelika": [
+        "41847"
+      ]
+    },
+    "A143 - Jazz Dance III": {
+      "Costas, Jose": [
+        "40364"
+      ]
+    },
+    "A144 - Ballet III": {
+      "N/A": [
+        "41662"
+      ]
+    },
+    "A145 - Modern Dance III": {
+      "Berman, Rachel": [
+        "41208"
+      ]
+    },
+    "A146 - Tap III": {
+      "Sohl-Ellison, Linda": [
+        "41400"
+      ]
+    },
+    "A148 - Mid-Eastern Dance 2": {
+      "Nemeth, Angelika": [
+        "42324"
+      ]
+    },
+    "A149 - Hip-Hop Dance I": {
+      "Groenewold, Zachary": [
+        "40444"
+      ]
+    },
+    "A150 - Dance Improvisation I": {
+      "Menaker, Shana": [
+        "40119"
+      ]
+    },
+    "A151 - Pilates as a Profession": {
+      "McMahan, David": [
+        "42579"
+      ]
+    },
+    "A152 - Pilates Apparatus/Mat 1": {
+      "McMahan, David": [
+        "41039"
+      ]
+    },
+    "A153 - Pilates Apparatus/Mat 2": {
+      "McMahan, David": [
+        "42619"
+      ]
+    },
+    "A155 - Latin Dance Styles II": {
+      "Costas, Jose": [
+        "41848"
+      ]
+    },
+    "A156 - Polynesian Dance": {
+      "Berman, Rachel": [
+        "42151"
+      ]
+    },
+    "A159 - Hip-Hop Dance II": {
+      "Groenewold, Zachary": [
+        "41211"
+      ]
+    },
+    "A165 - Latin Dance Styles III": {
+      "Costas, Jose": [
+        "41849"
+      ]
+    },
+    "A169 - Hip-Hop Dance III": {
+      "Groenewold, Zachary": [
+        "42096"
+      ]
+    },
+    "A170 - Music for Dancers": {
+      "N/A": [
+        "46001"
+      ]
+    },
+    "A171 - Modern Dance Basics": {
+      "Fritzler, Amythyst": [
+        "41772"
+      ]
+    },
+    "A172 - Ballet Dance Basics": {
+      "Costas, Jose": [
+        "41403"
+      ]
+    },
+    "A173 - Jazz Dance Basics": {
+      "Costas, Jose": [
+        "41213"
+      ]
+    },
+    "A174 - Tap Dance Basics": {
+      "Katz, Samantha": [
+        "41404"
+      ]
+    },
+    "A191 - Classical Technique/Variation": {
+      "Costas, Jose": [
+        "41773"
+      ]
+    },
+    "A199 - Current Dance Topics": {
+      "Berman, Rachel": [
+        "46002"
+      ]
+    },
+    "A200 - Appreciation of Dance": {
+      "Hojo, Hiroko": [
+        "41774",
+        "41954"
+      ],
+      "Berman, Rachel": [
+        "41663"
+      ],
+      "Menaker, Shana": [
+        "41880"
+      ]
+    },
+    "A205 - Danc Profession Seminar": {
+      "Berman, Rachel": [
+        "46003"
+      ]
+    },
+    "A215 - Pilates Internship I": {
+      "McMahan, David": [
+        "41215"
+      ]
+    },
+    "A217 - Pilates Internship II": {
+      "McMahan, David": [
+        "41216"
+      ]
+    },
+    "A218 - World Dance Internship I": {
+      "Berman, Rachel": [
+        "41694"
+      ]
+    },
+    "A219 - World Dance Internship II": {
+      "Berman, Rachel": [
+        "41776"
+      ]
+    },
+    "A220 - Dance Internship I": {
+      "Berman, Rachel": [
+        "41547"
+      ]
+    },
+    "A221 - Dance Internship II": {
+      "Berman, Rachel": [
+        "41666"
+      ]
+    },
+    "A230 - World Dance and Culture": {
+      "Berman, Rachel": [
+        "46004"
+      ]
+    },
+    "A243 - Jazz IV": {
+      "Costas, Jose": [
+        "41217"
+      ]
+    },
+    "A244 - Ballet IV": {
+      "Costas, Jose": [
+        "41218"
+      ]
+    },
+    "A245 - Modern IV": {
+      "Berman, Rachel": [
+        "41219"
+      ]
+    },
+    "A246 - Tap IV": {
+      "Sohl-Ellison, Linda": [
+        "41220"
+      ]
+    },
+    "A248 - Mid-Eastern Dance 3": {
+      "Nemeth, Angelika": [
+        "46005"
+      ]
+    },
+    "A250 - Dance Improvisation II": {
+      "Menaker, Shana": [
+        "41548"
+      ]
+    },
+    "A253 - Prep for Audition - Jazz": {
+      "Costas, Jose": [
+        "41221"
+      ]
+    },
+    "A254 - Prep for Audition - Ballet": {
+      "Costas, Jose": [
+        "41222"
+      ]
+    },
+    "A255 - Prep for Audition - Modern": {
+      "Berman, Rachel": [
+        "41223"
+      ]
+    },
+    "A256 - Preparation for Audition - Tap": {
+      "Sohl-Ellison, Linda": [
+        "41693"
+      ]
+    },
+    "A264 - Mid-Eastern Dance 4": {
+      "Nemeth, Angelika": [
+        "46006"
+      ]
+    },
+    "A269 - Hip Hop 4": {
+      "Groenewold, Zachary": [
+        "42092"
+      ]
+    }
+  },
+  "Dental Assisting": {
+    "A115 - Chairside Techniques 2": {
+      "Balding, Diane": [
+        "41267"
+      ]
+    },
+    "A115L - Chairside Techniques 2 Lab": {
+      "Balding, Diane": [
+        "40257",
+        "40402"
+      ]
+    },
+    "A125 - Expanded Functions": {
+      "Moreno, Heather": [
+        "40297"
+      ]
+    },
+    "A125L - Expanded Functions Lab": {
+      "Moreno, Heather": [
+        "40258"
+      ],
+      "N/A": [
+        "40259"
+      ]
+    },
+    "A145 - Specialized Practices": {
+      "Moreno, Heather": [
+        "41382"
+      ]
+    },
+    "A145L - Specialized Practices Lab": {
+      "Moreno, Heather": [
+        "40260",
+        "40675"
+      ]
+    },
+    "A150 - Biomedical Sciences": {
+      "Rafferty, Jennifer": [
+        "40865"
+      ]
+    },
+    "A165 - Clinical Experience 3": {
+      "Moreno, Heather": [
+        "40261"
+      ]
+    },
+    "A168 - Clinical Experience 4": {
+      "Moreno, Heather": [
+        "40263"
+      ]
+    },
+    "A175 - Prin of Bus & Prac Mgmt": {
+      "Balding, Diane": [
+        "40264"
+      ]
+    }
+  },
+  "Diagnostic Medical Sonography": {
+    "A110 - Introduction to Sonography": {
+      "Gibbs, Tim": [
+        "42163",
+        "45783",
+        "45784"
+      ]
+    },
+    "A126 - OB/GYN Sonography": {
+      "Reber-Bonhall, Cynthia": [
+        "40707"
+      ]
+    },
+    "A155 - Intro Vascular Ultrasnd": {
+      "Jackson, Mary": [
+        "40669"
+      ]
+    },
+    "A155L - Intro Vascular Ultrasnd Lab": {
+      "Jackson, Mary": [
+        "40019",
+        "40045",
+        "40670"
+      ]
+    },
+    "A161 - Pathophysiology": {
+      "Reber-Bonhall, Cynthia": [
+        "40830"
+      ]
+    },
+    "A165 - Intro Scanning Practice": {
+      "Kiyohara, Lisa": [
+        "40268"
+      ]
+    },
+    "A165L - Intro Scanning Practice Lab": {
+      "Kiyohara, Lisa": [
+        "40033",
+        "40266",
+        "40267"
+      ]
+    },
+    "A166 - DMS Clinical Expernce 1": {
+      "Reber-Bonhall, Cynthia": [
+        "40037"
+      ]
+    },
+    "A275 - Sonographic Review": {
+      "Gibbs, Tim": [
+        "41867"
+      ]
+    },
+    "A281 - Clinical Experience 5": {
+      "Reber-Bonhall, Cynthia": [
+        "40269"
+      ]
+    }
+  },
+  "Digital Media Arts & Design": {
+    "A115 - Typography I": {
+      "Speth, Mary": [
+        "42481"
+      ],
+      "Don Vito, Michelle": [
+        "40179"
+      ]
+    },
+    "A116 - Typography II": {
+      "Gomez, Edward": [
+        "42572"
+      ]
+    },
+    "A117 - Rapid Illustration Tech": {
+      "Yip, Samuel": [
+        "45853"
+      ],
+      "Gomez, Edward": [
+        "40132"
+      ]
+    },
+    "A151 - History of Graphic Dsgn": {
+      "Cox, Steven": [
+        "41889"
+      ]
+    },
+    "A181 - Intro to Computer Graphics": {
+      "Cox, Steven": [
+        "41890",
+        "42504"
+      ],
+      "Loya, Daniel": [
+        "41590",
+        "41956"
+      ],
+      "Nielsen, Christopher": [
+        "41790",
+        "41791"
+      ],
+      "Elsoudani, Nabawia": [
+        "41792",
+        "41955"
+      ]
+    },
+    "A182 - Graphic Design": {
+      "Don Vito, Michelle": [
+        "41591"
+      ],
+      "Cox, Steven": [
+        "42289"
+      ]
+    },
+    "A183 - InDesign for Design": {
+      "Cox, Steven": [
+        "41351"
+      ]
+    },
+    "A190 - Illustrator for Design": {
+      "Speth, Mary": [
+        "45854"
+      ],
+      "Measures, Jonathan": [
+        "41891"
+      ]
+    },
+    "A193 - Photoshop for Design": {
+      "Gomez, Edward": [
+        "41957"
+      ],
+      "Measures, Jonathan": [
+        "41592"
+      ]
+    },
+    "A200 - Designing for the Web": {
+      "Volkoff, Cora": [
+        "40190"
+      ]
+    },
+    "A202 - Studio Internship": {
+      "Volkoff, Cora": [
+        "42290"
+      ]
+    },
+    "A203 - UX/UI Design": {
+      "Volkoff, Cora": [
+        "41892"
+      ]
+    },
+    "A212 - Advanced Studio Internship": {
+      "Volkoff, Cora": [
+        "45855"
+      ]
+    },
+    "A263 - Motion Graphics w/AfterEffects": {
+      "Yip, Samuel": [
+        "45856"
+      ]
+    },
+    "A280 - 2D Animation": {
+      "Yip, Samuel": [
+        "40550"
+      ]
+    },
+    "A281 - 3D Computer Graphics Animation": {
+      "Yip, Samuel": [
+        "40676"
+      ]
+    },
+    "A288 - Digital Portfolio Development": {
+      "Volkoff, Cora": [
+        "42291"
+      ]
+    }
+  },
+  "Early Childhood": {
+    "A126 - Teaching in a Diverse Society": {
+      "Robinson, Karen": [
+        "41412",
+        "41896"
+      ]
+    },
+    "A127 - Health, Safety & Nutrition": {
+      "Upchurch, Devan": [
+        "41016"
+      ]
+    },
+    "A130 - Language Arts for Children": {
+      "Ellis, Jeanette": [
+        "41017"
+      ]
+    },
+    "A131 - Creativity for Children": {
+      "Ellis, Jeanette": [
+        "40703"
+      ]
+    },
+    "A132 - Science & Math for Young Child": {
+      "Ellis, Jeanette": [
+        "41018"
+      ]
+    },
+    "A155 - Princ/Pract Tchg Young Childrn": {
+      "Wilson, Amanda": [
+        "42548"
+      ],
+      "Jones, Kara": [
+        "40279",
+        "40280"
+      ]
+    },
+    "A156 - Early Childhood Lab": {
+      "Ellis, Jeanette": [
+        "42546"
+      ],
+      "Jones, Joyce": [
+        "42023"
+      ]
+    },
+    "A157 - Guidance Young Children": {
+      "Campbell, Laurie": [
+        "40282"
+      ]
+    },
+    "A165 - Obsrv/Rcrd Child Behav": {
+      "Ellis, Jeanette": [
+        "40823"
+      ],
+      "Jefferis, Janice": [
+        "41999"
+      ]
+    },
+    "A199 - Current Issues in E C": {
+      "N/A": [
+        "46142"
+      ]
+    },
+    "A199 - Curr Issues-EmergCurr": {
+      "Kass, Darcie": [
+        "42009"
+      ]
+    },
+    "A200 - EC Programs - The Curriculum": {
+      "Upchurch, Devan": [
+        "40283"
+      ],
+      "Williamson-Champion, Kisha": [
+        "42260"
+      ]
+    },
+    "A201 - EC Practicum/Field Experience": {
+      "Campbell, Laurie": [
+        "40284"
+      ]
+    },
+    "A220 - Infant/Toddler Programs": {
+      "Jefferis, Janice": [
+        "41619"
+      ]
+    },
+    "A221 - Infant/Toddler Fld Exp": {
+      "Campbell, Laurie": [
+        "41126"
+      ]
+    },
+    "A261 - Learning Title 22": {
+      "Kass, Darcie": [
+        "45803"
+      ]
+    },
+    "A263 - Child Abuse ID/Referral": {
+      "N/A": [
+        "46141"
+      ]
+    },
+    "A276 - Early Chldhd Management": {
+      "Sciabica, Merrilisa": [
+        "42261"
+      ]
+    },
+    "A277 - Adult Supervisn in E C": {
+      "N/A": [
+        "41620"
+      ]
+    }
+  },
+  "Economics": {
+    "A100 - Econ: General Concepts": {
+      "Mensah, Francis": [
+        "42037",
+        "42484"
+      ],
+      "Safarzadeh, Sasha": [
+        "41777"
+      ],
+      "Panaitescu-Neata, Philip": [
+        "42038"
+      ]
+    },
+    "A110 - Consumer Economics": {
+      "McClure, David": [
+        "41822"
+      ]
+    },
+    "A170 - Microeconomics": {
+      "Lee, Ho": [
+        "40973",
+        "41011"
+      ],
+      "Gale, Michael": [
+        "40971",
+        "41634"
+      ],
+      "Savage, Jennifer": [
+        "40972",
+        "40975",
+        "41147"
+      ],
+      "Frohman, Deborah": [
+        "40974"
+      ],
+      "Safarzadeh, Sasha": [
+        "40976"
+      ],
+      "Kuo, Daniel": [
+        "42039",
+        "42109"
+      ]
+    },
+    "A175 - Macroeconomics": {
+      "Kuo, Daniel": [
+        "40978",
+        "40980",
+        "42307"
+      ],
+      "Panaitescu-Neata, Philip": [
+        "40979"
+      ],
+      "Savage, Jennifer": [
+        "40981",
+        "41256",
+        "41391"
+      ],
+      "McClure, David": [
+        "41390"
+      ]
+    },
+    "A175H - Macroeconomics Honors": {
+      "Savage, Jennifer": [
+        "41909"
+      ]
+    }
+  },
+  "Education": {
+    "A200 - The Teaching Profession": {
+      "Smith, Courtney": [
+        "41366"
+      ]
+    }
+  },
+  "Electronics Technology": {
+    "A047 - Elec Problem Solving": {
+      "Uribe, Xavier": [
+        "40293"
+      ]
+    },
+    "A101 - Robotics 1 Mech/Design": {
+      "Mayfield, Richard": [
+        "40748"
+      ]
+    },
+    "A146 - Comp Hardwr Config/Diagnostics": {
+      "Shea, Kimberly": [
+        "46087"
+      ]
+    },
+    "A146L - Comp Hardwr Config/Diagnos Lab": {
+      "Shea, Kimberly": [
+        "46088"
+      ]
+    },
+    "A150 - D.C. Circuits": {
+      "Ford, James": [
+        "42180"
+      ]
+    },
+    "A155 - A.C. Circuits": {
+      "Uribe, Xavier": [
+        "46089"
+      ]
+    },
+    "A155L - A.C. Circuits Lab": {
+      "Uribe, Xavier": [
+        "46090"
+      ]
+    },
+    "A201 - Robotics 2 Mtrs/Trnsprt": {
+      "Warner, Wesley": [
+        "40864"
+      ]
+    },
+    "A245 - Adv Digital Applications": {
+      "Schulz, Stephen": [
+        "42190"
+      ]
+    },
+    "A253 - Automation 1 Progrm Logic Ctrl": {
+      "Rowden, Gerald": [
+        "41657"
+      ]
+    }
+  },
+  "Emergency Medical Services": {
+    "A100 - Emergency Medical Responder": {
+      "N/A": [
+        "42139"
+      ]
+    },
+    "A150 - Emergency Medical Technician": {
+      "Beichner, Brian": [
+        "41562"
+      ]
+    },
+    "A150L - Emergency Medical Tech Lab": {
+      "N/A": [
+        "41563",
+        "41784"
+      ]
+    },
+    "A151 - EMT Clinical": {
+      "Beichner, Brian": [
+        "41552"
+      ]
+    },
+    "A160 - EMT-1 Recertification": {
+      "Beichner, Brian": [
+        "42269"
+      ]
+    }
+  },
+  "Engineering": {
+    "A110 - Intro to Engineering & Design": {
+      "N/A": [
+        "41836",
+        "45974"
+      ]
+    },
+    "A180 - Engineering Graphics": {
+      "N/A": [
+        "41970",
+        "45975"
+      ]
+    },
+    "A199 - Current Topics in Engineering": {
+      "N/A": [
+        "45976"
+      ]
+    },
+    "A220 - Prog & Prob Solv MATLAB": {
+      "N/A": [
+        "42336"
+      ]
+    },
+    "A230 - Dynamics": {
+      "N/A": [
+        "42337"
+      ]
+    },
+    "A280 - Statics": {
+      "N/A": [
+        "41698"
+      ],
+      "Hussain, Syed": [
+        "42002"
+      ]
+    },
+    "A285 - Engineering Circuits": {
+      "Hussain, Syed": [
+        "46037"
+      ]
+    }
+  },
+  "English": {
+    "A001N - Grammar Within Reach - NC": {
+      "N/A": [
+        "42218"
+      ],
+      "Gressier, Pamela": [
+        "42219"
+      ],
+      "Johnson, Jacqueline": [
+        "42220"
+      ],
+      "Zilkie, Mary": [
+        "42225"
+      ]
+    },
+    "A002N - Reading for Success - NC": {
+      "Gressier, Pamela": [
+        "42227"
+      ],
+      "Zilkie, Mary": [
+        "42229"
+      ]
+    },
+    "A003N - Perfecting Paragraphs - NC": {
+      "Leeper, Laura": [
+        "42231"
+      ],
+      "Johnson, Jacqueline": [
+        "42232"
+      ]
+    },
+    "A004N - Building A College Essay -NC": {
+      "Leeper, Laura": [
+        "42234"
+      ],
+      "Sutliff, Jennifer": [
+        "42235"
+      ],
+      "N/A": [
+        "42236",
+        "42237"
+      ]
+    },
+    "A099 - Confidence in Writing": {
+      "Barnard, Donna": [
+        "40330",
+        "40360",
+        "40739"
+      ],
+      "Gaytan, Don": [
+        "40253"
+      ],
+      "Johnson, Shauna": [
+        "40018"
+      ]
+    },
+    "A100 - Freshman Composition": {
+      "Sutliff, Jennifer": [
+        "40278",
+        "40658"
+      ],
+      "Leeper, Laura": [
+        "42327"
+      ],
+      "Komenda, Virginia": [
+        "40020",
+        "40039"
+      ],
+      "Zitter, Jeremy": [
+        "40177",
+        "40189"
+      ],
+      "Sharp, Cara": [
+        "40421"
+      ],
+      "Wagner, Laura": [
+        "40133",
+        "41378"
+      ],
+      "Gressier, Pamela": [
+        "41927",
+        "42103"
+      ],
+      "Lovegreen, Alan": [
+        "40094"
+      ],
+      "Evans, Christopher": [
+        "40130",
+        "40159",
+        "40343"
+      ],
+      "Hoffman, Glynis": [
+        "40289",
+        "40781"
+      ],
+      "Gray, Sarah": [
+        "41930"
+      ],
+      "Zuidervaart, Genevieve": [
+        "41179",
+        "42104",
+        "42326"
+      ],
+      "Rangno, Erik": [
+        "40751"
+      ],
+      "Ruzi, Flavia": [
+        "40113",
+        "42105"
+      ],
+      "Stuart, Andrew": [
+        "41377",
+        "42121"
+      ],
+      "Wood, Joshua": [
+        "40007"
+      ],
+      "Zilkie, Mary": [
+        "40323",
+        "42120"
+      ],
+      "Obstfeld, Loretta": [
+        "40192",
+        "41330"
+      ],
+      "Brito Nunez, Francisco": [
+        "40210",
+        "40746"
+      ],
+      "Garcia, Devon": [
+        "42118"
+      ],
+      "Doherty, Michelle": [
+        "40242"
+      ],
+      "McCarroll, Katie": [
+        "40327"
+      ],
+      "Hoffman, Gary": [
+        "40359"
+      ],
+      "Weatherford, Leigh Ann": [
+        "40349"
+      ],
+      "Nelson, Louella": [
+        "41931"
+      ],
+      "Jones, Brenna": [
+        "40306",
+        "42498"
+      ],
+      "Sevi, Kayleigh": [
+        "40334"
+      ],
+      "Mitchell, Michele": [
+        "41362"
+      ],
+      "Keller, Patrick": [
+        "41332"
+      ],
+      "Kennedy, Marilyn": [
+        "42328"
+      ],
+      "Ramon, Miguel": [
+        "42010"
+      ],
+      "Johnson, Jacqueline": [
+        "40747"
+      ],
+      "OBrien, Jeffrey": [
+        "40749"
+      ],
+      "Hong, Douglas": [
+        "41149"
+      ],
+      "Conner, Catherine": [
+        "40276",
+        "42106"
+      ],
+      "Paez, Gabriel": [
+        "42094"
+      ],
+      "Leonard, Norman": [
+        "40291"
+      ],
+      "Krucli, Thomas": [
+        "40833"
+      ],
+      "Lazzara, Nunzio": [
+        "40243",
+        "40834"
+      ],
+      "Felts, Karen": [
+        "40566",
+        "42536"
+      ],
+      "Hopkins, Dustin": [
+        "40835"
+      ]
+    },
+    "A101 - Critical Reasoning: Fiction": {
+      "Lovegreen, Alan": [
+        "40114",
+        "42537"
+      ],
+      "Gaytan, Don": [
+        "40193",
+        "40199"
+      ],
+      "Gray, Sarah": [
+        "40862"
+      ],
+      "N/A": [
+        "40659",
+        "41002"
+      ],
+      "Sevi, Kayleigh": [
+        "40245"
+      ],
+      "Hoffman, Gary": [
+        "40301"
+      ],
+      "Obstfeld, Loretta": [
+        "40067",
+        "40476"
+      ],
+      "Rangno, Erik": [
+        "41161",
+        "41379"
+      ],
+      "Weatherford, Leigh Ann": [
+        "40204",
+        "41360"
+      ],
+      "Anagnos, Aristi": [
+        "40418"
+      ],
+      "Brito Nunez, Francisco": [
+        "40355"
+      ],
+      "Raleigh, Samual": [
+        "40584"
+      ],
+      "Hardin, Amelia": [
+        "41975"
+      ],
+      "Doherty, Michelle": [
+        "42005"
+      ],
+      "Cruz, Rachelle": [
+        "40449"
+      ],
+      "Mitchell, Michele": [
+        "40597"
+      ],
+      "Parker, Kenneth": [
+        "40024",
+        "40101",
+        "40371"
+      ],
+      "Zitter, Jeremy": [
+        "40362",
+        "40426"
+      ],
+      "Wagner, Laura": [
+        "42187"
+      ],
+      "Walsh, Erin": [
+        "40372"
+      ],
+      "Hoffman, Glynis": [
+        "40832"
+      ],
+      "Keller, Patrick": [
+        "40616"
+      ],
+      "Garcia, Devon": [
+        "40358"
+      ],
+      "Salibi, Nuha": [
+        "42189"
+      ],
+      "Stuart, Andrew": [
+        "41514",
+        "42497"
+      ],
+      "Hopkins, Dustin": [
+        "41932"
+      ],
+      "Matlock, Daniel": [
+        "40080"
+      ],
+      "Treglia, Jessica": [
+        "40246"
+      ],
+      "Felts, Karen": [
+        "40373"
+      ],
+      "Ruzi, Flavia": [
+        "40111",
+        "40695"
+      ],
+      "Fernando, Derrick": [
+        "40415"
+      ]
+    },
+    "A101H - Critical Reasoning:Fiction Hon": {
+      "Rangno, Erik": [
+        "41701"
+      ],
+      "Parker, Kenneth": [
+        "41732"
+      ],
+      "Hoffman, Gary": [
+        "41157"
+      ]
+    },
+    "A102 - Critical Reasoning: Nonfiction": {
+      "Komenda, Virginia": [
+        "41671",
+        "42014"
+      ],
+      "N/A": [
+        "40804"
+      ],
+      "Hardin, Amelia": [
+        "42012"
+      ],
+      "Kennedy, Marilyn": [
+        "41604"
+      ],
+      "Rangno, Erik": [
+        "40336"
+      ]
+    },
+    "A102H - Critical Reasoning:Nonfic. Hon": {
+      "Rangno, Erik": [
+        "42013"
+      ],
+      "Kennedy, Marilyn": [
+        "41929"
+      ]
+    },
+    "A109 - Crit Reasoning/Science/Tech": {
+      "Hardin, Amelia": [
+        "41702"
+      ]
+    },
+    "A119 - Intro to Creative Writing": {
+      "Rangno, Erik": [
+        "40852"
+      ],
+      "Cruz, Rachelle": [
+        "42122"
+      ]
+    },
+    "A122 - Novel Writing I": {
+      "Obstfeld, Raymond": [
+        "40366"
+      ]
+    },
+    "A123 - Writing for Social Media": {
+      "Frank, Jennifer": [
+        "42502"
+      ]
+    },
+    "A126 - Poetry Writing": {
+      "Parker, Kenneth": [
+        "42247"
+      ]
+    },
+    "A127 - Scriptwriting I": {
+      "Leonard, Norman": [
+        "41605"
+      ]
+    },
+    "A141 - The Bible As Literature": {
+      "Weatherford, Leigh Ann": [
+        "46064"
+      ]
+    },
+    "A141H - Bible As Lit Honors": {
+      "Weatherford, Leigh Ann": [
+        "46066"
+      ]
+    },
+    "A143 - Children&#39;s Literature": {
+      "McCarroll, Katie": [
+        "40853"
+      ]
+    },
+    "A150 - American Lit Before 20th Cent": {
+      "Lovegreen, Alan": [
+        "46067"
+      ]
+    },
+    "A150H - Am Lit Before 1900 Honors": {
+      "Lovegreen, Alan": [
+        "46068"
+      ]
+    },
+    "A151 - American Lit in 20th Century": {
+      "Brito Nunez, Francisco": [
+        "41610"
+      ]
+    },
+    "A151H - Am Lit After 1900 Honors": {
+      "Brito Nunez, Francisco": [
+        "41611"
+      ]
+    },
+    "A161 - World Lit from Renaissance": {
+      "Wagner, Laura": [
+        "40331"
+      ]
+    },
+    "A161H - World Lit. from Renais. Hon": {
+      "Wagner, Laura": [
+        "40588"
+      ]
+    },
+    "A176 - World Mythology": {
+      "Barnard, Donna": [
+        "42016"
+      ]
+    },
+    "A176H - World Mythology Honors": {
+      "Barnard, Donna": [
+        "42017"
+      ]
+    },
+    "A181 - Shakespeare": {
+      "Evans, Christopher": [
+        "40970"
+      ]
+    },
+    "A181H - Shakespeare Honors": {
+      "Evans, Christopher": [
+        "41733"
+      ]
+    },
+    "A187H - Literary Theory Honors": {
+      "Felts, Karen": [
+        "46069"
+      ]
+    },
+    "A222 - Novel Writing II": {
+      "Obstfeld, Raymond": [
+        "41787"
+      ]
+    },
+    "A227 - Scriptwriting II": {
+      "Leonard, Norman": [
+        "41824"
+      ]
+    },
+    "A232 - Novel Writing III": {
+      "Obstfeld, Raymond": [
+        "41788"
+      ]
+    },
+    "A237 - Scriptwriting III": {
+      "Leonard, Norman": [
+        "41825"
+      ]
+    },
+    "A242 - Novel Writing IV": {
+      "Obstfeld, Raymond": [
+        "41789"
+      ]
+    },
+    "A247 - Scriptwriting IV": {
+      "Leonard, Norman": [
+        "41826"
+      ]
+    },
+    "A270 - Survey British Lit Before 1800": {
+      "Sevi, Kayleigh": [
+        "40998"
+      ]
+    },
+    "A270H - Survey Brit Lit Befor 1800 Hon": {
+      "Sevi, Kayleigh": [
+        "41369"
+      ]
+    },
+    "A275 - Survey Brit Lit After 1800": {
+      "Zuidervaart, Genevieve": [
+        "41606"
+      ]
+    },
+    "A275H - Survey Brit Lit After 1800 Hon": {
+      "Zuidervaart, Genevieve": [
+        "41607"
+      ]
+    }
+  },
+  "English Language Learning": {
+    "A020N - ELL for US Citizenship 1": {
+      "N/A": [
+        "42454"
+      ]
+    },
+    "A021N - ELL for US Citizenship 2": {
+      "N/A": [
+        "42325"
+      ]
+    },
+    "A026N - ELL Beginning B": {
+      "N/A": [
+        "45833"
+      ]
+    },
+    "A027N - Beginning Grammar Review": {
+      "N/A": [
+        "45834",
+        "45835"
+      ]
+    },
+    "A030N - ELL for Parents: Elem School": {
+      "N/A": [
+        "45836"
+      ]
+    },
+    "A037N - Intermediate Grammar Review": {
+      "N/A": [
+        "45837",
+        "45838"
+      ]
+    },
+    "A043N - Int Eng Skills for Career Prep": {
+      "N/A": [
+        "45839"
+      ]
+    },
+    "A044N - Int Eng Skills for Career Adv": {
+      "N/A": [
+        "45840"
+      ]
+    },
+    "A046N - ELL Intermediate B": {
+      "N/A": [
+        "45841"
+      ]
+    },
+    "A047N - Advanced Grammar Review 1": {
+      "N/A": [
+        "45842"
+      ]
+    },
+    "A048N - Speaking about Non-Fiction-Int": {
+      "N/A": [
+        "45843"
+      ]
+    },
+    "A049N - Speaking about Fiction--Interm": {
+      "N/A": [
+        "45844"
+      ]
+    },
+    "A057N - Advanced Grammar Review 2": {
+      "N/A": [
+        "45845"
+      ]
+    },
+    "A058N - Adv Listen & Speak Trans Acad": {
+      "N/A": [
+        "45846"
+      ]
+    },
+    "A059N - Adv Read & Write Tran Acad": {
+      "N/A": [
+        "45847",
+        "45848"
+      ]
+    }
+  },
+  "English as a Second Language": {
+    "A011 - Begin Listeng/Speakng": {
+      "Putros, Tremonisha": [
+        "40557"
+      ]
+    },
+    "A015 - Grammar, Read & Write 1": {
+      "Ceralde-Elson, Cheryl": [
+        "40558"
+      ]
+    },
+    "A022 - Grammar, Reading and Writing 2": {
+      "Colvin, Diane": [
+        "45903"
+      ]
+    },
+    "A024 - Listening and Speaking 2": {
+      "Colvin, Diane": [
+        "45904"
+      ]
+    },
+    "A032 - Grammar, Reading and Writing 3": {
+      "Barton, Laurie": [
+        "45905"
+      ],
+      "Chapman, Orville": [
+        "45906"
+      ]
+    },
+    "A045N - ESL Supp Fresh Comp:Read/Vocab": {
+      "Dude, Thomas": [
+        "42486"
+      ],
+      "Gomez, Marci": [
+        "45907"
+      ]
+    },
+    "A046N - ESL Supp Fresh Comp: Sentence": {
+      "Wilson, Sterling": [
+        "42559"
+      ]
+    },
+    "A047N - ESL Supp Fresh Comp: Spelling": {
+      "Gomez, Marci": [
+        "42487"
+      ]
+    },
+    "A048N - ESL Supp Fresh Comp: Pronunc": {
+      "Dude, Thomas": [
+        "42488"
+      ]
+    },
+    "A049N - ESL Supp Fresh Comp: Grammar": {
+      "Duran, Paloma": [
+        "42489"
+      ],
+      "Gomez, Marci": [
+        "42490"
+      ]
+    },
+    "A052 - Adv Academic Read and Write 1": {
+      "Lerma, Maria Del": [
+        "45908"
+      ]
+    },
+    "A054 - Listening and Speaking 4": {
+      "Livote, Michelle": [
+        "45909"
+      ],
+      "Lerma, Maria Del": [
+        "45910"
+      ]
+    },
+    "A062 - Adv Academic Read and Write 2": {
+      "Wilson, Sterling": [
+        "45911"
+      ],
+      "Lerma, Maria Del": [
+        "45912"
+      ],
+      "Cervantes, Marely": [
+        "45923"
+      ]
+    },
+    "A100 - ESL College Composition": {
+      "Lerma, Maria Del": [
+        "45926"
+      ],
+      "Cervantes, Marely": [
+        "45928"
+      ],
+      "Barton, Laurie": [
+        "45931"
+      ],
+      "Nguyen, Cindy": [
+        "45932"
+      ]
+    },
+    "A192 - Adv Academic Rdng & Wrtng 3": {
+      "Bucholtz-Magallon, Cheryl": [
+        "45934"
+      ],
+      "Colvin, Diane": [
+        "45935"
+      ]
+    }
+  },
+  "Environmental Science/Ecology": {
+    "A100 - Intro to Environmental Science": {
+      "Snyder, Lisa": [
+        "42048"
+      ],
+      "Elliott, Kelli": [
+        "42049"
+      ]
+    },
+    "A100H - Intro Environmental Sci Honors": {
+      "Snyder, Lisa": [
+        "45946"
+      ],
+      "Elliott, Kelli": [
+        "42242"
+      ]
+    },
+    "A140 - Mediterranean Biome Ecology": {
+      "Goerrissen, Jan": [
+        "42052"
+      ]
+    }
+  },
+  "Ethnic Studies": {
+    "A100 - Contemp Ethnic America": {
+      "Funez-Gonzalez, Juani": [
+        "40244",
+        "41255"
+      ]
+    },
+    "A150 - Ethnic Groups in the U.S.": {
+      "Stanton, Jordan": [
+        "40058",
+        "42461"
+      ]
+    }
+  },
+  "Fashion": {
+    "A100 - Begin Clothing Tech": {
+      "Miller, Sherilyn": [
+        "45804",
+        "45805"
+      ],
+      "Becker, Lauren": [
+        "40188",
+        "40809"
+      ]
+    },
+    "A110 - Applied Textiles & Dsgn": {
+      "Craner, Michelle": [
+        "40191"
+      ]
+    },
+    "A115 - Intro to the Fashion Industry": {
+      "Bonnell, Laura": [
+        "42462"
+      ],
+      "Smith, Camila": [
+        "41936"
+      ]
+    },
+    "A118 - Trend Forecasting": {
+      "Craner, Michelle": [
+        "41269"
+      ]
+    },
+    "A120 - History of Fashion": {
+      "Fueger, Mary Ann": [
+        "41593"
+      ]
+    },
+    "A121 - Street Style": {
+      "Geil, Shane": [
+        "41594"
+      ]
+    },
+    "A135 - Design Thinking": {
+      "Geil, Shane": [
+        "41019"
+      ]
+    },
+    "A137 - Alterations": {
+      "N/A": [
+        "45806"
+      ]
+    },
+    "A145 - Fashion Reporting and Analysis": {
+      "Blackburn, Tara": [
+        "45998"
+      ]
+    },
+    "A150 - Flat Pattern Techniques": {
+      "Lombard, Mary": [
+        "41566"
+      ]
+    },
+    "A155 - Tech-Packs": {
+      "Lombard, Mary": [
+        "40900"
+      ]
+    },
+    "A170 - Clothing Dsgn & Select": {
+      "Becker, Lauren": [
+        "41413"
+      ]
+    },
+    "A175 - Appl Color/Dsgn Theory": {
+      "Becker, Lauren": [
+        "40567"
+      ],
+      "Arakaki, Christine": [
+        "41414"
+      ]
+    },
+    "A177 - Fash Merchandz Concepts": {
+      "Craner, Michelle": [
+        "41270"
+      ]
+    },
+    "A181 - Fashion Internship": {
+      "Craner, Michelle": [
+        "41271"
+      ]
+    },
+    "A182 - Professional Practices": {
+      "Becker, Lauren": [
+        "42268"
+      ]
+    },
+    "A183 - Fund Princ Clothing Const 2": {
+      "N/A": [
+        "41272"
+      ]
+    },
+    "A190 - Apparel Ind Sustainability": {
+      "Sabori, Derek": [
+        "45809"
+      ]
+    },
+    "A191 - Sust & Resp-Fash Dsn/Mfg/Brand": {
+      "Sabori, Derek": [
+        "42196"
+      ]
+    },
+    "A200 - Fashion Internship Lecture": {
+      "Craner, Michelle": [
+        "41670"
+      ]
+    },
+    "A225 - Media, Events, and Promotions": {
+      "Craner, Michelle": [
+        "41020"
+      ]
+    },
+    "A235 - Draping": {
+      "N/A": [
+        "45807"
+      ]
+    },
+    "A255 - Fashion Illustratg Techniqs 1": {
+      "Bonnell, Laura": [
+        "42142"
+      ]
+    },
+    "A256 - Fashion Illustratg Techniqs 2": {
+      "Bux-Hurwitz, Deborah": [
+        "45808"
+      ]
+    }
+  },
+  "Film & Television": {
+    "A100 - Hist and Apprec. of the Cinema": {
+      "Hall, William": [
+        "45722"
+      ],
+      "Forssell, Erik": [
+        "40480",
+        "41794"
+      ],
+      "Riggins, Lawrence": [
+        "41819"
+      ],
+      "Valley, Stephen": [
+        "40493"
+      ],
+      "Hitchings, Jamie": [
+        "41820",
+        "42148"
+      ]
+    },
+    "A102 - Business of Film/Television": {
+      "Martinez, Matthew": [
+        "42186"
+      ]
+    },
+    "A106 - Introduction to Media Writing": {
+      "Hulstrom, Kirk": [
+        "41795",
+        "45723"
+      ]
+    },
+    "A107 - History of Video Games": {
+      "Hitchings, Jamie": [
+        "42085"
+      ]
+    },
+    "A110 - Film Production 1": {
+      "Mesa, Vinni": [
+        "42452"
+      ],
+      "Tavildari, Michael": [
+        "40005"
+      ],
+      "Haton, Kristina": [
+        "42338"
+      ],
+      "OHara, Kevin": [
+        "40377"
+      ],
+      "Shimanek, Thomas": [
+        "41375"
+      ]
+    },
+    "A150 - History of Radio & Television": {
+      "OHara, Kevin": [
+        "40313",
+        "41374",
+        "41625"
+      ]
+    },
+    "A193 - Sound Design for Film & TV": {
+      "Mesa, Vinni": [
+        "42086"
+      ]
+    },
+    "A194 - Editing 1": {
+      "Rue, Michelle": [
+        "42617"
+      ],
+      "OHara, Kevin": [
+        "40351"
+      ],
+      "Newman, Matthew": [
+        "41191",
+        "41626"
+      ],
+      "Shimanek, Thomas": [
+        "41881"
+      ]
+    },
+    "A215 - Social Media Marketing": {
+      "Hulstrom, Kirk": [
+        "45731"
+      ]
+    },
+    "A219 - Editing 2": {
+      "Hitchings, Jamie": [
+        "45781"
+      ]
+    },
+    "A220 - Intro to Virtual Reality (VR)": {
+      "Newman, Matthew": [
+        "42087"
+      ]
+    },
+    "A223 - Immersive Video Game Devel 1": {
+      "Newman, Matthew": [
+        "42286"
+      ]
+    },
+    "A226 - Coding Basics Immers Media App": {
+      "N/A": [
+        "45733"
+      ]
+    },
+    "A234 - 3D Modeling for Immersive Apps": {
+      "Newman, Matthew": [
+        "45732"
+      ]
+    },
+    "A240 - Film Production 2": {
+      "Riggins, Lawrence": [
+        "40370"
+      ],
+      "Tavildari, Michael": [
+        "41882"
+      ]
+    },
+    "A262 - Cinematography": {
+      "Forssell, Erik": [
+        "41919"
+      ]
+    },
+    "A270 - Film Production 3": {
+      "Forssell, Erik": [
+        "40836"
+      ]
+    }
+  },
+  "Food Service Management": {
+    "A100 - Intro Hospitality Indus": {
+      "Cohen, Stephen": [
+        "40378",
+        "42205"
+      ]
+    },
+    "A151 - Food Production Mgmt": {
+      "Yates, Alexandra": [
+        "40285",
+        "41425"
+      ]
+    },
+    "A160 - Sanitation & Safety": {
+      "Larson, Jacqueline": [
+        "40250"
+      ],
+      "Cohen, Stephen": [
+        "41276"
+      ]
+    },
+    "A190 - Dining Room Service": {
+      "Yates, Alexandra": [
+        "40251"
+      ],
+      "Cohen, Stephen": [
+        "41685"
+      ]
+    },
+    "A210 - Dining Room Management": {
+      "Yates, Alexandra": [
+        "40211"
+      ]
+    },
+    "A240 - Food Service Math/Acct": {
+      "Yates, Alexandra": [
+        "40380"
+      ]
+    },
+    "A250 - Menu Planning/Purchasng": {
+      "Yates, Alexandra": [
+        "40381"
+      ]
+    },
+    "A260 - Supervision & Trng Tech": {
+      "Cohen, Stephen": [
+        "40382"
+      ]
+    },
+    "A283 - Directed Practice in FSM 1": {
+      "Yates, Alexandra": [
+        "41885"
+      ]
+    },
+    "A285 - Restaurant Management": {
+      "Singh, Pamela": [
+        "41817"
+      ]
+    }
+  },
+  "Foods & Nutrition": {
+    "A100 - Careers-Dietetics/FDSCI": {
+      "Blake, Elizabeth": [
+        "40818"
+      ]
+    },
+    "A125 - Vegetarian Nutrition": {
+      "Buchanan, Nancy": [
+        "40527"
+      ]
+    },
+    "A136 - Nutrition/Fitness/Performance": {
+      "Grace, Verna": [
+        "40363"
+      ]
+    },
+    "A140 - Intro Nutrition Concept": {
+      "Rodriquez, Valerie": [
+        "40123"
+      ],
+      "Grace, Verna": [
+        "42204"
+      ]
+    },
+    "A170 - Nutrition": {
+      "N/A": [
+        "41424"
+      ],
+      "Grace, Verna": [
+        "40050",
+        "41886"
+      ],
+      "Hesse, Lisa": [
+        "40374"
+      ],
+      "Blake, Elizabeth": [
+        "40819"
+      ]
+    },
+    "A180 - Principles of Foods": {
+      "Hesse, Lisa": [
+        "40600"
+      ]
+    },
+    "A195 - Food Science": {
+      "Silva, Anthony": [
+        "41925"
+      ]
+    },
+    "A286 - Dir Prac Culinology/Food Sci": {
+      "Blake, Elizabeth": [
+        "41010"
+      ]
+    }
+  },
+  "French": {
+    "A180 - Elementary French 1": {
+      "Anglin, Marie": [
+        "40013"
+      ],
+      "Raileanu, Lia": [
+        "40384",
+        "40385"
+      ]
+    },
+    "A180H - Elementary French 1 Honors": {
+      "Raileanu, Lia": [
+        "41599"
+      ]
+    },
+    "A185 - Elementary French 2": {
+      "Raileanu, Lia": [
+        "40153"
+      ],
+      "Anglin, Marie": [
+        "41364"
+      ]
+    },
+    "A185H - Elementary French 2 Honors": {
+      "Raileanu, Lia": [
+        "41600"
+      ]
+    },
+    "A280 - Intermediate French 1": {
+      "Raileanu, Lia": [
+        "41015"
+      ]
+    },
+    "A285 - Intermediate French 2": {
+      "Raileanu, Lia": [
+        "40387"
+      ]
+    }
+  },
+  "Gender Studies": {
+    "A100 - Introduction to Gender Studies": {
+      "Alabi, Jessica": [
+        "40296",
+        "41394"
+      ]
+    },
+    "A130 - Women, Politics, & Inequality": {
+      "Christian, Jessica": [
+        "41635"
+      ]
+    }
+  },
+  "Geography": {
+    "A100 - World Regional Geography": {
+      "Naesse, Irene": [
+        "41166",
+        "42540"
+      ],
+      "Quinn, Christopher": [
+        "40352",
+        "40388",
+        "40399",
+        "40825"
+      ]
+    },
+    "A130 - Intro to Weather & Climate": {
+      "Quinn, Christopher": [
+        "41587"
+      ]
+    },
+    "A180 - Physical Geography": {
+      "Naesse, Irene": [
+        "40237",
+        "40855",
+        "41007"
+      ],
+      "Surfas, Lesley": [
+        "41782"
+      ],
+      "Rossiter, Jaime": [
+        "40147"
+      ],
+      "Haley, Michelle": [
+        "40300"
+      ]
+    },
+    "A180H - Physical Geography Honors": {
+      "Rossiter, Jaime": [
+        "41395"
+      ]
+    },
+    "A180L - Physical Geography Lab": {
+      "Rossiter, Jaime": [
+        "40118",
+        "40693",
+        "41396"
+      ]
+    },
+    "A185 - Cultural Geography": {
+      "Vu, Vienne": [
+        "40356"
+      ]
+    },
+    "A190 - Digital Mapping: Intro to GIS": {
+      "Rossiter, Jaime": [
+        "40472"
+      ]
+    }
+  },
+  "Geology": {
+    "A105 - General Geology": {
+      "Berg, Christopher": [
+        "40880",
+        "41971",
+        "42566"
+      ],
+      "Bender, Edward": [
+        "45971",
+        "45972",
+        "45973"
+      ]
+    },
+    "A105H - General Geology Honors": {
+      "Bender, Edward": [
+        "41646"
+      ]
+    },
+    "A105L - General Geology Lab": {
+      "Bender, Edward": [
+        "40881",
+        "41972",
+        "42004"
+      ],
+      "Berg, Christopher": [
+        "41429"
+      ]
+    },
+    "A105M - General Geology Lab Honors": {
+      "Bender, Edward": [
+        "41647"
+      ]
+    },
+    "A110 - Physical Geology": {
+      "Berg, Christopher": [
+        "41648"
+      ]
+    },
+    "A110L - Physical Geology Lab": {
+      "Berg, Christopher": [
+        "41649"
+      ]
+    }
+  },
+  "German": {
+    "A180 - Elementary German 1": {
+      "Kuzay, Franz": [
+        "41192"
+      ]
+    },
+    "A185 - Elementary German 2": {
+      "Kuzay, Franz": [
+        "41376"
+      ]
+    }
+  },
+  "Global Studies": {
+    "A101 - Introduction to Global Studies": {
+      "Ziff, Alix": [
+        "42168"
+      ]
+    },
+    "A102 - Introduction to Global Issues": {
+      "Ziff, Alix": [
+        "42485"
+      ]
+    }
+  },
+  "Health Education": {
+    "A100 - Personal Health Education": {
+      "N/A": [
+        "40138",
+        "41363"
+      ],
+      "Brown, Diane": [
+        "40304",
+        "41560",
+        "41899"
+      ]
+    },
+    "A122 - Drugs, Health & Society": {
+      "Brown, Diane": [
+        "41961"
+      ]
+    },
+    "A160 - Peer Health Educator - Level 1": {
+      "Brown, Diane": [
+        "41963"
+      ]
+    },
+    "A220 - Concepts in Public Health": {
+      "Hanlon, Anna": [
+        "41962"
+      ]
+    },
+    "A260 - Peer Health Educator - Level 2": {
+      "Brown, Diane": [
+        "41964"
+      ]
+    },
+    "A270 - Fitness & Health": {
+      "Behr, Laura": [
+        "41678",
+        "46098"
+      ],
+      "N/A": [
+        "41045"
+      ],
+      "Sendowsky, Guido": [
+        "41991"
+      ]
+    }
+  },
+  "Heating & Air Conditioning": {
+    "A100 - Air Cond/Refrigeratn Princpl": {
+      "N/A": [
+        "41056",
+        "41866",
+        "42511"
+      ]
+    },
+    "A100L - Air Cond/Refrigeratn Prin Lab": {
+      "N/A": [
+        "46038",
+        "46039",
+        "46040"
+      ]
+    },
+    "A101 - Basic Electrical for HVAC-R": {
+      "N/A": [
+        "41976",
+        "41977",
+        "42512"
+      ]
+    },
+    "A101L - Basic Electrical HVAC-R Lab": {
+      "N/A": [
+        "46042",
+        "46043",
+        "46044"
+      ]
+    },
+    "A102 - Refrigeration Service": {
+      "N/A": [
+        "41148",
+        "42513"
+      ]
+    },
+    "A102L - Refrigeration Service Lab": {
+      "N/A": [
+        "46045",
+        "46076"
+      ]
+    },
+    "A103 - Air Conditioning Serv": {
+      "N/A": [
+        "41978"
+      ]
+    },
+    "A103L - Air Conditioning Serv Lab": {
+      "N/A": [
+        "46077"
+      ]
+    },
+    "A104 - Air Balance": {
+      "N/A": [
+        "40411",
+        "46078"
+      ]
+    },
+    "A105 - Air Cond & Refrig Controls": {
+      "N/A": [
+        "40726",
+        "42162"
+      ]
+    },
+    "A105L - Air Cond & Refrig Controls Lab": {
+      "N/A": [
+        "46079",
+        "46080"
+      ]
+    },
+    "A110 - Pneumatic Controls": {
+      "N/A": [
+        "46056"
+      ]
+    },
+    "A110L - Pneumatic Controls Lab": {
+      "N/A": [
+        "46081"
+      ]
+    },
+    "A111 - Ice Machine Service & Repair": {
+      "N/A": [
+        "46057"
+      ]
+    },
+    "A140 - Building Automation": {
+      "N/A": [
+        "40828"
+      ]
+    }
+  },
+  "History": {
+    "A101 - Afro-American History": {
+      "Smith, Lawrence": [
+        "41636"
+      ]
+    },
+    "A150 - Ethnic Groups of the U.S.": {
+      "Stanton, Jordan": [
+        "40403"
+      ]
+    },
+    "A161 - World History 1": {
+      "Goodale, Sif": [
+        "40982"
+      ],
+      "Stanton, Jordan": [
+        "41779"
+      ],
+      "Harrington, Jared": [
+        "41405"
+      ]
+    },
+    "A162 - World History 2": {
+      "Stanton, Jordan": [
+        "40983",
+        "41588"
+      ]
+    },
+    "A170 - History of U.S. to 1876": {
+      "Archibald, Melissa": [
+        "40023",
+        "40984",
+        "41406"
+      ],
+      "Chaboya, Francesca": [
+        "42309"
+      ],
+      "Okonyan, David": [
+        "40157",
+        "41259"
+      ],
+      "Rudmann, Brent": [
+        "40405",
+        "41827"
+      ],
+      "Mochizuki, Jon": [
+        "40127",
+        "40406"
+      ],
+      "Wilson, Michael": [
+        "40404"
+      ],
+      "Do, Maria": [
+        "40611"
+      ],
+      "Nguyen, Susan": [
+        "41407"
+      ]
+    },
+    "A175 - History of U.S. Since 1876": {
+      "Goodale, Sif": [
+        "40409"
+      ],
+      "Nguyen, Susan": [
+        "40408"
+      ],
+      "Merlo, John": [
+        "41410"
+      ],
+      "Lucier, Bradley": [
+        "41637",
+        "41638"
+      ],
+      "Archibald, Melissa": [
+        "40303",
+        "40407"
+      ],
+      "Smith, Lawrence": [
+        "40194"
+      ],
+      "Wilson, Michael": [
+        "40009"
+      ],
+      "Harrington, Jared": [
+        "41132"
+      ],
+      "Wishon, Mark": [
+        "41780"
+      ],
+      "Kiser, Stacy": [
+        "40412",
+        "41828"
+      ],
+      "Mochizuki, Jon": [
+        "41409"
+      ]
+    },
+    "A175H - History US from 1876 Honors": {
+      "Mochizuki, Jon": [
+        "41411"
+      ]
+    },
+    "A180 - Western Civilization 1": {
+      "Wishon, Mark": [
+        "40315"
+      ]
+    },
+    "A185 - Western Civilization 2": {
+      "Rudmann, Brent": [
+        "40353"
+      ]
+    },
+    "A185H - Western Civilization 2 Honors": {
+      "Rudmann, Brent": [
+        "41910"
+      ]
+    },
+    "A187 - Women in History": {
+      "Do, Maria": [
+        "41781"
+      ]
+    },
+    "A195 - Hist of England/Britain": {
+      "Rudmann, Brent": [
+        "41806"
+      ]
+    }
+  },
+  "Horticulture": {
+    "A100 - Horticulture Science": {
+      "Harlow, Richard": [
+        "41225",
+        "41226"
+      ],
+      "Pullman, Lori": [
+        "41608",
+        "41756"
+      ]
+    },
+    "A115 - Landscape Graphics": {
+      "Pullman, Lori": [
+        "41456"
+      ]
+    },
+    "A150 - Landscape Maintenance": {
+      "Harlow, Richard": [
+        "46071"
+      ]
+    },
+    "A182 - Ornamental Shrubs": {
+      "Harlow, Richard": [
+        "41227"
+      ]
+    },
+    "A190 - Calif Friendly Landscape": {
+      "Pullman, Lori": [
+        "42198"
+      ]
+    },
+    "A191 - Cacti and Succulents": {
+      "Stead, Joseph": [
+        "41757"
+      ]
+    },
+    "A283 - Therapeutic Gardens: Design": {
+      "Pullman, Lori": [
+        "41918"
+      ]
+    },
+    "A288 - Sprinkler Irrigatn Syst Dsgn": {
+      "Harlow, Richard": [
+        "45952"
+      ]
+    },
+    "A296 - Grading & Drainage Landscape D": {
+      "Pullman, Lori": [
+        "45954"
+      ]
+    }
+  },
+  "Hospitality, Travel & Tourism": {
+    "A105 - Passport to Success": {
+      "N/A": [
+        "41046"
+      ]
+    },
+    "A125 - Destination the Americas": {
+      "Little, Sharon": [
+        "41946"
+      ]
+    },
+    "A128 - Destination Africa/Pacific": {
+      "Little, Sharon": [
+        "40796"
+      ]
+    },
+    "A131 - Computer Reserv-SABRE": {
+      "DeShano, Tina": [
+        "41139"
+      ]
+    },
+    "A135 - Homeland Security": {
+      "DeShano, Tina": [
+        "40705"
+      ]
+    },
+    "A140 - Revenue Management": {
+      "Estes, Richard": [
+        "41947"
+      ]
+    },
+    "A157 - Tour Escorting & Group Travel": {
+      "Keany, Shannon": [
+        "41948"
+      ]
+    },
+    "A158 - Luxury Incentive Corp Travel": {
+      "Little, Sharon": [
+        "41949"
+      ]
+    },
+    "A170 - Spa Industry Finance": {
+      "Boody, Cynthia": [
+        "40500"
+      ]
+    },
+    "A175 - Spa Mktg/Retail Mgmt": {
+      "Boody, Cynthia": [
+        "40530"
+      ]
+    },
+    "A180 - Enhancing Guest Service": {
+      "Hurt, Rodney": [
+        "41536"
+      ]
+    },
+    "A185 - Interview & Prof Development": {
+      "DeShano, Tina": [
+        "41950"
+      ]
+    },
+    "A221 - Meeting/Event Mgmt Internship": {
+      "N/A": [
+        "41277"
+      ]
+    },
+    "A225 - Travel/Tourism Internship": {
+      "N/A": [
+        "41537"
+      ]
+    },
+    "A226 - Airline Internship": {
+      "N/A": [
+        "41278"
+      ]
+    },
+    "A227 - Hotel Internship": {
+      "N/A": [
+        "41279"
+      ]
+    },
+    "A267 - Managing Business Risks": {
+      "DeShano, Tina": [
+        "40798"
+      ]
+    },
+    "A269 - Destination Management": {
+      "Keany, Shannon": [
+        "40706"
+      ]
+    },
+    "A270 - Mtg & Event Marketing & Sales": {
+      "N/A": [
+        "41140"
+      ]
+    },
+    "A275 - Event Fund-Raising & Sponsorsh": {
+      "Keany, Shannon": [
+        "40854"
+      ]
+    },
+    "A276 - Expo/Trade Show Mgmt Promotion": {
+      "Keany, Shannon": [
+        "41426"
+      ]
+    },
+    "A277 - Wedding Planning as a Business": {
+      "Little, Sharon": [
+        "40797"
+      ]
+    },
+    "A279 - Spa Internship": {
+      "N/A": [
+        "46058"
+      ]
+    },
+    "A285 - Hospitality Operations": {
+      "N/A": [
+        "46052"
+      ]
+    },
+    "A286 - Hosp/Travel/Tour Law": {
+      "DeShano, Tina": [
+        "40453"
+      ]
+    },
+    "A288 - Human Resource Managemt": {
+      "DeShano, Tina": [
+        "46059"
+      ]
+    }
+  },
+  "Human Development": {
+    "A180 - Child Growth and Development": {
+      "Chaiyakal, Jennifer": [
+        "41621",
+        "41725",
+        "42267",
+        "42551",
+        "45811",
+        "45812"
+      ],
+      "Campbell, Laurie": [
+        "45813",
+        "45814"
+      ],
+      "Vidal-Prudholme, Laura": [
+        "40046"
+      ]
+    },
+    "A184 - Infant Dev/Relationship": {
+      "Noah, Melissa": [
+        "42550"
+      ]
+    },
+    "A190 - Family-School-Community": {
+      "Jones, Joyce": [
+        "40420"
+      ],
+      "Noah, Melissa": [
+        "40422"
+      ],
+      "Williamson-Champion, Kisha": [
+        "41974"
+      ]
+    },
+    "A210 - Intro Exceptional Child": {
+      "Springett, Marion": [
+        "41334"
+      ]
+    }
+  },
+  "Humanities": {
+    "A100 - Introduction to the Humanities": {
+      "Stanton, Jordan": [
+        "40423"
+      ],
+      "Otwell, Charles": [
+        "40424"
+      ]
+    }
+  },
+  "Information Technology": {
+    "A110 - PC A+ Certificate Prep": {
+      "Baker, Jared": [
+        "42211"
+      ]
+    },
+    "A191 - Network/Comm Technologies": {
+      "Nerad, Patrick": [
+        "42213"
+      ]
+    }
+  },
+  "Integrative Health": {
+    "A210 - Hlth Care, Insur, Pub Asst": {
+      "Halkia, Georgia": [
+        "45962"
+      ]
+    },
+    "A220 - Tech and Topics in Health Ed": {
+      "Brown, Diane": [
+        "45960"
+      ]
+    },
+    "A225 - Intro to CAM": {
+      "N/A": [
+        "45964"
+      ]
+    }
+  },
+  "Intercollegiate Athletics": {
+    "A119 - Athletic Team Training": {
+      "Ochoa, Marco": [
+        "41070",
+        "41072"
+      ],
+      "Ortega, John": [
+        "41703"
+      ],
+      "Gonzalez, Joel": [
+        "41071"
+      ],
+      "Doucette, Samantha": [
+        "41073"
+      ],
+      "Cutenese, Charles": [
+        "41074"
+      ],
+      "Matulis, Daniel": [
+        "41075",
+        "41077"
+      ],
+      "Smith, Kevin": [
+        "41076",
+        "41742"
+      ],
+      "Spencer, Steven": [
+        "41280"
+      ]
+    },
+    "A129 - Fitness for Performance": {
+      "Doucette, Samantha": [
+        "41462"
+      ],
+      "Gonzalez, Joel": [
+        "41463"
+      ],
+      "Ochoa, Marco": [
+        "41464",
+        "41465"
+      ],
+      "Spencer, Steven": [
+        "41466"
+      ],
+      "Matulis, Daniel": [
+        "41467",
+        "41706"
+      ],
+      "Smith, Kevin": [
+        "41468",
+        "41469"
+      ],
+      "Cutenese, Charles": [
+        "42063"
+      ]
+    },
+    "A222 - Pep Squad": {
+      "Roberts, Brittanee": [
+        "41850"
+      ]
+    },
+    "A238 - Crew Team - Women&#39;s": {
+      "Behr, Laura": [
+        "41114"
+      ]
+    },
+    "A241 - Fastpitch Team": {
+      "Legaspi, Jodie": [
+        "41116"
+      ]
+    },
+    "A242 - Swimming Team - Women&#39;s": {
+      "Iacopetti, Anthony": [
+        "41118"
+      ]
+    },
+    "A243 - Tennis Team - Women&#39;s": {
+      "Ketcham, Christopher": [
+        "41120"
+      ]
+    },
+    "A244 - Track & Field Team - Women&#39;s": {
+      "Williams, Jennifer": [
+        "41122"
+      ]
+    },
+    "A247 - Sand Volleyball Team-Women&#39;s": {
+      "Cutenese, Charles": [
+        "41960"
+      ]
+    },
+    "A250 - Baseball Team": {
+      "Johnson, Nathan": [
+        "41059"
+      ]
+    },
+    "A252 - Crew Team - Men&#39;s": {
+      "Brown, Cameron": [
+        "41061"
+      ]
+    },
+    "A255 - Golf Team - Men&#39;s": {
+      "Collins, Sean": [
+        "41063"
+      ]
+    },
+    "A258 - Swimming Team - Men&#39;s": {
+      "Iacopetti, Anthony": [
+        "41106"
+      ]
+    },
+    "A259 - Tennis Team - Men&#39;s": {
+      "Ketcham, Christopher": [
+        "41108"
+      ]
+    },
+    "A260 - Track & Field Team - Men&#39;s": {
+      "Williams, Jennifer": [
+        "41110"
+      ]
+    },
+    "A261 - Volleyball Team - Men&#39;s": {
+      "Turner, Travis": [
+        "41112"
+      ]
+    }
+  },
+  "Interior Design": {
+    "A100 - Fund of Interior Design": {
+      "Kubiak, Renee": [
+        "40238",
+        "40428"
+      ],
+      "Arakaki, Christine": [
+        "41273"
+      ]
+    },
+    "A105 - Interior Dsgn Studio 1": {
+      "Kubiak, Renee": [
+        "40561",
+        "40668"
+      ]
+    },
+    "A110 - Design Comm 1: Design Graphics": {
+      "Secor, John": [
+        "41416"
+      ],
+      "Allgood, Maria": [
+        "42266"
+      ]
+    },
+    "A120 - Interior Design Careers": {
+      "Arakaki, Christine": [
+        "42464"
+      ]
+    },
+    "A130 - Desgn Communication 2:CAD 2-D": {
+      "Reed, Charlene": [
+        "41021"
+      ]
+    },
+    "A150 - Interior Materials & Products": {
+      "Secor, Patricia": [
+        "46094"
+      ]
+    },
+    "A170 - Space Planning": {
+      "Reed, Charlene": [
+        "40585"
+      ]
+    },
+    "A175 - Appl Color/Dsgn Theory": {
+      "Arakaki, Christine": [
+        "41908"
+      ],
+      "Becker, Lauren": [
+        "40568"
+      ]
+    },
+    "A180 - Hist Arch & Furnishng 1": {
+      "Moore, Carrie": [
+        "41418"
+      ]
+    },
+    "A190 - Hist Arch/Furnishings 2": {
+      "Moore, Carrie": [
+        "41905"
+      ]
+    },
+    "A210 - Fundamentals of Lightng": {
+      "Baker, Janet": [
+        "45810"
+      ]
+    },
+    "A215 - Interior Dsgn Studio 2": {
+      "Reed, Charlene": [
+        "40481"
+      ]
+    },
+    "A220 - Int Design Construction Docs": {
+      "Secor, John": [
+        "40810"
+      ]
+    },
+    "A230 - Business/Prof Practice": {
+      "Secor, Patricia": [
+        "40811"
+      ]
+    },
+    "A240 - Interior Design Internship": {
+      "Reed, Charlene": [
+        "40432"
+      ]
+    },
+    "A245 - Portfolio Development": {
+      "Reed, Charlene": [
+        "41419"
+      ]
+    },
+    "A280 - Interior Design Studio-Bath": {
+      "Kiklowicz, Rachelle": [
+        "41903"
+      ]
+    },
+    "A285 - Interior Design Studio-Kitchen": {
+      "Kiklowicz, Rachelle": [
+        "42024"
+      ]
+    }
+  },
+  "Italian": {
+    "A180 - Elementary Italian 1": {
+      "Hamber, Franca": [
+        "41195"
+      ]
+    },
+    "A185 - Elementary Italian 2": {
+      "Hamber, Franca": [
+        "41196"
+      ]
+    }
+  },
+  "Japanese": {
+    "A180 - Elementary Japanese 1": {
+      "Kagawa, Akemi": [
+        "40430",
+        "40433",
+        "41193"
+      ],
+      "Ito, Manami": [
+        "41013"
+      ]
+    },
+    "A180H - Elementary Japanese 1 Honors": {
+      "Kagawa, Akemi": [
+        "41602"
+      ]
+    },
+    "A185 - Elementary Japanese 2": {
+      "Kagawa, Akemi": [
+        "40434"
+      ]
+    },
+    "A185H - Elementary Japanese 2 Honors": {
+      "Kagawa, Akemi": [
+        "41601"
+      ]
+    },
+    "A280 - Intermediate Japanese 1": {
+      "Kagawa, Akemi": [
+        "41014"
+      ]
+    },
+    "A285 - Intermediate Japanese 2": {
+      "Kagawa, Akemi": [
+        "40272"
+      ]
+    }
+  },
+  "Journalism": {
+    "A110 - News Writing/Reporting": {
+      "Shermak, Jeremy": [
+        "40383",
+        "41183"
+      ],
+      "Chang, Richard": [
+        "41162"
+      ]
+    },
+    "A113 - Social Media Prnt & Online Jrn": {
+      "Shermak, Jeremy": [
+        "42021"
+      ]
+    },
+    "A115 - Newspaper Production Level 1": {
+      "Shermak, Jeremy": [
+        "40198"
+      ]
+    },
+    "A116 - Multi-Mdia Rprt/Prducng": {
+      "Martin, Marc": [
+        "41438"
+      ]
+    },
+    "A117 - Narrative Journalism": {
+      "Arellano, Gustavo": [
+        "41182"
+      ]
+    },
+    "A123 - Social Media Prnt & Online 2": {
+      "Shermak, Jeremy": [
+        "42022"
+      ]
+    },
+    "A125 - Newspaper Production Level 2": {
+      "Shermak, Jeremy": [
+        "41181"
+      ]
+    },
+    "A135 - Newspaper Prod Level 3": {
+      "Shermak, Jeremy": [
+        "41355"
+      ]
+    },
+    "A145 - Newspaper Production Level 4": {
+      "Shermak, Jeremy": [
+        "41437"
+      ]
+    },
+    "A185 - Photojournalism": {
+      "Martin, Marc": [
+        "41441"
+      ]
+    },
+    "A215 - Coast Report Ed Brd Level 1": {
+      "Shermak, Jeremy": [
+        "40202"
+      ]
+    },
+    "A225 - Coast Report Ed Brd Level 2": {
+      "Shermak, Jeremy": [
+        "41184"
+      ]
+    },
+    "A235 - Coast Report Ed Brd Level 3": {
+      "Shermak, Jeremy": [
+        "41442"
+      ]
+    },
+    "A245 - Coast Report Ed Brd Level 4": {
+      "Shermak, Jeremy": [
+        "41443"
+      ]
+    }
+  },
+  "Kinesiology": {
+    "A105 - Cardiovascular Fitness": {
+      "Spencer, Steven": [
+        "41283"
+      ]
+    },
+    "A106 - Weight Training Level 1": {
+      "Spencer, Steven": [
+        "41091"
+      ],
+      "Legaspi, Jodie": [
+        "41092"
+      ],
+      "Johnson, Nathan": [
+        "41939"
+      ]
+    },
+    "A109 - Cardio Train & Strength Dev 1": {
+      "N/A": [
+        "42060",
+        "42081"
+      ]
+    },
+    "A110 - Walking for Fitness Level 1": {
+      "Gonzalez, Joel": [
+        "41940"
+      ]
+    },
+    "A114 - Cardio-Kick Boxing Level 1": {
+      "Doty, Brittni": [
+        "42518"
+      ]
+    },
+    "A115 - Cross Training Level 1": {
+      "Brown, Cameron": [
+        "41151"
+      ]
+    },
+    "A125 - Self Defense for Women": {
+      "Williams, Jennifer": [
+        "42274"
+      ]
+    },
+    "A128 - Hatha Yoga - Level I": {
+      "N/A": [
+        "41152",
+        "41457"
+      ],
+      "Doucette, Samantha": [
+        "41559",
+        "41681"
+      ]
+    },
+    "A131 - Swimming for Fitness Level 1": {
+      "Iacopetti, Anthony": [
+        "46116"
+      ],
+      "N/A": [
+        "41461",
+        "41523"
+      ]
+    },
+    "A132 - Swimming Level 1": {
+      "Iacopetti, Anthony": [
+        "41104"
+      ]
+    },
+    "A136 - Introduction to Sailing": {
+      "Prioleau, Karen": [
+        "41131"
+      ]
+    },
+    "A137 - Intmd Sailing/Intro Keel Boats": {
+      "Prioleau, Karen": [
+        "41142"
+      ]
+    },
+    "A141 - Surfing and Ocean Safety Lev 1": {
+      "Hayes, Laird": [
+        "41105"
+      ]
+    },
+    "A145 - Badminton Level 1": {
+      "Ketcham, Christopher": [
+        "41942"
+      ]
+    },
+    "A146 - Tennis Level 1": {
+      "N/A": [
+        "42568"
+      ],
+      "Spencer, Steven": [
+        "41103"
+      ]
+    },
+    "A147 - Table Tennis Level 1": {
+      "Johnson, Nathan": [
+        "41154"
+      ]
+    },
+    "A150 - Basketball": {
+      "Doucette, Samantha": [
+        "42573"
+      ],
+      "Spencer, Steven": [
+        "41099"
+      ]
+    },
+    "A151 - Futsal/Indoor Soccer Level 1": {
+      "N/A": [
+        "41153"
+      ]
+    },
+    "A152 - Soccer Level 1": {
+      "Strachan, Glenn": [
+        "41459"
+      ]
+    },
+    "A153 - Golf Level 1": {
+      "N/A": [
+        "41100"
+      ]
+    },
+    "A156 - Rock Climbing Level 1": {
+      "Smith, Kevin": [
+        "41285"
+      ]
+    },
+    "A170 - Adapted Strength Train": {
+      "Pecora, Heather": [
+        "41086",
+        "41679"
+      ]
+    },
+    "A172 - Adapted Aquatics": {
+      "Pecora, Heather": [
+        "46099"
+      ]
+    },
+    "A173 - Adapted Strength & Balance": {
+      "Pecora, Heather": [
+        "41087"
+      ]
+    },
+    "A174 - Adapted Cardio Fitness": {
+      "Williams, Jennifer": [
+        "41088",
+        "41680"
+      ]
+    },
+    "A176 - Adapted Stretching": {
+      "Pecora, Heather": [
+        "41090"
+      ]
+    },
+    "A202 - Introduction to Kinesiology": {
+      "Legaspi, Jodie": [
+        "41155"
+      ],
+      "Ochoa, Marco": [
+        "41524",
+        "41798"
+      ],
+      "Sendowsky, Guido": [
+        "41799",
+        "42173",
+        "42279"
+      ],
+      "Ketcham, Christopher": [
+        "41711"
+      ]
+    },
+    "A203 - First Aid and CPR": {
+      "Johnson, Nathan": [
+        "41987",
+        "46110"
+      ],
+      "Williams, Jennifer": [
+        "41985"
+      ],
+      "Doucette, Samantha": [
+        "41988"
+      ]
+    },
+    "A206 - Weight Training Level 2": {
+      "Spencer, Steven": [
+        "42057"
+      ],
+      "Legaspi, Jodie": [
+        "42058"
+      ],
+      "Johnson, Nathan": [
+        "42059"
+      ]
+    },
+    "A210 - Walking for Fitness Level 2": {
+      "Gonzalez, Joel": [
+        "41941"
+      ]
+    },
+    "A214 - Cardio Kickboxing Level 2": {
+      "Doty, Brittni": [
+        "42519"
+      ]
+    },
+    "A215 - Cross Training Level 2": {
+      "Brown, Cameron": [
+        "41525"
+      ]
+    },
+    "A228 - Hatha Yoga - Level II": {
+      "McKeachie, Ashley": [
+        "41682"
+      ]
+    },
+    "A231 - Swimming for Fitness Level 2": {
+      "Iacopetti, Anthony": [
+        "46115"
+      ],
+      "N/A": [
+        "41532",
+        "41533"
+      ]
+    },
+    "A232 - Swimming Level 2": {
+      "Iacopetti, Anthony": [
+        "41534"
+      ]
+    },
+    "A241 - Surfing and Ocean Safety 2": {
+      "Hayes, Laird": [
+        "41535"
+      ]
+    },
+    "A245 - Badminton Level 2": {
+      "Ketcham, Christopher": [
+        "42176"
+      ]
+    },
+    "A246 - Tennis Level 2": {
+      "N/A": [
+        "42569"
+      ],
+      "Spencer, Steven": [
+        "41530"
+      ]
+    },
+    "A247 - Table Tennis - Level 2": {
+      "Johnson, Nathan": [
+        "41531"
+      ]
+    },
+    "A251 - Fust/Indoor Soccer Level 2": {
+      "N/A": [
+        "41526"
+      ]
+    },
+    "A252 - Soccer Level 2": {
+      "Strachan, Glenn": [
+        "41527"
+      ]
+    },
+    "A253 - Golf Level 2": {
+      "N/A": [
+        "41528"
+      ]
+    },
+    "A256 - Rock Climbing Level 2": {
+      "Smith, Kevin": [
+        "46108"
+      ]
+    },
+    "A270 - Fitness & Health": {
+      "Behr, Laura": [
+        "41683",
+        "46111"
+      ],
+      "N/A": [
+        "41141"
+      ],
+      "Sendowsky, Guido": [
+        "41990"
+      ]
+    },
+    "A271 - Drugs & Sports": {
+      "Gonzalez, Joel": [
+        "46112"
+      ]
+    },
+    "A272 - Movement Analysis": {
+      "Brown, Cameron": [
+        "41078"
+      ]
+    },
+    "A274 - Athlt Taping/Modalities": {
+      "Kekipi, Chaz": [
+        "41080"
+      ]
+    },
+    "A275 - Sports Med Practicum Level 1": {
+      "Sendowsky, Guido": [
+        "41081",
+        "41082",
+        "41083"
+      ]
+    },
+    "A276 - Sports Med Practicum Level 2": {
+      "Sendowsky, Guido": [
+        "41282"
+      ]
+    },
+    "A277 - Sports Med Practicum Level 3": {
+      "Sendowsky, Guido": [
+        "41281"
+      ]
+    },
+    "A278 - Sports Med Practicum Level 4": {
+      "Sendowsky, Guido": [
+        "41797"
+      ]
+    },
+    "A279 - Sports Management": {
+      "Legaspi, Jodie": [
+        "42531"
+      ]
+    },
+    "A280 - Strength & Conditioning Theory": {
+      "Nix, Courtney": [
+        "41338"
+      ]
+    },
+    "A282 - Intro to Exercise Physiology": {
+      "Behr, Laura": [
+        "41084"
+      ]
+    },
+    "A283 - Nutrition Fitness Performance": {
+      "Grace, Verna": [
+        "41923"
+      ]
+    },
+    "A286 - Yoga Methodology 2": {
+      "McKeachie, Ashley": [
+        "46155"
+      ]
+    },
+    "A287 - Yoga Practicum Level 1": {
+      "McKeachie, Ashley": [
+        "46156"
+      ]
+    },
+    "A289 - Mental Performance & Exercise": {
+      "Matulis, Daniel": [
+        "46114"
+      ]
+    },
+    "A297 - Fitness Specialist Practicum": {
+      "Nix, Courtney": [
+        "42538"
+      ]
+    },
+    "A298 - Fitness Specialist Internship": {
+      "Behr, Laura": [
+        "41085"
+      ]
+    }
+  },
+  "Learning": {
+    "A001 - Basc Skills Remediation": {
+      "Chavez Jimenez, Irving": [
+        "40665",
+        "40666",
+        "40667"
+      ]
+    }
+  },
+  "Library": {
+    "A100 - Library Research/Info Comp": {
+      "N/A": [
+        "40812"
+      ]
+    }
+  },
+  "Machine Technology": {
+    "A100 - Intro to Machine Shop": {
+      "Black, Bill": [
+        "40136"
+      ],
+      "Cervantes, Aureliano": [
+        "40728"
+      ]
+    },
+    "A100L - Intro to Machine Shop Lab": {
+      "Cervantes, Aureliano": [
+        "46046"
+      ],
+      "Black, Bill": [
+        "46047",
+        "46048",
+        "46049"
+      ]
+    },
+    "A105 - Lathe": {
+      "Henderson, Karl": [
+        "40309"
+      ]
+    },
+    "A105L - Lathe Lab": {
+      "Henderson, Karl": [
+        "46050",
+        "46051"
+      ]
+    },
+    "A110 - Milling Machine": {
+      "Cervantes, Aureliano": [
+        "40441"
+      ]
+    },
+    "A110L - Milling Machine Lab": {
+      "Cervantes, Aureliano": [
+        "46054",
+        "46055"
+      ]
+    },
+    "A115 - Production Maching Techniques": {
+      "N/A": [
+        "46082"
+      ],
+      "Black, Bill": [
+        "41538"
+      ]
+    },
+    "A120 - Measurement& Blueprint Reading": {
+      "Limsakoune, Chacphet": [
+        "40443"
+      ]
+    },
+    "A121 - Computat for Machinists": {
+      "Peyatt, Rick": [
+        "40847"
+      ]
+    },
+    "A125 - CNC Machine Operation 1": {
+      "Henderson, Karl": [
+        "41303"
+      ]
+    },
+    "A126 - CNC Machine Operation 2": {
+      "Henderson, Karl": [
+        "40414"
+      ]
+    },
+    "A130 - Intro CNC & Manual Prog": {
+      "Cervantes, Aureliano": [
+        "41761"
+      ]
+    },
+    "A133 - CNC Program-Mastercam 1": {
+      "Stickel, Karl": [
+        "40195"
+      ]
+    },
+    "A134 - CNC Program-Mastercam 2": {
+      "Stickel, Karl": [
+        "41518"
+      ]
+    },
+    "A152 - Introduction to SolidWorks": {
+      "Kikawa, Jonathan": [
+        "41658"
+      ]
+    },
+    "A175 - Dimensioning & Tolerancing": {
+      "N/A": [
+        "41660"
+      ]
+    }
+  },
+  "Management": {
+    "A100 - Applied Management": {
+      "Clark, Gregory": [
+        "40663"
+      ]
+    },
+    "A115 - Human Relations & Supv": {
+      "Clark, Gregory": [
+        "40203"
+      ]
+    },
+    "A239 - Professionl Communicatn": {
+      "Krallman, Keith": [
+        "41135"
+      ]
+    }
+  },
+  "Marine Activities": {
+    "A136 - Introduction to Sailing": {
+      "Prioleau, Karen": [
+        "41129"
+      ]
+    },
+    "A137 - Intmd Sail - Intro Keel Boats": {
+      "Prioleau, Karen": [
+        "41143"
+      ]
+    },
+    "A150 - Coastal Navigation": {
+      "Prioleau, Karen": [
+        "41687"
+      ]
+    },
+    "A153 - Marine Basic Safety Training": {
+      "Prioleau, Karen": [
+        "40718"
+      ]
+    },
+    "A154 - Yacht & Engine Maint": {
+      "Prioleau, Karen": [
+        "40719"
+      ]
+    },
+    "A157 - Radar Observer": {
+      "Mealey, Ronald": [
+        "40857"
+      ]
+    },
+    "A200 - Professional Mariner Internshp": {
+      "N/A": [
+        "41738"
+      ]
+    },
+    "A201 - Prof Mariner Internship Lectur": {
+      "N/A": [
+        "41739"
+      ]
+    }
+  },
+  "Marine Science": {
+    "A100 - Oceanography": {
+      "Baker, Karen": [
+        "41917",
+        "45947"
+      ],
+      "Snyder, Lisa": [
+        "45948"
+      ],
+      "Ellis, Robert": [
+        "40454",
+        "46070"
+      ],
+      "Williamson, Lindsey": [
+        "40031"
+      ]
+    },
+    "A100L - Oceanography Lab": {
+      "Johnston, Donald": [
+        "40057"
+      ],
+      "Blasius, Mary": [
+        "40241",
+        "40492"
+      ],
+      "N/A": [
+        "40329",
+        "41585"
+      ],
+      "Baker, Karen": [
+        "40442",
+        "41454"
+      ]
+    },
+    "A120 - Marine Aquarium Science": {
+      "Williamson, Lindsey": [
+        "45949"
+      ],
+      "Ellis, Robert": [
+        "40021"
+      ]
+    },
+    "A140 - Aquarium Life Support Op&Maint": {
+      "Williamson, Lindsey": [
+        "42243"
+      ]
+    },
+    "A180 - Marine Biology": {
+      "Ellis, Robert": [
+        "41455",
+        "45950"
+      ]
+    },
+    "A180L - Marine Biology Lab": {
+      "Blasius, Mary": [
+        "41632"
+      ]
+    },
+    "A185 - Coastal Oceanography": {
+      "Baker, Karen": [
+        "45951"
+      ]
+    },
+    "A220 - Aquarium Science Management 1": {
+      "Williamson, Lindsey": [
+        "41894"
+      ]
+    },
+    "A221 - Aquarium Science Management 2": {
+      "Williamson, Lindsey": [
+        "41895"
+      ]
+    }
+  },
+  "Marketing": {
+    "A100 - Intro to Marketing": {
+      "Morgan, Dennis": [
+        "40461",
+        "40694"
+      ],
+      "Grooms, Mark": [
+        "40375"
+      ]
+    },
+    "A110 - Professional Selling": {
+      "Morgan, Dennis": [
+        "40462",
+        "40463"
+      ]
+    },
+    "A130 - Principle of Advertisng": {
+      "Bright, Lynn": [
+        "40464"
+      ],
+      "Morgan, Dennis": [
+        "40465"
+      ]
+    },
+    "A142 - Direct Marketing": {
+      "Bright, Lynn": [
+        "40395"
+      ]
+    },
+    "A150 - International Marketing": {
+      "Gordon, Lee": [
+        "46012"
+      ]
+    },
+    "A150H - International Marketing Honors": {
+      "Gordon, Lee": [
+        "46013"
+      ]
+    },
+    "A200 - Retail E-Commerce Mgmt": {
+      "Hazen, John": [
+        "41938"
+      ]
+    }
+  },
+  "Mathematics": {
+    "A004N - Math Jam Basic Comp Skills NC": {
+      "Blair, Jamie": [
+        "42530"
+      ]
+    },
+    "A008 - Pre-Algebra": {
+      "Sam, Thinh": [
+        "40066"
+      ]
+    },
+    "A010 - Elementary Algebra": {
+      "Raskin, Debra": [
+        "41008",
+        "45980"
+      ],
+      "Sam, Thinh": [
+        "40485"
+      ]
+    },
+    "A030 - Intermediate Algebra": {
+      "Arismendi-Pardi, Eduardo": [
+        "40470",
+        "45981"
+      ],
+      "Maekawa, Naoko": [
+        "40348",
+        "45982"
+      ]
+    },
+    "A045 - Elementary & Intermed Algebra": {
+      "Raskin, Debra": [
+        "41884",
+        "45983"
+      ]
+    },
+    "A090 - Support for Liberal Arts Math": {
+      "Fletcher, Huong": [
+        "42341",
+        "45984"
+      ],
+      "Ramedani, Parvin": [
+        "42342"
+      ],
+      "Kuznetsov, Kira": [
+        "42343"
+      ],
+      "Ly, Tuyen": [
+        "42344"
+      ],
+      "Chung, Phoebe": [
+        "42346",
+        "42347"
+      ]
+    },
+    "A091 - Support for College Algebra": {
+      "Gonzalez, Carly": [
+        "42349"
+      ],
+      "Maekawa, Naoko": [
+        "42350"
+      ],
+      "Meola, Frank": [
+        "42351"
+      ],
+      "Choi, Timothy": [
+        "42352"
+      ],
+      "Shirman, Tatyana": [
+        "42353"
+      ],
+      "Rozak, Richard": [
+        "42354"
+      ],
+      "Mofid, Kevin": [
+        "42355"
+      ],
+      "Melendez Sierra, Ramon": [
+        "42357"
+      ]
+    },
+    "A092 - Support for Trigonometry": {
+      "Gonzalez, Carly": [
+        "42358",
+        "42362"
+      ],
+      "Tress, Marguerite": [
+        "42361"
+      ],
+      "Butenko, Anton": [
+        "42364"
+      ],
+      "Giddings Aggleton, Jennifer": [
+        "46021"
+      ]
+    },
+    "A096 - Support for Intro to Statistcs": {
+      "Cioczek-Georges, Renata": [
+        "42365"
+      ],
+      "Nguyen, Dai": [
+        "42366"
+      ],
+      "Chrispens, Adriana": [
+        "42367"
+      ],
+      "Ulloa, Daniel": [
+        "42368"
+      ],
+      "Abdoli, Mansour": [
+        "42369"
+      ],
+      "Phan, Huyvu": [
+        "42370"
+      ],
+      "Ninh, Joseph": [
+        "42373"
+      ],
+      "Guerra, Jorge": [
+        "42374"
+      ]
+    },
+    "A100 - Liberal Arts Mathematics": {
+      "Kuznetsov, Kira": [
+        "42375"
+      ],
+      "Ly, Tuyen": [
+        "42376",
+        "45987"
+      ],
+      "Chung, Phoebe": [
+        "42378",
+        "42379"
+      ],
+      "Fletcher, Huong": [
+        "42387",
+        "45986"
+      ],
+      "Ramedani, Parvin": [
+        "42388"
+      ],
+      "Pham, Mai Anh": [
+        "45985"
+      ],
+      "Cooley, Timothy": [
+        "40475",
+        "42031"
+      ]
+    },
+    "A104 - Mathematics for Elem Teachers": {
+      "Pham, Mai Anh": [
+        "40098",
+        "42440"
+      ]
+    },
+    "A115 - College Algebra": {
+      "Gonzalez, Carly": [
+        "42390"
+      ],
+      "Maekawa, Naoko": [
+        "42391"
+      ],
+      "Meola, Frank": [
+        "42392"
+      ],
+      "Choi, Timothy": [
+        "42393"
+      ],
+      "Shirman, Tatyana": [
+        "40873",
+        "42394"
+      ],
+      "Rozak, Richard": [
+        "41650",
+        "42395"
+      ],
+      "Mofid, Kevin": [
+        "42396"
+      ],
+      "Melendez Sierra, Ramon": [
+        "42397"
+      ],
+      "Sam, Thinh": [
+        "40872",
+        "41433",
+        "42441"
+      ],
+      "Livingston, Tab": [
+        "41189",
+        "41829"
+      ]
+    },
+    "A120 - Trigonometry": {
+      "Butenko, Anton": [
+        "42382"
+      ],
+      "Gonzalez, Carly": [
+        "42398",
+        "46097"
+      ],
+      "Giddings Aggleton, Jennifer": [
+        "40482",
+        "42399"
+      ],
+      "Tress, Marguerite": [
+        "41651",
+        "42401"
+      ],
+      "Hoang, Thanh": [
+        "40478"
+      ],
+      "Livingston, Tab": [
+        "40249",
+        "40419"
+      ],
+      "Boogar, Tyler": [
+        "40479"
+      ]
+    },
+    "A140 - Business Calculus": {
+      "Fazeli, Farimah": [
+        "40874",
+        "40875"
+      ],
+      "Heneks, Kasara": [
+        "40876",
+        "41967"
+      ],
+      "Guerra, Jorge": [
+        "40877"
+      ]
+    },
+    "A155 - Finite Math with Applications": {
+      "Meola, Frank": [
+        "40878"
+      ]
+    },
+    "A160 - Introduction to Statistics": {
+      "Guerra, Jorge": [
+        "42383"
+      ],
+      "Yi, Paul": [
+        "40467",
+        "42384"
+      ],
+      "Nguyen, Thu": [
+        "42385"
+      ],
+      "Cioczek-Georges, Renata": [
+        "42403",
+        "42407"
+      ],
+      "Nguyen, Dai": [
+        "42404",
+        "46015"
+      ],
+      "Chrispens, Adriana": [
+        "42405"
+      ],
+      "Pineda, Edward": [
+        "42406",
+        "46014"
+      ],
+      "Phan, Huyvu": [
+        "42408",
+        "42409"
+      ],
+      "Abdoli, Mansour": [
+        "40487",
+        "46016"
+      ],
+      "Cooley, Timothy": [
+        "46017",
+        "46018"
+      ],
+      "Ulloa, Daniel": [
+        "40863"
+      ],
+      "Ninh, Joseph": [
+        "41178",
+        "42147"
+      ],
+      "N/A": [
+        "42170"
+      ],
+      "Phan, Vu": [
+        "40486"
+      ]
+    },
+    "A170 - Precalculus": {
+      "Nguyen, Huy": [
+        "45989"
+      ],
+      "Avetisian, Sonia": [
+        "42179"
+      ],
+      "Bourouis-Benyassine, Aisha": [
+        "41160",
+        "41652"
+      ],
+      "Arismendi-Pardi, Eduardo": [
+        "41434"
+      ],
+      "Voicu, Mariana": [
+        "41190"
+      ],
+      "Chan, Robert T": [
+        "40491"
+      ],
+      "Koines, Andrew": [
+        "40347"
+      ]
+    },
+    "A180 - Calculus 1": {
+      "Moore, Arthur": [
+        "45990"
+      ],
+      "Koines, Andrew": [
+        "40053",
+        "40247",
+        "40494"
+      ],
+      "Ziemer, William": [
+        "40488",
+        "40713"
+      ],
+      "Muir, Robert": [
+        "40149"
+      ],
+      "Ternes, Linda": [
+        "40275",
+        "41830"
+      ],
+      "Hussain, Syed": [
+        "40110",
+        "40497"
+      ],
+      "Dubrovskiy, Stanislav": [
+        "40496"
+      ],
+      "Avetisian, Sonia": [
+        "41951"
+      ]
+    },
+    "A180H - Calculus 1 Honors": {
+      "Boogar, Tyler": [
+        "42115"
+      ]
+    },
+    "A185 - Calculus 2": {
+      "Voicu, Mariana": [
+        "41812"
+      ],
+      "Ternes, Linda": [
+        "41814",
+        "42093"
+      ],
+      "Dubrovskiy, Stanislav": [
+        "40711"
+      ],
+      "Boogar, Tyler": [
+        "40452"
+      ],
+      "Muir, Robert": [
+        "40712"
+      ],
+      "Avetisian, Sonia": [
+        "40490"
+      ]
+    },
+    "A185H - Calculus 2 Honors": {
+      "Lloyd, Douglas": [
+        "42526"
+      ]
+    },
+    "A220 - Intro to Symbolic Logic": {
+      "Otwell, Charles": [
+        "40474"
+      ]
+    },
+    "A235 - Applied Linear Algebra": {
+      "Northrup, Scott": [
+        "41653"
+      ]
+    },
+    "A280 - Calculus 3": {
+      "Voicu, Mariana": [
+        "45991"
+      ],
+      "Dubrovskiy, Stanislav": [
+        "40277"
+      ],
+      "Moore, Arthur": [
+        "40498"
+      ],
+      "Lloyd, Douglas": [
+        "41043",
+        "42032"
+      ]
+    },
+    "A280H - Calculus 3 Honors": {
+      "Moore, Arthur": [
+        "41838",
+        "41839",
+        "45992"
+      ],
+      "Lloyd, Douglas": [
+        "41840",
+        "42079"
+      ]
+    },
+    "A285 - Intro Linear Alg. & Diff Equa": {
+      "Moore, Arthur": [
+        "42593"
+      ],
+      "Voicu, Mariana": [
+        "40106"
+      ],
+      "Boogar, Tyler": [
+        "41436"
+      ],
+      "Northrup, Scott": [
+        "41813"
+      ]
+    },
+    "A285H - Intro Lin Alg & Diff Equa Hon": {
+      "Moore, Arthur": [
+        "41042"
+      ]
+    }
+  },
+  "Medical Assisting": {
+    "A181 - Clinical Medical Assisting 1": {
+      "Cottrell, Lynne": [
+        "45785",
+        "45786"
+      ]
+    },
+    "A205 - Administrative Medical Asstg 2": {
+      "Tapia, Anita": [
+        "40867",
+        "45789"
+      ]
+    },
+    "A289 - Clinical MA 2 Specialty Proced": {
+      "Cottrell, Lynne": [
+        "40208",
+        "45999"
+      ]
+    }
+  },
+  "Music": {
+    "A001N - Guitar Ensemble - Life Learner": {
+      "Pettit, Adam": [
+        "45857"
+      ]
+    },
+    "A002N - Wind Ensemble - Life Learner": {
+      "Wheaton, Dana": [
+        "45861"
+      ]
+    },
+    "A003N - OCC Symphony - Life Learner": {
+      "Kuzin, Maksym": [
+        "45860"
+      ]
+    },
+    "A012N - Choral Singing - Life Learner": {
+      "Rubenstein, Eliza": [
+        "45858"
+      ],
+      "Graham, Eric": [
+        "45859"
+      ]
+    },
+    "A100 - Hist & Appr of West Clas Music": {
+      "N/A": [
+        "41856"
+      ]
+    },
+    "A105 - Music from Bach to Rock": {
+      "Rubenstein, Eliza": [
+        "40672",
+        "41500"
+      ]
+    },
+    "A110 - Computers in Music 1": {
+      "N/A": [
+        "41492",
+        "41493"
+      ]
+    },
+    "A111 - Computers in Music 2": {
+      "N/A": [
+        "41494",
+        "41495"
+      ]
+    },
+    "A112 - Computers in Music 3": {
+      "Toh, Shauna": [
+        "41496"
+      ],
+      "Wheaton, Dana": [
+        "41497"
+      ]
+    },
+    "A113 - Computers in Music 4": {
+      "Toh, Shauna": [
+        "41498"
+      ],
+      "Wheaton, Dana": [
+        "41499"
+      ]
+    },
+    "A115 - Fundamentals of Music": {
+      "Hung, Emily": [
+        "41286",
+        "42588"
+      ],
+      "Kim, Janelle": [
+        "40044"
+      ],
+      "Pile, Randal": [
+        "41695"
+      ],
+      "Wheaton, Dana": [
+        "41862"
+      ]
+    },
+    "A116 - Basic Guitar": {
+      "Pile, Randal": [
+        "40014"
+      ],
+      "Koudymov, Dmitry": [
+        "41501"
+      ]
+    },
+    "A118 - Popular Vocal Techniques 1": {
+      "Walsh, Anne": [
+        "45894"
+      ]
+    },
+    "A119 - Popular Vocal Techniques 2": {
+      "Walsh, Anne": [
+        "45897"
+      ]
+    },
+    "A120 - College Choir": {
+      "Graham, Eric": [
+        "40673"
+      ]
+    },
+    "A122 - Chamber Singers": {
+      "Rubenstein, Eliza": [
+        "40070"
+      ]
+    },
+    "A129 - Guitar Ensemble": {
+      "Pettit, Adam": [
+        "41672"
+      ]
+    },
+    "A132 - Wind Ensemble": {
+      "Wheaton, Dana": [
+        "40504"
+      ]
+    },
+    "A133 - Orchestra": {
+      "Kuzin, Maksym": [
+        "40505"
+      ]
+    },
+    "A139 - History of Rock Music": {
+      "Mayor, Jeffrey": [
+        "41159"
+      ]
+    },
+    "A141 - Piano 1": {
+      "Hung, Emily": [
+        "40509"
+      ],
+      "Lee, Judy": [
+        "40510",
+        "40606"
+      ]
+    },
+    "A142 - Piano 2": {
+      "De Jong-Pombo, Teresa": [
+        "40017"
+      ],
+      "Lee, Judy": [
+        "40148"
+      ]
+    },
+    "A143 - History of Jazz": {
+      "Navidad, Apolinario": [
+        "40895"
+      ]
+    },
+    "A145 - Voice 1": {
+      "Smelser, Nadia": [
+        "40512",
+        "40513"
+      ],
+      "Ali, Susan": [
+        "40593"
+      ]
+    },
+    "A146 - Voice 2": {
+      "Smelser, Nadia": [
+        "40088"
+      ]
+    },
+    "A148 - Classical Guitar 1": {
+      "Pettit, Adam": [
+        "41487"
+      ]
+    },
+    "A149 - Classical Guitar 2": {
+      "Pettit, Adam": [
+        "41858"
+      ]
+    },
+    "A151 - Studio Guitar 1": {
+      "Murdy, David": [
+        "40516"
+      ]
+    },
+    "A152 - Studio Guitar 2": {
+      "Murdy, David": [
+        "40517"
+      ]
+    },
+    "A180 - Theory 1": {
+      "Navidad, Apolinario": [
+        "40521",
+        "40522"
+      ]
+    },
+    "A181 - Musicianship 1": {
+      "Kim, Janelle": [
+        "41287",
+        "41288"
+      ]
+    },
+    "A185 - Theory 2": {
+      "Navidad, Apolinario": [
+        "41863"
+      ]
+    },
+    "A186 - Musicianship 2": {
+      "Kim, Janelle": [
+        "41289"
+      ]
+    },
+    "A213 - Voice 3": {
+      "Hansen, Beth": [
+        "41488"
+      ]
+    },
+    "A214 - Voice 4": {
+      "Hansen, Beth": [
+        "41489"
+      ]
+    },
+    "A215 - Voice 5": {
+      "Hansen, Beth": [
+        "41490"
+      ]
+    },
+    "A216 - Voice 6": {
+      "Hansen, Beth": [
+        "41491"
+      ]
+    },
+    "A218 - Popular Vocal Techniques 3": {
+      "Walsh, Anne": [
+        "45892"
+      ]
+    },
+    "A219 - Popular Vocal Techniques 4": {
+      "Walsh, Anne": [
+        "45888"
+      ]
+    },
+    "A230 - Jazz Improvisation": {
+      "Wheaton, Dana": [
+        "40523"
+      ]
+    },
+    "A233 - Symph Chamber Orchestra": {
+      "Kuzin, Maksym": [
+        "40565"
+      ]
+    },
+    "A240 - Sophomore Recital": {
+      "Wheaton, Dana": [
+        "40161"
+      ]
+    },
+    "A241 - Piano 3": {
+      "De Jong-Pombo, Teresa": [
+        "40286"
+      ]
+    },
+    "A242 - Piano 4": {
+      "De Jong-Pombo, Teresa": [
+        "40524"
+      ]
+    },
+    "A248 - Classical Guitar 3": {
+      "Pettit, Adam": [
+        "40107"
+      ]
+    },
+    "A261 - Recordng Techniques 1": {
+      "Anderson, Dennis": [
+        "41290"
+      ]
+    },
+    "A265 - Recordng Techniques 2": {
+      "Anderson, Dennis": [
+        "41697"
+      ]
+    },
+    "A267 - Piano Master Class 1": {
+      "De Jong-Pombo, Teresa": [
+        "41842"
+      ]
+    },
+    "A268 - Piano Master Class 2": {
+      "De Jong-Pombo, Teresa": [
+        "41843"
+      ]
+    },
+    "A271 - Studio Guitar 3": {
+      "Murdy, David": [
+        "40529"
+      ]
+    },
+    "A272 - Studio Guitar 4": {
+      "Murdy, David": [
+        "40025"
+      ]
+    },
+    "A277 - Piano Master Class 3": {
+      "De Jong-Pombo, Teresa": [
+        "42295"
+      ]
+    },
+    "A278 - Piano Master Class 4": {
+      "De Jong-Pombo, Teresa": [
+        "42294"
+      ]
+    },
+    "A285 - Theory 4": {
+      "Navidad, Apolinario": [
+        "41133"
+      ]
+    },
+    "A286 - Musicianship 4": {
+      "Navidad, Apolinario": [
+        "41291"
+      ]
+    },
+    "A290 - Applied Music": {
+      "Rubenstein, Eliza": [
+        "41292"
+      ]
+    }
+  },
+  "Neurodiagnostic Technology": {
+    "A115 - Advanced EEG": {
+      "Liang, Tabitha": [
+        "40708",
+        "45787"
+      ]
+    },
+    "A116 - Clinical Experience 1": {
+      "Liang, Tabitha": [
+        "45788"
+      ]
+    },
+    "A190 - Intro Neuroanat & Phys": {
+      "Liang, Tabitha": [
+        "40054"
+      ]
+    },
+    "A191 - EEG Record Rev-Normal": {
+      "Liang, Tabitha": [
+        "45790"
+      ]
+    },
+    "A287 - EEG Record Rev-Abnormal": {
+      "Liang, Tabitha": [
+        "45793"
+      ]
+    }
+  },
+  "Nutrition Care": {
+    "A100 - Careers-Dietetics/FDSCI": {
+      "Blake, Elizabeth": [
+        "40820"
+      ]
+    },
+    "A180 - Intro Medi Nutr Therapy": {
+      "Blake, Elizabeth": [
+        "40859"
+      ]
+    },
+    "A285 - Advanced Nutrition Care": {
+      "Blake, Elizabeth": [
+        "42018"
+      ]
+    }
+  },
+  "Philosophy": {
+    "A100 - Introduction to Philosophy": {
+      "Ho, Bach": [
+        "40416",
+        "41989"
+      ],
+      "Law, Jerry": [
+        "41589"
+      ],
+      "Simpkin, Philip": [
+        "40290",
+        "40501",
+        "40856"
+      ],
+      "Markle, Gwynn": [
+        "40539"
+      ],
+      "Townsend, Toby": [
+        "41003",
+        "41519"
+      ]
+    },
+    "A115 - Philosophy of Religion": {
+      "Simpkin, Philip": [
+        "40361"
+      ]
+    },
+    "A120 - Ethics": {
+      "Watkins, Derrick": [
+        "40427"
+      ],
+      "Otwell, Charles": [
+        "41260",
+        "41261"
+      ],
+      "Majors, Daniel": [
+        "41415"
+      ]
+    },
+    "A150 - Critical Reasoning & Writing": {
+      "Vulich, Richard": [
+        "40548",
+        "41263"
+      ],
+      "Dzida, Andrew": [
+        "40528"
+      ],
+      "Grey, Gene": [
+        "40393",
+        "40547"
+      ],
+      "Monge, Michael": [
+        "40319",
+        "40526"
+      ],
+      "Law, Jerry": [
+        "41450"
+      ]
+    },
+    "A220 - Intro to Symbolic Logic": {
+      "Otwell, Charles": [
+        "40551"
+      ]
+    }
+  },
+  "Photography": {
+    "A101 - Photography & Society": {
+      "Luckring, Eve": [
+        "41243"
+      ]
+    },
+    "A109 - Smartphone Fashion Photography": {
+      "Ibranossian, Agatha": [
+        "45692"
+      ]
+    },
+    "A110 - Photography: Theory/Practice": {
+      "Mccall, Leslie": [
+        "41715"
+      ]
+    },
+    "A123 - Intro to Digital Photography": {
+      "Luckring, Eve": [
+        "45693"
+      ],
+      "Ibranossian, Agatha": [
+        "45694",
+        "45695",
+        "45696"
+      ],
+      "Mccall, Leslie": [
+        "42110",
+        "45697"
+      ],
+      "Gillissen, Blade": [
+        "41581",
+        "41582",
+        "41583"
+      ],
+      "Kraft, Richard": [
+        "42280"
+      ]
+    },
+    "A125 - Imaging with Photoshop 1": {
+      "Mccall, Leslie": [
+        "41718"
+      ]
+    },
+    "A241 - Business Practices": {
+      "Ibranossian, Agatha": [
+        "41878"
+      ]
+    },
+    "A260 - Art Portfolio Development 1": {
+      "Gillissen, Blade": [
+        "40564"
+      ]
+    },
+    "A261 - Art Portfolio Development 2": {
+      "Gillissen, Blade": [
+        "40178"
+      ]
+    },
+    "A262 - Commercial Portfolio Devel 1": {
+      "Gillissen, Blade": [
+        "41249"
+      ]
+    },
+    "A263 - Commercial Portfolio Devel 2": {
+      "Gillissen, Blade": [
+        "41250"
+      ]
+    },
+    "A264 - Exhibition Preparation 1": {
+      "Gillissen, Blade": [
+        "41251"
+      ]
+    },
+    "A265 - Exhibition Preparation 2": {
+      "Gillissen, Blade": [
+        "41252"
+      ]
+    },
+    "A266 - Marketing/Self Promotion 1": {
+      "Gillissen, Blade": [
+        "41253"
+      ]
+    },
+    "A267 - Marketing/Self Promotion 2": {
+      "Gillissen, Blade": [
+        "41254"
+      ]
+    },
+    "A283 - Art Photography": {
+      "Luckring, Eve": [
+        "41959"
+      ]
+    }
+  },
+  "Physics": {
+    "A110 - Conceptual Physics": {
+      "Guerra III, Arnold": [
+        "40281"
+      ],
+      "Drum, Stephen": [
+        "41231"
+      ]
+    },
+    "A120 - Algebra Based Physics: Mech": {
+      "Hamamura, Mark": [
+        "42089"
+      ],
+      "Timmons, Nicholas": [
+        "42090"
+      ]
+    },
+    "A120L - Algebra Based Phys:Mech Lab": {
+      "Faridi, Abbas": [
+        "41875"
+      ],
+      "Timmons, Nicholas": [
+        "40671"
+      ],
+      "Hamamura, Mark": [
+        "40394",
+        "40601"
+      ]
+    },
+    "A125 - Algebra Based Physics:Elec/Mag": {
+      "Hamamura, Mark": [
+        "41578"
+      ]
+    },
+    "A125L - Algebra Based PhysElec/Mag Lab": {
+      "Hamamura, Mark": [
+        "40451",
+        "42595"
+      ]
+    },
+    "A135 - Univ Physics 2 (non-majors)": {
+      "Guerra III, Arnold": [
+        "40171"
+      ]
+    },
+    "A135L - Univ Physics 2 (non-major) Lab": {
+      "N/A": [
+        "42516"
+      ]
+    },
+    "A185 - Calculus Based Physics:Mech": {
+      "N/A": [
+        "41904"
+      ],
+      "Godfrey, Neil": [
+        "41767"
+      ],
+      "Faridi, Abbas": [
+        "41768"
+      ]
+    },
+    "A185H - Calculus-Based Phys:Mech Honor": {
+      "Drum, Stephen": [
+        "41874"
+      ]
+    },
+    "A185L - Calc Based Physics: Mech Lab": {
+      "Drum, Stephen": [
+        "42603"
+      ],
+      "Godfrey, Neil": [
+        "40604",
+        "41232"
+      ],
+      "Guerra III, Arnold": [
+        "41675",
+        "41676"
+      ],
+      "N/A": [
+        "40038",
+        "40603"
+      ]
+    },
+    "A185M - Calculus-Based Phys Honors Lab": {
+      "Drum, Stephen": [
+        "42517"
+      ]
+    },
+    "A280 - Calculus Based Phys:Elec/Mag": {
+      "Faridi, Abbas": [
+        "40587"
+      ],
+      "Guerra III, Arnold": [
+        "41233"
+      ]
+    },
+    "A280L - Calc Based Phys: Elec/Mag Lab": {
+      "Guerra III, Arnold": [
+        "40457",
+        "41835"
+      ],
+      "Tseng, Tzu": [
+        "41055",
+        "41234",
+        "41677"
+      ]
+    },
+    "A285 - Calculus Based Physics:Modern": {
+      "Drum, Stephen": [
+        "41876"
+      ],
+      "Faridi, Abbas": [
+        "41869"
+      ]
+    },
+    "A285L - Calc Based Phys:Modern Lab": {
+      "Drum, Stephen": [
+        "41561",
+        "42600"
+      ],
+      "Faridi, Abbas": [
+        "40294",
+        "41877"
+      ]
+    }
+  },
+  "Political Science": {
+    "A101 - Survey of Current Issues": {
+      "Finley, Katelyn": [
+        "40605"
+      ]
+    },
+    "A110 - International Relations": {
+      "Coaty, Patrick": [
+        "40607"
+      ]
+    },
+    "A180 - American Government": {
+      "Masud, Melanie": [
+        "42460"
+      ],
+      "Drew, Rendell": [
+        "40320",
+        "40350",
+        "40368",
+        "40489",
+        "45864"
+      ],
+      "Marcina, Vesna": [
+        "40338",
+        "41510"
+      ],
+      "Coaty, Patrick": [
+        "40535",
+        "40617",
+        "40985"
+      ],
+      "Williams, Ann": [
+        "40608",
+        "40610"
+      ]
+    },
+    "A180H - American Government Honors": {
+      "Marcina, Vesna": [
+        "40027",
+        "40061"
+      ]
+    },
+    "A185 - Comparative Politics": {
+      "Marcina, Vesna": [
+        "41264"
+      ]
+    },
+    "A188 - Intro Political Theory": {
+      "Ball, Jason": [
+        "40720"
+      ]
+    }
+  },
+  "Polysomnography": {
+    "A100 - Polysomnography Basics": {
+      "Goya-Lane, Daniel": [
+        "42183"
+      ]
+    },
+    "A250 - PSG Record Review": {
+      "Goya-Lane, Daniel": [
+        "45795"
+      ]
+    },
+    "A260 - Advanced Polysomnography": {
+      "Goya-Lane, Daniel": [
+        "45796"
+      ]
+    },
+    "A265 - Polysomnography Clin 3": {
+      "Goya-Lane, Daniel": [
+        "45797"
+      ]
+    },
+    "A270 - Physician Lecture Series": {
+      "Goya-Lane, Daniel": [
+        "45798"
+      ]
+    },
+    "A285 - Polysomnography Intern": {
+      "Goya-Lane, Daniel": [
+        "45799"
+      ]
+    }
+  },
+  "Portuguese": {
+    "A180 - Elementary Portuguese 1": {
+      "Bevilaqua, Arlete": [
+        "42587"
+      ]
+    }
+  },
+  "Psychology": {
+    "A100 - Introduction to Psychology": {
+      "Schachat, Carol": [
+        "45865"
+      ],
+      "Winter, Amy": [
+        "45866"
+      ],
+      "Basile, Carol": [
+        "40821",
+        "45867"
+      ],
+      "Kang, Hannah": [
+        "40502"
+      ],
+      "Pham, Lien": [
+        "40612",
+        "40615"
+      ],
+      "Gonzales, Jarren": [
+        "40613"
+      ],
+      "Tangen, Kenneth": [
+        "40339"
+      ]
+    },
+    "A130 - Life Span Dvelpmntl Psyc": {
+      "Kang, Hannah": [
+        "40721",
+        "40822",
+        "41265",
+        "41911"
+      ]
+    },
+    "A160 - Stats for Behavior Sci": {
+      "Gonzales, Jarren": [
+        "40620",
+        "40722",
+        "42041"
+      ],
+      "Ingersoll, Brittany": [
+        "40723"
+      ],
+      "Ura, Masako": [
+        "41420"
+      ]
+    },
+    "A185 - Principles of Psychology": {
+      "Norris, Thomas": [
+        "40340",
+        "41266"
+      ]
+    },
+    "A190 - Cross-Cultural Psychology": {
+      "Schachat, Carol": [
+        "45868"
+      ]
+    },
+    "A220 - Psychology of Personality": {
+      "Smolin, James": [
+        "40581",
+        "40621",
+        "40715"
+      ]
+    },
+    "A250 - Psychobiology": {
+      "Cisco Reuter, Hilary": [
+        "42472",
+        "42473"
+      ],
+      "Ferguson, Melissa": [
+        "40310",
+        "40622",
+        "42138"
+      ]
+    },
+    "A255 - Abnormal Psychology": {
+      "Smolin, James": [
+        "40987",
+        "40988",
+        "40989"
+      ]
+    },
+    "A260 - Social Psychology": {
+      "Pham, Lien": [
+        "40344",
+        "40614"
+      ],
+      "Moeck, Heather": [
+        "40623"
+      ]
+    },
+    "A270 - Psychology of Learning": {
+      "Tangen, Kenneth": [
+        "40531"
+      ]
+    },
+    "A280 - Intro Expermntl Methods": {
+      "Rodriguez Cintron, Laris": [
+        "40545"
+      ],
+      "Ferguson, Melissa": [
+        "40345",
+        "40624"
+      ],
+      "Winter, Amy": [
+        "40609"
+      ],
+      "Connor, Lora": [
+        "41935"
+      ]
+    }
+  },
+  "Public Health": {
+    "A100 - Personal Health": {
+      "Brown, Diane": [
+        "42064",
+        "42068",
+        "42069"
+      ],
+      "N/A": [
+        "42065",
+        "42066"
+      ]
+    },
+    "A160 - Peer Health Education Level 1": {
+      "Brown, Diane": [
+        "42071"
+      ]
+    },
+    "A200 - Introduction to Public Health": {
+      "Hanlon, Anna": [
+        "42074"
+      ]
+    },
+    "A202 - Drugs, Health, and Society": {
+      "Brown, Diane": [
+        "42073"
+      ]
+    },
+    "A210 - Navigate US Healthcare, Ins,": {
+      "Halkia, Georgia": [
+        "45963"
+      ]
+    },
+    "A220 - Technique & Topic in Health Ed": {
+      "Brown, Diane": [
+        "45961"
+      ]
+    },
+    "A260 - Peer Health Education Level 2": {
+      "Brown, Diane": [
+        "42072"
+      ]
+    }
+  },
+  "Radiologic Technology": {
+    "A165 - Begin Radiologic Pract": {
+      "Holt, Kelly": [
+        "45800"
+      ]
+    },
+    "A175 - Positiong & Critique 2": {
+      "Holt, Kelly": [
+        "41579"
+      ]
+    },
+    "A175L - Positioning & Critique 2 Lab": {
+      "Holt, Kelly": [
+        "40625",
+        "40626"
+      ]
+    },
+    "A185 - Radiographic Pathology": {
+      "Holt, Kelly": [
+        "40112"
+      ]
+    },
+    "A211 - Adv Clinical Mammography Lab": {
+      "Holt, Kelly": [
+        "42025"
+      ]
+    },
+    "A212 - Advanced Clinical Lab CT": {
+      "Holt, Kelly": [
+        "42026"
+      ]
+    },
+    "A216 - Advanced Patient Care": {
+      "Holt, Kelly": [
+        "40730"
+      ]
+    },
+    "A221 - Topics in Mammography": {
+      "Holt, Kelly": [
+        "42623"
+      ]
+    },
+    "A265 - Digitl Image/Comptr App": {
+      "Sachs, Loren": [
+        "46158"
+      ]
+    },
+    "A275 - Positioning & Critique 4": {
+      "Mercene, Wendell": [
+        "41580"
+      ]
+    },
+    "A275L - Positioning & Critique 4 Lab": {
+      "Mercene, Wendell": [
+        "40627",
+        "40628"
+      ]
+    },
+    "A277 - Clinical Lab 7": {
+      "Holt, Kelly": [
+        "40602"
+      ]
+    },
+    "A285 - ARRT Board Prep": {
+      "Sachs, Loren": [
+        "40629"
+      ]
+    },
+    "A290 - Applied Physics/Fluoros": {
+      "Sachs, Loren": [
+        "40630"
+      ]
+    }
+  },
+  "Real Estate": {
+    "A110 - R E Principles": {
+      "Beau, Leslie": [
+        "40314",
+        "40579",
+        "40580"
+      ]
+    },
+    "A120 - Legal Aspects of R E": {
+      "Beau, Leslie": [
+        "40400"
+      ]
+    },
+    "A130 - Real Estate Practice": {
+      "Beau, Leslie": [
+        "40391"
+      ]
+    }
+  },
+  "Religious Studies": {
+    "A100 - Introduction Religious Studies": {
+      "Majors, Daniel": [
+        "40724"
+      ]
+    },
+    "A110 - World Religion": {
+      "Simpkin, Philip": [
+        "40318"
+      ]
+    },
+    "A115 - Philosophy of Religion": {
+      "Simpkin, Philip": [
+        "40091"
+      ]
+    }
+  },
+  "Respiratory Care": {
+    "A191 - Clinical Lab 1": {
+      "Montano, Christina": [
+        "40425"
+      ]
+    },
+    "A260 - Arterial Blood Gases": {
+      "Riggio, Alison": [
+        "41268"
+      ]
+    },
+    "A275 - Resp Care Procedures": {
+      "Riggio, Alison": [
+        "41854",
+        "45801"
+      ]
+    },
+    "A278 - Pulmonary Case Assessmt": {
+      "Riggio, Alison": [
+        "42575"
+      ]
+    },
+    "A280 - Critical Care Monitorng": {
+      "Riggio, Alison": [
+        "42574"
+      ]
+    },
+    "A285 - Pulmonary Func Testing": {
+      "Boutilier, Ann": [
+        "41785"
+      ]
+    },
+    "A285L - Pulmonary Func Testing Lab": {
+      "Boutilier, Ann": [
+        "40717",
+        "41906"
+      ]
+    },
+    "A286 - Clinical Lab 4": {
+      "Montano, Christina": [
+        "40632"
+      ]
+    },
+    "A287 - Clinical Internship": {
+      "Montano, Christina": [
+        "40634"
+      ]
+    },
+    "A290 - Neonatal Intensive Care": {
+      "Montano, Christina": [
+        "41861"
+      ]
+    },
+    "A296 - Resp Care Board Review": {
+      "Riggio, Alison": [
+        "42576"
+      ]
+    }
+  },
+  "Sociology": {
+    "A100 - Introduction to Sociology": {
+      "Fanego, Cristofer": [
+        "42043",
+        "45872"
+      ],
+      "Amescua, Juan": [
+        "45873"
+      ],
+      "Olsen, Alexandra": [
+        "45874"
+      ],
+      "Comley, Cassie": [
+        "41639",
+        "42045"
+      ],
+      "Pettus, Candice": [
+        "40992",
+        "40994",
+        "40995",
+        "42046"
+      ],
+      "Ridnor, Rachel": [
+        "40993",
+        "40996"
+      ],
+      "Vandervis, Melinda": [
+        "42042",
+        "42044"
+      ],
+      "Tanaka, Takahito": [
+        "40997"
+      ]
+    },
+    "A110 - Dating, Relationships,Marriage": {
+      "Pettus, Candice": [
+        "40636"
+      ],
+      "Vandervis, Melinda": [
+        "41006"
+      ]
+    },
+    "A150 - Introduction to Race/Ethnicity": {
+      "Lamorena Jr, Felix": [
+        "41361",
+        "42000"
+      ]
+    },
+    "A185 - Analysis of Social Problems": {
+      "Ridnor, Rachel": [
+        "40991",
+        "41692",
+        "42310"
+      ]
+    },
+    "A200 - Intro to Research Methods": {
+      "Olsen, Alexandra": [
+        "40990"
+      ]
+    }
+  },
+  "Spanish": {
+    "A180 - Elementary Spanish 1": {
+      "Villegas Bonno, Patricia": [
+        "45850"
+      ],
+      "Cabanel-Bleuer, Denise": [
+        "40248",
+        "41628"
+      ],
+      "Merlo, Adrienne": [
+        "41167"
+      ],
+      "Mora, Flory": [
+        "41168"
+      ],
+      "Sherman Falcioni, Jocelyn": [
+        "41194"
+      ],
+      "Brown, Jeffrey": [
+        "40429",
+        "42305"
+      ],
+      "Valle, Martin": [
+        "40438"
+      ],
+      "Bevilaqua, Arlete": [
+        "40473",
+        "40477"
+      ],
+      "Muelas, Mariaala": [
+        "40738",
+        "41815"
+      ]
+    },
+    "A180H - Elementary Spanish 1 Honors": {
+      "Sherman Falcioni, Jocelyn": [
+        "42468"
+      ]
+    },
+    "A185 - Elementary Spanish 2": {
+      "Cabanel-Bleuer, Denise": [
+        "42469"
+      ],
+      "Sherman Falcioni, Jocelyn": [
+        "42001"
+      ],
+      "Muelas, Mariaala": [
+        "40450"
+      ]
+    },
+    "A185H - Elementary Spanish 2 Honors": {
+      "Cabanel-Bleuer, Denise": [
+        "40083"
+      ]
+    },
+    "A285 - Intermediate Spanish 2": {
+      "Brown, Jeffrey": [
+        "40638"
+      ]
+    }
+  },
+  "Speech/Language Path Assist": {
+    "A140 - Intro to Comm Disorders": {
+      "N/A": [
+        "40016"
+      ]
+    },
+    "A150 - Intro to Phonetics": {
+      "N/A": [
+        "40032"
+      ]
+    },
+    "A200 - Adult & Geriatric Dis": {
+      "N/A": [
+        "40074"
+      ]
+    },
+    "A250 - SLPA Clinical 2": {
+      "N/A": [
+        "40035"
+      ]
+    }
+  },
+  "Theater Arts": {
+    "A100 - Introduction to Theatre": {
+      "Corley, Cynthia": [
+        "40459",
+        "46007"
+      ]
+    },
+    "A101 - Intro to Hist & Lit of Theatre": {
+      "Corley, Cynthia": [
+        "42091"
+      ]
+    },
+    "A105 - Drama And Acting": {
+      "Matulich, Joanne": [
+        "40515"
+      ],
+      "Kraemer, Bethany": [
+        "40518"
+      ]
+    },
+    "A106 - Acting Fundamentals": {
+      "Bruno, Thomas": [
+        "40538"
+      ],
+      "Uribe, Peter": [
+        "40563"
+      ]
+    },
+    "A107 - Acting 2": {
+      "Bruno, Thomas": [
+        "40591"
+      ]
+    },
+    "A115 - Act for Camera & Stage": {
+      "Bruno, Thomas": [
+        "42302"
+      ]
+    },
+    "A131 - OCC Theatre Repertory 1": {
+      "Bruno, Thomas": [
+        "41515"
+      ]
+    },
+    "A132 - OCC Theatre Repertory 2": {
+      "Bruno, Thomas": [
+        "41504"
+      ]
+    },
+    "A133 - OCC Theatre Repertory 3": {
+      "Bruno, Thomas": [
+        "41597"
+      ]
+    },
+    "A134 - OCC Theatre Repertory 4": {
+      "Bruno, Thomas": [
+        "41596"
+      ]
+    },
+    "A177 - Make-Up": {
+      "Scaglione, David": [
+        "41920"
+      ]
+    },
+    "A206 - Acting 3": {
+      "Bruno, Thomas": [
+        "40532"
+      ]
+    },
+    "A207 - Acting 4": {
+      "Bruno, Thomas": [
+        "40533"
+      ]
+    }
+  },
+  "Tutoring": {
+    "A050N - Supervised Tutoring Noncredit": {
+      "N/A": [
+        "42055"
+      ]
+    },
+    "A090N - Tutoring Skills 1 Noncredit": {
+      "N/A": [
+        "42181"
+      ]
+    },
+    "A091N - Tutoring Skills 2 Noncredit": {
+      "N/A": [
+        "42182"
+      ]
+    }
+  },
+  "Vietnamese": {
+    "A185 - Elementary Vietnamese 2": {
+      "Tran, Thomas": [
+        "41603"
+      ]
+    }
+  },
+  "Welding Technology": {
+    "A100 - Arc & Oxy-acetylene": {
+      "Lannom, Michael": [
+        "40335"
+      ],
+      "Wells, Shannon": [
+        "40639"
+      ],
+      "Budwig, Eric": [
+        "40640",
+        "41472"
+      ]
+    },
+    "A101 - Arc & Oxy-acetylene": {
+      "Maxwell, John": [
+        "46092"
+      ],
+      "Budwig, Eric": [
+        "40619",
+        "40641"
+      ],
+      "Lannom, Michael": [
+        "40657"
+      ]
+    },
+    "A102 - Weld Test GMAW 1": {
+      "Lannom, Michael": [
+        "40642"
+      ]
+    },
+    "A103 - Weld Test GMAW 2": {
+      "Lannom, Michael": [
+        "40643"
+      ]
+    },
+    "A104 - Weld Test GTAW": {
+      "Lannom, Michael": [
+        "40644"
+      ]
+    },
+    "A105 - Weld Test Basic": {
+      "Lannom, Michael": [
+        "40645"
+      ]
+    },
+    "A106 - Weld Test Intermediate": {
+      "Lannom, Michael": [
+        "40646"
+      ]
+    },
+    "A107 - Weld Test Advanced 1": {
+      "Lannom, Michael": [
+        "40647"
+      ]
+    },
+    "A108 - Weld Test Advanced 2": {
+      "Lannom, Michael": [
+        "40648"
+      ]
+    },
+    "A109 - Weld Test FCAW 1": {
+      "Lannom, Michael": [
+        "40649"
+      ]
+    },
+    "A110 - Weld Test FCAW 2": {
+      "Lannom, Michael": [
+        "40650"
+      ]
+    },
+    "A111 - Weld Test Pipe": {
+      "Lannom, Michael": [
+        "40651"
+      ]
+    },
+    "A120 - Math & Layout for Welders": {
+      "Lannom, Michael": [
+        "46093"
+      ]
+    },
+    "A130 - Gas Tungsten Arc Weld Level 1": {
+      "Lannom, Michael": [
+        "40047"
+      ],
+      "Johnson, Troy": [
+        "40652"
+      ]
+    },
+    "A131 - Gas Tungsten Arc Weld Level 2": {
+      "Johnson, Troy": [
+        "41310"
+      ],
+      "Lannom, Michael": [
+        "41311"
+      ]
+    },
+    "A140 - Occupational Welding Level 1": {
+      "Wells, Shannon": [
+        "41312"
+      ]
+    },
+    "A141 - Occupational Welding Level 2": {
+      "Wells, Shannon": [
+        "41313"
+      ]
+    },
+    "A142 - Occupational Welding Level 3": {
+      "Wells, Shannon": [
+        "41314"
+      ]
+    },
+    "A143 - Occupational Welding Level 4": {
+      "Wells, Shannon": [
+        "41315"
+      ]
+    },
+    "A200 - Advanced Welding": {
+      "Budwig, Eric": [
+        "40653"
+      ]
+    },
+    "A201 - Advanced Welding": {
+      "Budwig, Eric": [
+        "40654"
+      ]
+    },
+    "A211 - GasMetalArc Weld Traing Levl 1": {
+      "Brenneman, Joy": [
+        "41347",
+        "41348"
+      ]
+    },
+    "A212 - GasMetalArc Weld Traing Levl 2": {
+      "Brenneman, Joy": [
+        "41349"
+      ],
+      "N/A": [
+        "41350"
+      ]
+    },
+    "A223 - Advanced Welding Level 1": {
+      "Wells, Shannon": [
+        "41322"
+      ]
+    },
+    "A224 - Advanced Welding Level 2": {
+      "Wells, Shannon": [
+        "41323"
+      ]
+    },
+    "A225 - Advanced Welding Level 3": {
+      "Wells, Shannon": [
+        "41324"
+      ]
+    },
+    "A226 - Advanced Welding Level 4": {
+      "Wells, Shannon": [
+        "41325"
+      ]
+    },
+    "A250 - Pipe Welding Level 1": {
+      "N/A": [
+        "40458"
+      ]
+    },
+    "A251 - Pipe Welding Level 2": {
+      "N/A": [
+        "41326"
+      ]
+    },
+    "A252 - Pipe Welding Level 3": {
+      "N/A": [
+        "41327"
+      ]
+    },
+    "A253 - Pipe Welding Level 4": {
+      "N/A": [
+        "41328"
+      ]
+    },
+    "A255 - Orbital Welding Level 1": {
+      "N/A": [
+        "40077"
+      ]
+    },
+    "A256 - Orbital Welding Level 2": {
+      "N/A": [
+        "41329"
+      ]
+    }
+  }
+}

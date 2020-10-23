@@ -1,0 +1,147 @@
+.accountPanel {
+  position: fixed;
+  width: 304px;
+  top: 64px;
+  right: 8px;
+  color: #172b4d;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Noto Sans,Ubuntu,Droid Sans,Helvetica Neue,sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 400;
+  background-color: #fff;
+  border-radius: 3px;
+  box-shadow: 0 8px 16px -4px rgba(9,30,66,.25), 0 0 0 1px rgba(9,30,66,.08);
+  box-sizing: border-box;
+  outline: 0;
+  overflow: hidden;
+}
+
+.header {
+  margin-bottom: 8px;
+  padding: 0 12px;
+  position: relative;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 12px 1fr 12px;
+}
+
+.headerText {
+  overflow: hidden;
+  padding: 0 32px;
+  text-overflow: ellipsis;
+  font-size: 14px;
+  font-weight: 400;
+  border-bottom: 1px solid rgba(9,30,66,.13);
+  color: #5e6c84;
+  height: 40px;
+  display: block;
+  line-height: 40px;
+  margin: 0;
+  position: relative;
+  white-space: nowrap;
+  grid-column: 1/span 3;
+  grid-row: 1;
+}
+
+.closeBtn {
+  grid-column: 3;
+  grid-row: 1;
+  background: transparent;
+  border: none;
+  color: #6b778c;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+  z-index: 2;
+  outline: none;
+  box-sizing: border-box;
+  border-radius: 3px;
+  display: inline-block;
+  line-height: 20px;
+  text-decoration: none;
+  position: relative;
+  font-size: 14px;
+  font-weight: 400;
+
+  &:focus {
+    outline: none;
+  }
+
+  &:hover {
+    color: #172b4d;
+  }
+}
+
+.closeIcon {
+  height: auto;
+  width: 10px;
+  color: currentcolor;
+  display: inline-block;
+  fill: rgb(255, 255, 255);
+  flex-shrink: 0;
+  line-height: 1;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.navContainer {
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding: 12px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  max-height: 433px;
+}
+
+.navButton {
+  background-color: transparent;
+  border: none;
+  background: #fff;
+  border-radius: 0;
+  box-shadow: none;
+  color: #172b4d;
+  display: block;
+  height: 100%;
+  padding: 6px 12px;
+  text-align: left;
+  text-decoration: none;
+  width: 100%;
+  transition: none;
+  margin: 0;
+  outline: 0;
+  cursor: pointer;
+
+  &:hover {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    color: #172b4d;
+    background: rgba(9,30,66,.04);
+  }
+}
+
+.navInfo {
+  background-color: transparent;
+  border: none;
+  background: #fff;
+  border-radius: 0;
+  box-shadow: none;
+  color: #666666;
+  display: block;
+  height: 100%;
+  padding: 6px 12px;
+  text-align: left;
+  text-decoration: none;
+  width: 100%;
+  margin: 0;
+  outline: 0;
+}
+
+.navText {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}

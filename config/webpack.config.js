@@ -292,6 +292,8 @@ module.exports = function(webpackEnv) {
         // https://www.smashingmagazine.com/2016/08/a-glimpse-into-the-future-with-react-native-for-web/
         'react-native': 'react-native-web',
         'shared': path.resolve(paths.appSrc, 'shared'),
+        'landing': path.resolve(paths.appSrc, 'scenes/Landing'),
+        'app': path.resolve(paths.appSrc, 'scenes/App'),
         // Allows for better profiling with ReactDevTools
         ...(isEnvProductionProfile && {
           'react-dom$': 'react-dom/profiling',

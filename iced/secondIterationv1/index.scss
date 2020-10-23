@@ -1,0 +1,25 @@
+@import '~shared/styles/main';
+
+@font-face {
+  font-family: "Whitney";
+  font-weight: 500;
+  src: local("Whitney"), url("./shared/fonts/whitneymedium.otf") format("opentype");
+}
+@font-face {
+  font-family: "Whitney";
+  font-weight: 400;
+  src: local("Whitney"), url("./shared/fonts/whitneybook.otf") format("opentype");
+}
+@font-face {
+  font-family: "Whitney";
+  font-weight: 600;
+  src: local("Whitney"), url("./shared/fonts/whitneysemibold.otf") format("opentype");
+}
+
+body {
+  padding-top: 3.5rem;
+}
+html {
+  height: 100%;
+  overflow-scrolling: touch;
+}

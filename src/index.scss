@@ -1,4 +1,5 @@
 @import '~shared/styles/main';
+
 @font-face {
   font-family: "Whitney";
   font-weight: 500;
@@ -15,106 +16,10 @@
   src: local("Whitney"), url("./shared/fonts/whitneysemibold.otf") format("opentype");
 }
 
-// Colors
 :root {
-  --brand: #7289da;
-  --brand-gradient: linear-gradient(90deg,#8ea1e1,#7289da);
-  --greyple: #99aab5;
-  --dark-not-black: #2c2f33;
-  --focus-border: #00b0f4;
-  --status-green: #43b581;
-  --text-link: #00b0f4;
-  --off-white: #f6f6f6;
-  --white: #fff;
-  --not-quite-black: #23272a;
-  --not-quite-black-rgb: 35,39,42;
-  --black: #000;
-  --page-max-width: 1260px;
-  --num-grid-columns: 4;
-  --page-gutter: 24px;
-  --section-spacing: 56px;
+  --large-screen: 768px;
 }
-
-body {
-  background: #fff;
-  color: #000;
-}
-
-// Normalize
-a, abbr, acronym, address, applet, big, blockquote, body, button, caption, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, h6, html, iframe, img, input, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, ul, var {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-weight: inherit;
-  font-style: inherit;
-  font-family: inherit;
-  font-size: 100%;
-  vertical-align: baseline;
-}
-
-a {
-  text-decoration: none;
-}
-
-body {
-  text-rendering: optimizeLegibility;
-  font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
-  font-weight: 400;
-  line-height: 1.15;
-}
-
-button {
-  appearance: none;
-  background-color: transparent;
-}
-
-ol, ul {
-  list-style: none;
-}
-
-// App CSS
-:root {
-  --page-max-width: 1260px;
-  --num-grid-columns: 4;
-  --page-gutter: 24px;
-  --section-spacing: 56px;
-
-  @include media-min-width(sm) {
-    --num-grid-columns: 8;
-    --page-gutter: 40px;
-    --section-spacing: 80px;
-  }
-
-  @include media-min-width(lg) {
-    --num-grid-columns: 12;
-    --section-spacing: 120px;
-  }
-}
-
 html {
   height: 100%;
   overflow-scrolling: touch;
-}
-
-body {
-  min-width: 1000px;
-}
-
-@include media-max-width(lg) {
-  body, html {
-    min-width: 824px;
-  }
-}
-
-@include media-max-width(md) {
-  body, html {
-    min-width: 320px;
-  }
-}
-
-@include media-max-width(sm) {
-  body, html {
-    min-width: 320px;
-  }
 }

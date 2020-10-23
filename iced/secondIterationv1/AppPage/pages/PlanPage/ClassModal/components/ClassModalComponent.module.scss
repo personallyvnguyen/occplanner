@@ -1,0 +1,42 @@
+.backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,.3);
+  z-index: 9999;
+}
+
+.panel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  z-index: 9999;
+  margin-top: 60px;
+  max-width: 1000px;
+  height: 740px;
+}
+
+.headerCloseBtn:focus {
+  outline: none;
+}
+
+.modalHeader {
+  align-items: center;
+}
+
+.filterInput {
+  max-width: 300px;
+  margin-left: 16px;
+}
+
+.modalTitle {
+  font-size: 22px;
+}
+
+.listBtn:focus {
+  outline: none;
+}

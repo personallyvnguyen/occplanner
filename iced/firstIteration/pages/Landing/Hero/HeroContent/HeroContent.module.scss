@@ -1,0 +1,30 @@
+@import '~shared/styles/main';
+
+.heroContent {
+  margin-bottom: 0;
+}
+
+.heroContainer {
+  margin: 4rem auto;
+
+  @include media-min-width(lg) {
+    max-width: 824px;
+  }
+}
+
+.leadContainer {
+  @include media-min-width(lg) {
+    max-width: 628px;
+  }
+}
+
+.ctaContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.twoButtons {
+  margin-right: 24px;
+}
