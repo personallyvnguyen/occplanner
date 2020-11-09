@@ -1,17 +1,14 @@
 import React from 'react';
-import Hero from './Hero/Hero';
 import PageMeta from './PageMeta/PageMeta';
-// import {Content} from './Content/Content';
-// import {HeroContent} from './HeroContent/HeroContent';
+import Hero from './Hero/Hero';
+import Content from './Content/Content';
+import Footer from 'landing/components/Footer/Footer';
 
 export default function Home() {
   return (
     <div>
       <PageMeta />
-      <Hero>
-        {/* <Header /> */}
-        {/* <HeroContent /> */}
-      </Hero>
+      <Hero />
       {/* <Content /> */}
       {/* <Footer /> */}
     </div>

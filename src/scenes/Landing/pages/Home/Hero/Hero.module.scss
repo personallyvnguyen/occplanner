@@ -1,18 +1,8 @@
-
-
 .grid {
   width: 100%;
   display: flex;
   align-items: center;
   flex-direction: column;
-}
-.heroBackground {
-  background: linear-gradient(0deg,#7196ff -.45%,#2a5ee8 71.18%);
-  position: relative;
-  overflow: hidden;
-  @media screen and (min-width: 768px) {
-    min-height: 626px;
-  }
 }
 .heroBackground {
   background: linear-gradient(0deg,#ffc782 -.45%,#f78216 71.18%);

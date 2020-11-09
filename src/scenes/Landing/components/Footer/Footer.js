@@ -1,9 +1,9 @@
 import React from 'react';
-import {landing} from 'shared/styles';
+import styles from './Footer.module.scss';
 
 export default function Footer() {
   return (
-    <footer className={landing.footer}>
+    <footer className={styles.footer}>
       <FooterItems />
       <ScrollTop />
     </footer>
@@ -19,7 +19,7 @@ const FooterItems = () => (
 );
 
 const ScrollTop = () => (
-  <p className={landing.scrollTop}>
+  <p className={styles.scrollTop}>
     <a href="#">Back to top</a>
   </p>
 );

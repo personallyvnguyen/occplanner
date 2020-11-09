@@ -1,9 +1,9 @@
 import React from 'react';
-import {landing} from 'shared/styles';
+import styles from './Content.module.scss';
 
 export default function Content() {
   return (
-    <div className={landing.contentContainer}>
+    <div className={styles.contentContainer}>
       <Featurettes />
     </div>
   );
@@ -33,19 +33,19 @@ const Featurettes = () => {
 
 const Featurette = ({heading, lead, divider}) => (
   <>
-    <div className={landing.row}>
-      <div className={landing.column}>
-        <h2 className={landing.featuretteHeading}>{heading}</h2>
-        <p className={landing.featuretteLead}>{lead}</p>
+    <div className={styles.row}>
+      <div className={styles.column}>
+        <h2 className={styles.featuretteHeading}>{heading}</h2>
+        <p className={styles.featuretteLead}>{lead}</p>
       </div>
-      <div className={landing.column}>
+      <div className={styles.column}>
         <img 
-          className={landing.featuretteImg} 
+          className={styles.featuretteImg} 
           src="https://via.placeholder.com/500" 
-          alt="Generic placeholder image" 
+          alt="Generic placeholder" 
         />
       </div>
     </div>
-    {divider && <hr className={landing.featuretteDivider} />}
+    {divider && <hr className={styles.featuretteDivider} />}
   </>
 );

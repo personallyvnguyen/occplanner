@@ -17,7 +17,21 @@
 }
 
 :root {
-  --large-screen: 768px;
+  --brand: ;
+  --not-quite-black: #23272a;
+  --white: #fff;
+}
+:root {
+  --page-max-width: 1260px;
+  --page-gutter: 24px;
+  --section-spacing: 56px;
+  @media screen and (min-width: 768px) {
+    --page-gutter: 40px;
+    --section-spacing: 80px;
+  }
+  @media screen and (min-width: 1024px) {
+    --section-spacing: 120px;
+  }
 }
 html {
   height: 100%;

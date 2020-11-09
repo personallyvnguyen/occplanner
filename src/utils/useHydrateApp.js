@@ -9,9 +9,7 @@ export default function useHydrateApp() {
     if (userObj) {
       try {
         const {loggedIn, displayName} = userObj;
-        if (loggedIn && displayName) {
-          dispatch(logIn(displayName));
-        };
+        if (loggedIn && displayName) dispatch(logIn(displayName));
       } catch (e) {
         console.error(`Local storage 'user' object could not be parsed.\n`, e);
       }

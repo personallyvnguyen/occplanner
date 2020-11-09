@@ -1,0 +1,29 @@
+.button {
+  border-radius: 50%;
+  line-height: 24px;
+  cursor: pointer;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  box-sizing: border-box;
+  transition-property: background-color,color,box-shadow;
+  transition-duration: .2s;
+  transition-timing-function: ease-in-out;
+  &:hover {
+    box-shadow: 0 8px 15px rgba(0,0,0,.2);
+  }
+}
+
+.buttonWhite {
+  background-color: var(--white);
+  color: var(--not-quite-black);
+  &:hover {
+    color: var(--brand);
+  }
+}
+
+.buttonSmall {
+  border-radius: 40px;
+  font-size: 14px;
+  padding: 7px 16px;
+}

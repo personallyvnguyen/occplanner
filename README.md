@@ -13,7 +13,7 @@ Libraries Used:
 Code Guidelines:
 - Order class selectors by generic to specific (e.g. sharedStyles -> landingStyles -> styles).
 - The CSS cascade stack for each element needs to be in order (check in Chrome Inspect).
-- Order imports alphabetically.
+- Order imports based on what makes sense structurally.
 - No blank line at end of file.
 - Use functional components with arrow functions.
 - Max column size of 80.
@@ -41,6 +41,7 @@ Notices:
 - You can pass props like className to items just by doing {...props}.
 - Order styles index.js export files by cascade order.
 - If you architect your code correctly, you won't have to import a bunch of components all into a single file. Break it up.
+- It's useful to keep the shared folder expanded.
 
 Todo:
 - Will returning a value in useEffect break it?
